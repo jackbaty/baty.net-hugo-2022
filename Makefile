@@ -15,6 +15,6 @@ checkpoint:
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 
 deploy: build checkpoint
-	git push
+	#git push
 	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
 	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
