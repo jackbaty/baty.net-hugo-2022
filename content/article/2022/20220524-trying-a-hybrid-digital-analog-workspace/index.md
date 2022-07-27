@@ -6,7 +6,6 @@ slug = "trying-a-hybrid-digital-analog-workspace"
 categories = ["Workflow"]
 draft = false
 weight = 0
-featuredImage = "20220608-workspace.jpeg"
 +++
 
 Long story short, I have successfully rationalized the purchase of a new iPad Pro and keyboard.
