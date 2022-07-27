@@ -3,6 +3,7 @@ title = "Life Stack"
 lastmod = 2022-07-24T05:51:38-04:00
 weight = 0
 toc = true
+url = "/lifestack/"
 +++
 
 ## What’s a “Life Stack”?

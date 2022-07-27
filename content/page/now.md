@@ -3,6 +3,7 @@ title = "Now"
 date = 2022-04-23T04:58:16-04:00
 draft = false
 weight = 0
+url = "/now/"
 +++
 
 What I'm doing as of **Tuesday, April  23, 2022**

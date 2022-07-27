@@ -3,6 +3,7 @@ title = "About"
 lastmod = 2022-07-24T05:51:38-04:00
 draft = false
 weight = 0
+url = "/about/"
 +++
 
 {{< figure src="./jack-headshot-250.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Your host, Jack Baty" class="imgRightMargin" >}}
