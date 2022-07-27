@@ -13,3 +13,8 @@ blockquote p:last-of-type a, blockquote p:last-of-type::before {
 mark {
 background: rgba(255, 255, 0, 0.3);
 }
+
+.image-right {
+  float: right;
+  margin: 10px 10px 10px 10px;
+}
