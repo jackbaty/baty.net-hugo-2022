@@ -1,0 +1,20 @@
+---
+title: 'Roll-051: (Nikon F-100/Fuji Superia)'
+author: Jack
+date: 2022-01-13T17:41:08+00:00
+url: /2022/roll-051-nikon-f-100-fuji-superia/
+featuredImage: /wp-content/uploads/2022/01/2022-Roll-051_10-positive.jpg
+categories:
+  - Photography
+tags:
+  - Film
+  - Nikon
+
+---
+I discovered, while rummaging through a drawer, that my Nikon F-100 was loaded with film; Fujifilm Superia, a color film. I&#8217;ve pretty much sworn off color, but what the hell, I threw a little Godox flash on the F-100 and burned through the rest of the roll. I still had some C-41 chemistry mixed, but it was well past its prime.
+
+As is often the case with color film, it was a bust. For some reason the Flash, while it seemed to be firing, left most frames wildly under-exposed. There&#8217;s no getting away with underexposing color film. The results were mostly horrible. Oh well. It was fun to use the Nikon again.<figure class="wp-container-8 wp-block-gallery-624ad30832da4 wp-block-gallery has-nested-images columns-2 is-cropped"> <figure class="wp-block-image size-large">
+
+<img loading="lazy" width="1024" height="713" data-id="2601"  src="http://baty.net/wp-content/uploads/2022/01/2022-Roll-051_06-positive-1024x713.jpg" alt="" class="wp-image-2601" srcset="https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_06-positive-1024x713.jpg 1024w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_06-positive-300x209.jpg 300w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_06-positive-768x534.jpg 768w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_06-positive-1536x1069.jpg 1536w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_06-positive.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="749" data-id="2602"  src="http://baty.net/wp-content/uploads/2022/01/2022-Roll-051_10-positive-1024x749.jpg" alt="" class="wp-image-2602" srcset="https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_10-positive-1024x749.jpg 1024w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_10-positive-300x219.jpg 300w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_10-positive-768x561.jpg 768w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_10-positive-1536x1123.jpg 1536w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_10-positive.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="695" data-id="2603"  src="http://baty.net/wp-content/uploads/2022/01/2022-Roll-051_14-positive-1024x695.jpg" alt="" class="wp-image-2603" srcset="https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_14-positive-1024x695.jpg 1024w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_14-positive-300x203.jpg 300w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_14-positive-768x521.jpg 768w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_14-positive-1536x1042.jpg 1536w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_14-positive.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> <figure class="wp-block-image size-large"><img loading="lazy" width="695" height="1024" data-id="2604"  src="http://baty.net/wp-content/uploads/2022/01/2022-Roll-051_22-positive-695x1024.jpg" alt="" class="wp-image-2604" srcset="https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_22-positive-695x1024.jpg 695w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_22-positive-203x300.jpg 203w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_22-positive-768x1132.jpg 768w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_22-positive-1042x1536.jpg 1042w, https://baty.net/wp-content/uploads/2022/01/2022-Roll-051_22-positive.jpg 1389w" sizes="(max-width: 695px) 100vw, 695px" /></figure> </figure> 
+
+This has happened before: <a href="http://baty.net/2020/very-expired-ektar-25/" data-type="post" data-id="110">Very expired Ektar 25</a>

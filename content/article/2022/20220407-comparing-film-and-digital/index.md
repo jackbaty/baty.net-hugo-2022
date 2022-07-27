@@ -7,7 +7,6 @@ tags: ["Leica", "Analog", "Film"]
 categories: ["Photography"]
 draft: false
 weight: 0
-featuredImage: "Preview.png"
 ---
 
 I had lunch with my parents recently and took a few photos with both my film and digital cameras. I shot about the same number of photos with each camera, with close to the same number of "keepers". Which do I prefer?
@@ -30,5 +29,3 @@ Additionally, I can make beautiful silver gelatin prints of the film photo in my
 
 I'll probably always shoot both film and digital, but more often than not I prefer the results I get from film.
 
-[//]: # "Exported with love from a post written in Org mode"
-[//]: # "- https://github.com/kaushalmodi/ox-hugo"

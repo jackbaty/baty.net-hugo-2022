@@ -8,6 +8,7 @@ draft: false
 weight: 0
 featuredImagePreview: "Preview.png"
 featuredImage: "Featured.png"
+resizeImages: false
 ---
 
 I recently read Joe McNally's book, [The Real Deal: Field Notes from the Life of a Working Photographer](https://www.amazon.com/Real-Deal-Field-Working-Photographer/dp/1681988011/). While I found his anecdotes occasionally interesting, I didn't really enjoy the book. I think this was because I don't much care for McNally's photographs. Here's one of his portraits.
