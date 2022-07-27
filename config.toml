@@ -1,5 +1,5 @@
 title = "Jack Baty"
-baseURL = "https://v9.baty.net/"
+baseURL = "https://baty.net/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 #theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
