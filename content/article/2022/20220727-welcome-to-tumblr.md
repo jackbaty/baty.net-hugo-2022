@@ -1,8 +1,10 @@
 +++
 title = "Welcome to Tumblr"
 date = 2022-07-27T06:47:00-04:00
-lastmod = 2022-07-27T07:11:37-04:00
+lastmod = 2022-07-27T07:13:20-04:00
 slug = "welcome-to-tumblr"
+tags = ["blogging", "Hugo"]
+categories = ["Meta"]
 draft = false
 weight = 0
 +++

@@ -1735,7 +1735,7 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: article/2022
 :END:
 *** July 2022
-**** DONE Welcome to Tumblr
+**** DONE Welcome to Tumblr  :@Meta:blogging:Hugo:
 CLOSED: [2022-07-27 Wed 06:47]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 20220727-welcome-to-tumblr
