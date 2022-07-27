@@ -193,4 +193,4 @@ disqusShortname = ""
 
 [permalinks]
   article = '/:year/:slug/'
-  page = '/:slug/'
+
