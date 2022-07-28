@@ -14,7 +14,7 @@
 
 * Drafts
 * Daily
-** 2022 :@Daily:
+** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
@@ -1380,7 +1380,7 @@ New [[https://psychedelicporncrumpets.bandcamp.com/album/night-gnomes][︎Psyche
 Lately I've found it {{{mark(hard to write actual blog posts)}}}. I don't mind tossing a sentence or two in these daily posts but to actually sit down and put together a coherent set of thoughts has been...elusive.
 
 Here's a {{{mark(photo of Alice)}}} from the latest roll (Tri-X):
-@@html: {{< image src="2022-Roll-66_05.jpg" caption="Alice, 2022. Leica MP, 35mm Summilux, Tri-X" >}}@@
+@@html: {{< figure src="2022-Roll-66_05.jpg" caption="Alice, 2022. Leica MP, 35mm Summilux, Tri-X" >}}@@
 
 
 #+begin_quote
@@ -2478,7 +2478,7 @@ Here I'm showing one of each, digital and film, of my favorite from the visit.
 
 {{{img(MomFilm.jpg, Film: Leica MP (HP5 Plus))}}}
 
-@@html:{{< image src="MomDigital.jpg" caption="Digital: Leica M10-R (B&W conversion in Silver Efex)" >}}@@
+@@html:{{< figure src="MomDigital.jpg" caption="Digital: Leica M10-R (B&W conversion in Silver Efex)" >}}@@
 
 I prefer the film image. I manipulated the digital shot in Silver Efex Pro and added a bit of grain to try and get the look I like, but I still prefer the film image.
 
