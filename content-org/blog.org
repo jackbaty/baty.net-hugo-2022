@@ -16,8 +16,7 @@
 * Daily
 ** 2022 :@Daily:
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: daily/2022
-:DIR:  ./
+:EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** July 2022
 **** DONE Tuesday, July 26, 2022
@@ -34,7 +33,6 @@ CLOSED: [2022-07-26 Tue 05:04]
 I'm 58 years old today.
 
 Phil knows what it's like to [[https://youneedastereo.com/#2022-07-24%20where%20to%20put%20and%20keep%20info][waffle on how notes should work]].
-
 
 **** DONE Monday, July 25, 2022
 CLOSED: [2022-07-25 Mon 05:20]
@@ -1754,7 +1752,6 @@ I dislike modern blog themes. They all seem to think I want a giant hero image a
 I knew I liked [[https://github.com/Lednerb/bilberry-hugo-theme][the Bilberry theme]] as soon as I saw it. It's very Tumblr-esque, with its small, isolated posts and its post "types" for different kinds of content.
 
 So I ported my content over, made a few tweaks, and here we are. You'll notice the lack of a "Journal" post each day. I haven't decided whether to spend the time implementing that or if I'll just go back to using daily.baty.net.
-
 
 **** DONE Roll-078 (Leica MP)
 CLOSED: [2022-07-25 Mon 05:52]
