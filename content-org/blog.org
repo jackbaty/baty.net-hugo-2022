@@ -2519,7 +2519,11 @@ CLOSED: [2022-04-03 Sun 09:30]
 :END:
 I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how remarkable they are. They're not that remarkable.
 
-* Now
+
+
+* Old page entries
+No longer editing these here
+** Now
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /page
 :EXPORT_FILE_NAME: now
@@ -2534,7 +2538,7 @@ What I'm doing as of *Tuesday, April  5, 2022*
 
 (Thanks to [[https://sive.rs][Derek Sivers]] for the idea of [[https://nownownow.com/about][keeping a /now page]] like this one.)
 
-* About
+** About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /page
 :EXPORT_HUGO_BUNDLE: about
@@ -2564,7 +2568,7 @@ Photos are on [[https://flickr.com/photos/jbaty][Flickr]] and [[https://glass.ph
 
 This site is created with [[https://gohugo.io][Hugo]] using a variation of the [[https://github.com/Lednerb/bilberry-hugo-theme][Bilberry]] theme. Posts are written in [[https://orgmode.org][Org mode]] and exported to Markdown using [[https://ox-hugo.scripter.co][ox-hugo]]. ([[/changelog][Changelog]])
 
-* Changelog
+** Changelog
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /page
 :EXPORT_HUGO_SLUG: changelog
