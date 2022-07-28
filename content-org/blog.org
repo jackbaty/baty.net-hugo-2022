@@ -22,7 +22,8 @@
 **** DONE Thursday, July 28, 2022
 CLOSED: [2022-07-28 Thu 06:02]
 :PROPERTIES:
-:EXPORT_FILE_NAME: 2022-07-28-Thursday
+:EXPORT_HUGO_BUNDLE: 2022-07-28-Thursday
+:EXPORT_FILE_NAME: index
 :EXPORT_HUGO_SLUG: 2022-07-28
 :END:
 :LOGBOOK:
@@ -34,6 +35,8 @@ I hadn't planned on doing much customization to the new theme here, but I really
 I'm starting to enjoy having the Lumix S5 around. Zoom, macro, and auto-focus are handy.
 
 After hearing rumors that Meta is going to raise the price of the Quest 2 by $100 in August, I ordered one. I'll give my dad my original Quest. Maybe we'll fish or play golf together.
+
+I may try including a "featured image" for these journal posts, just to help make things prettier. Not sure I'll be able to keep it up every day, but let's try. Today's featured image is a macro of a new coral I added to the aquarium yesterday.
 
 **** DONE Tuesday, July 26, 2022
 CLOSED: [2022-07-26 Tue 05:04]
@@ -2518,8 +2521,10 @@ I'm an impressionable young man, and when I notice someone on The Internet ravin
 
 * Now
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_SECTION: /page
 :EXPORT_FILE_NAME: now
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :excludeFromIndex true :excludeFromTopNav false :url "/now/"
+
 :END:
 
 What I'm doing as of *Tuesday, April  5, 2022*
@@ -2531,9 +2536,10 @@ What I'm doing as of *Tuesday, April  5, 2022*
 
 * About
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_SECTION: /page
 :EXPORT_HUGO_BUNDLE: about
 :EXPORT_FILE_NAME: index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :excludeFromIndex true :excludeFromTopNav false :url "/about/"
 :END:
 
 #+attr_html: :class imgRightMargin
@@ -2556,16 +2562,19 @@ Photos are on [[https://flickr.com/photos/jbaty][Flickr]] and [[https://glass.ph
 <br clear="all">
 #+end_export
 
-This site is created with [[https://gohugo.io][Hugo]] using a variation of the [[https://github.com/dillonzq/LoveIt][LoveIt]] theme. Posts are written in [[https://orgmode.org][Org mode]] and exported to Markdown using [[https://ox-hugo.scripter.co][ox-hugo]]. ([[/changelog][Changelog]])
+This site is created with [[https://gohugo.io][Hugo]] using a variation of the [[https://github.com/Lednerb/bilberry-hugo-theme][Bilberry]] theme. Posts are written in [[https://orgmode.org][Org mode]] and exported to Markdown using [[https://ox-hugo.scripter.co][ox-hugo]]. ([[/changelog][Changelog]])
 
 * Changelog
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_SECTION: /page
+:EXPORT_HUGO_SLUG: changelog
 :EXPORT_FILE_NAME: changelog
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :excludeFromIndex true :excludeFromTopNav true :url "/changelog/"
 :END:
 
 ** Changes to this site (since June 26, 2022)
 
+- 2022-07-28 Migrated to Bilberry theme
 - 2022-07-24 Changed font to PT Sans for content.
 - 2022-06-26 Changed theme to [[https://github.com/dillonzq/LoveIt][LoveIt]]
 - 2022-06-26 Fixed issue with extra spaces appearing after link. ([[https://git.sr.ht/~jbaty/codeit-theme/commit/ab700294123133bce9255498b390cd963df61b97][ab700294]])

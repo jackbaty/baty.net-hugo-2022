@@ -1,7 +1,7 @@
 +++
 title = "Thursday, July 28, 2022"
 date = 2022-07-28T06:02:00-04:00
-lastmod = 2022-07-28T06:56:18-04:00
+lastmod = 2022-07-28T08:12:28-04:00
 slug = 2022-07-28
 draft = false
 weight = 0
@@ -12,6 +12,8 @@ I hadn't planned on doing much customization to the new theme here, but I really
 I'm starting to enjoy having the Lumix S5 around. Zoom, macro, and auto-focus are handy.
 
 After hearing rumors that Meta is going to raise the price of the Quest 2 by $100 in August, I ordered one. I'll give my dad my original Quest. Maybe we'll fish or play golf together.
+
+I may try including a "featured image" for these journal posts, just to help make things prettier. Not sure I'll be able to keep it up every day, but let's try.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"

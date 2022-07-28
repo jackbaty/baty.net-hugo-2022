@@ -8,7 +8,7 @@ draft = false
 weight = 0
 weather = "☀️ Clear +77°F"
 +++
-
+foo
 {{< figure src="beach.jpg" caption=" Aug 1954 - Richard Baty" >}}
 
 I'm sorry <mark>you won't be getting Stage Manager</mark> on your non-M1 device. To me, the expectations and outrage around this is a testament to how well Apple has managed the overall transition to Apple Silicon.

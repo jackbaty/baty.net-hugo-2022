@@ -17,6 +17,8 @@ I've been shooting more digital, and <mark>more color lately</mark>. Not somethi
 
 {{< figure src="flowers.jpg" caption=" Flowers on our deck" >}}
 
+
+
 I still believe that <mark>blockchain is mostly a horseshit</mark> tech bro fantasy, but this [thread from Vinay Gupta](https://twitter.com/leashless/status/1537602510935973888) is interesting.
 
 I don't give a shit what you're mad at. I want to hear <mark>what you're happy about.</mark>

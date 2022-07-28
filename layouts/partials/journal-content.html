@@ -6,7 +6,7 @@
     </h1>
 
     <div class="meta">
-        {{ if ( .ctx.Params.showDate | default true ) }}
+        {{ if ( .ctx.Params.showDate | default false ) }}
             {{ if ( .ctx.Site.Params.enableMomentJs | default true ) }}
                 <span class="date moment">{{ .ctx.PublishDate.Format "2006-01-02" }}</span>
             {{ else }}
