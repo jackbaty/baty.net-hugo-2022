@@ -19,6 +19,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** July 2022
+**** DONE Thursday, July 28, 2022
+CLOSED: [2022-07-28 Thu 06:02]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-07-28-Thursday
+:EXPORT_HUGO_SLUG: 2022-07-28
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-28 Thu 06:02]
+:END:
+
+I hadn't planned on doing much customization to the new theme here, but I really wanted to keep my daily journal posts, so here we are. I had to add a "journal" post type and supporting templates so that the most recent entry is displayed on the home page and the entire entry is shown rather than just the summary. Hugo templates are tricky, but I'm getting the hang of them.
+
+I'm starting to enjoy having the Lumix S5 around. Zoom, macro, and auto-focus are handy.
+
 **** DONE Tuesday, July 26, 2022
 CLOSED: [2022-07-26 Tue 05:04]
 :PROPERTIES:
