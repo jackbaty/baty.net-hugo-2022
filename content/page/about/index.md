@@ -23,7 +23,7 @@ Photos are on [Flickr](https://flickr.com/photos/jbaty) and [Glass](https://glas
 
 <br clear="all">
 
-This site is created with [Hugo](https://gohugo.io) using a variation of the [LoveIt](https://github.com/dillonzq/LoveIt) theme. Posts are written in [Org mode](https://orgmode.org) and exported to Markdown using [ox-hugo](https://ox-hugo.scripter.co). ([Changelog](/changelog))
+This site is created with [Hugo](https://gohugo.io) using a variation of the [Bilberry](https://github.com/Lednerb/bilberry-hugo-theme) theme. Posts are written in [Org mode](https://orgmode.org) and exported to Markdown using [ox-hugo](https://ox-hugo.scripter.co). ([Changelog](/changelog))
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"

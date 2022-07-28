@@ -1752,6 +1752,27 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: article/2022
 :END:
 *** July 2022
+**** DONE A couple 4x5 self-portraits
+CLOSED: [2022-07-28 Thu 16:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20220728-a-couple-4x5-self-portraits
+:EXPORT_HUGO_SLUG: a-couple-4x5-self-portraits
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-28 Thu 16:30]
+:END:
+
+I dug out the big Linhof today and made a few self-portraits.
+
+#+hugo: more
+
+The setup was my usual: painted backdrop with two Profoto strobes, one through a hexagon box and one with a small modifier on the background. I mostly wanted to test my new digital camera scanning setup. I think it worked pretty well.
+
+
+Another
+
+
 **** DONE Welcome to Tumblr  :@Meta:blogging:Hugo:
 CLOSED: [2022-07-27 Wed 06:47]
 :PROPERTIES:

@@ -10,6 +10,7 @@ showDate = false
 
 ## Changes to this site (since June 26, 2022) {#changes-to-this-site--since-june-26-2022}
 
+- 2022-07-28 Re-implemented Journal post on home page
 -   2022-07-28 Migrated to Bilberry theme
 -   2022-07-24 Changed font to PT Sans for content.
 -   2022-06-26 Changed theme to [LoveIt](https://github.com/dillonzq/LoveIt)
