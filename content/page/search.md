@@ -14,6 +14,8 @@ weight: 0
 <div id="search"></div>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search" });
+        new PagefindUI({ element: "#search", 
+        showImages: false,
+        });
     });
 </script>
