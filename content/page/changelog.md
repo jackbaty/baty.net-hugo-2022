@@ -8,7 +8,7 @@ url = "/changelog/"
 showDate = false
 +++
 
-## Changes to this site (since June 26, 2022) {#changes-to-this-site--since-june-26-2022}
+## Changes to this site (since June 26, 2022)
 
 - 2022-07-29 Added Pagefind search
 - 2022-07-28 Re-implemented Journal post on home page
