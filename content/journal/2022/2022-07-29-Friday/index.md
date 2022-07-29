@@ -1,7 +1,7 @@
 +++
 title = "Friday, July 29, 2022"
 date = 2022-07-29T04:41:00-04:00
-lastmod = 2022-07-29T08:46:37-04:00
+lastmod = 2022-07-29T09:51:02-04:00
 slug = 2022-07-29
 draft = false
 weight = 0
@@ -12,6 +12,8 @@ Rather than using Org-mode and ox-hugo to generate today's journal, I used Hugo'
 Maybe I can replace Algolia for search here soon: [Pagefind](https://pagefind.app/) looks like just the ticket. (via [Pagefind is quite a find for site search | BryceWray.com](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/)). ****::One hour later::**** I've implemented Pagefind here. It's on the new [Search page](/searc/).
 
 I'm becoming serious about selling the M10-R. I've so far refused a few offers because they were too low. I am more likely to negotiate, now.
+
+I'm going to the lakeshore today and decided to take only the Olympus Stylus Epic loaded with TMAX 100. It's been acting flakey lately so this will be a good test.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
