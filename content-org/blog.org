@@ -32,8 +32,7 @@ CLOSED: [2022-07-29 Fri 04:41]
 
 Rather than using Org-mode and ox-hugo to generate today's journal, I used Hugo's built-in command, so... =hugo new /2022/2022-07-29-Friday/index.md= ...and here we are. I don't know whether I'll continue to do this, but I do like that there's one fewer layer between what I'm typing and what shows up on the blog. I love writing Org-mode files using Emacs, but sometimes it's fun to use whichever Markdown editor I'm in the mood for. This morning, that editor is [[https://www.barebones.com/products/bbedit/][BBEdit]].
 
-Maybe I can replace Algolia for search here soon: [[https://pagefind.app/][Pagefind]] looks like just the ticket. (via [[https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/][Pagefind is quite a find for site search | BryceWray.com]])
-
+Maybe I can replace Algolia for search here soon: [[https://pagefind.app/][Pagefind]] looks like just the ticket. (via [[https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/][Pagefind is quite a find for site search | BryceWray.com]]). **::One hour later::** I've implemented Pagefind here. It's on the new [[/searc/][Search page]].
 
 **** DONE Thursday, July 28, 2022
 CLOSED: [2022-07-28 Thu 06:02]
