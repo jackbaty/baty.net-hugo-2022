@@ -15,8 +15,6 @@ I took the little Stylus Epic to the beach yesterday. Nothing much came of it, b
 ![Self-portrait](self-portrait.jpg)
 *Self-portrait*
 
-Olympus Stylus Epic | Kodak TMAX 100
-
-Digitized with Lumix S5
-
-Home developed in HC-110 1:31 (B) | 6:00
+Olympus Stylus Epic | Kodak TMAX 100  
+Digitized with Lumix S5  
+Home developed in HC-110 1:31 (B) | 6:00  

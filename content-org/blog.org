@@ -30,9 +30,10 @@ CLOSED: [2022-07-30 Sat 04:26]
 - State "DONE"       from "TODO"       [2022-07-30 Sat 04:26]
 :END:
 
-Spent a day at the beach for the first time this summer. It was a perfect day, and a wonderful place to read.
+Spent a day at the beach for the first time this summer. It was a perfect day, and a wonderful place to read. I took some photos with the little Stylus Epic, but there wasn't much interesting. Of course I did end up with at least [[/photo/2022/20220730-from-the-beach/][one self-portrait]].
 
 The [[https://protesilaos.com/emacs/modus-themes][modus themes]] for Emacs are the only ones I've found that properly set faces for Org-mode drawers to a monospaced font even in buffers set to use variable-width fonts. Most themes catch things like =:CLOSED:= and =:SCHEDULED:= but miss =:PROPERTIES:=.
+
 
 
 **** DONE Friday, July 29, 2022
