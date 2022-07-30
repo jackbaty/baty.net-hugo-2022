@@ -85,4 +85,22 @@ deploy: build checkpoint
 	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
 ```
 
+For my blog, it takes less than half a second to generate the necessary indexes:
+
+```
+Running Pagefind v0.5.3
+Running from: "/Users/jbaty/sites/blog"
+Source:       "public"
+Bundle Directory:  "_pagefind"
+Walking source directory...
+Building search indexes...
+Found a data-pagefind-body element on the site.
+↳ Ignoring pages without this tag.
+Indexed 291 pages
+Indexed 5405 words
+Indexed 0 filters
+Created 5 index chunks
+Finished in 0.430 seconds
+```
+
 So far this works swimmingly. [Try it yourself](/search/) and [let me know](mailto://jack@baty.net) if you have any issues.
