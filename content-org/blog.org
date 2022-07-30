@@ -19,6 +19,23 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** July 2022
+**** DONE Saturday, July 30, 2022
+CLOSED: [2022-07-30 Sat 04:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-07-30-Saturday
+:EXPORT_HUGO_SLUG: 2022-07-30
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-30 Sat 04:26]
+:END:
+
+Spent some time on the beach for the first time this summer. It was a perfect day, and a wonderful place to read.
+
+
+
+
+
 **** DONE Friday, July 29, 2022
 CLOSED: [2022-07-29 Fri 04:41]
 :PROPERTIES:
