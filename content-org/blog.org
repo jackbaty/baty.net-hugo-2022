@@ -34,7 +34,7 @@ Spent a day at the beach for the first time this summer. It was a perfect day, a
 
 The [[https://protesilaos.com/emacs/modus-themes][modus themes]] for Emacs are the only ones I've found that properly set faces for Org-mode drawers to a monospaced font even in buffers set to use variable-width fonts. Most themes catch things like =:CLOSED:= and =:SCHEDULED:= but miss =:PROPERTIES:=.
 
-
+I summarized how I added search to baty.net: [[https://baty.net/2022/searching-this-site-using-pagefind/][Searching this site using Pagefind | Jack Baty]]
 
 **** DONE Friday, July 29, 2022
 CLOSED: [2022-07-29 Fri 04:41]

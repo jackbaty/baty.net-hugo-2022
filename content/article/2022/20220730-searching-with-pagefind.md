@@ -19,9 +19,9 @@ Page find is...
 
 <!--more-->
 
-The [theme I used to use](https://hugoloveit.com) included a nice search using [Lunr](https://lunrjs.com). [My new theme](https://github.com/Lednerb/bilberry-hugo-theme) uses Algolia, which I don't love because it involves a separate, commercial service and requires rebuilding and pushing an updated index to the Algolia service every time I post something.
+They had me at "...without hosting any infrastructure". The [theme I used to use](https://hugoloveit.com) included a nice search using [Lunr](https://lunrjs.com). [My new theme](https://github.com/Lednerb/bilberry-hugo-theme) uses Algolia, which I don't love because it involves a separate, commercial service and requires rebuilding and pushing an updated index to the Algolia service every time I post something.
 
-As an alternative to Algolia, I thought I'd give [Pagefind](https://pagefind.app/) a try. Turns out it's quite good and easy to implement. Here's a quick summary of what I did to implement Pagefind search here at baty.net.
+As an alternative to Algolia, I thought I'd try [Pagefind](https://pagefind.app/). Turns out it's quite good and very easy to implement. Here's a quick summary of what I did to add Pagefind search here at baty.net.
 
 First, I created a search page at [/search/](/search/). The search form looks like this:
 
@@ -44,7 +44,7 @@ Then, to build the index, I run the following:
 
 `npx pagefind --source "public"`
 
-Pagefind publishes a wrapper package through npm, so running the above takes care of everything, no installation required. Eventually I'll run it via a local binary, but since Pagefind is built using Rust, it's just a single binary with no other dependencies. I love not having dependencies.
+Pagefind publishes a wrapper package through npm, so running the above takes care of everything, no installation required. Eventually I'll run it via a local binary. Since Pagefind is built using Rust, it's just a single binary with no other dependencies. I love not having dependencies.
 
 And that's all I needed to have search up and running on my site.
 
@@ -56,7 +56,7 @@ However, I noticed that it was indexing _everything_, including the home page, t
 
 That made the results much cleaner.
 
-All that remained was to make sure the index was updated when publishing. I don't use any fancy CI business for publishing. I simply use `rsync` to copy the /public folder up to my server.
+All that remained was to make sure the index was updated when publishing. I don't use any fancy CI business for publishing. I use `rsync` to copy the /public folder up to my server.
 
 I simply added the `npx` command to my Makefile, which now looks like this:
 
