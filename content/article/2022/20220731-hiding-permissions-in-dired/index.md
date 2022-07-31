@@ -10,11 +10,11 @@ author: ""
 ---
 
 
-Dired mode in Emacs is fantastic. One little thing that annoyed me was that the dired listing shows file ownership and permissions, taking up space with information I almost never care about. I started down a rabbit hole of figuring out how to hide those columns. I spent wasted an hour before discovering `dired-hide-details-mode`.
+Dired mode in Emacs is fantastic, but one little thing that annoyed me was that the directory listings show file ownership and permissions, taking up space with information I almost never care about. I started down a rabbit hole of figuring out how to hide those columns. I ~~spent~~ wasted an hour on my way to discovering that, of course, there's a built-in way to do it: `dired-hide-details-mode`.
 
 <!--more-->
 
-Well that was easy.
+Well, that was easy.
 
 ```lisp
 ;; Hide file ownership/permissions by default
@@ -29,4 +29,4 @@ This makes the listing go from this...
 
 ![Dired listing after hiding permissions](after.png)
 
-That's almost always what I'd prefer.
+This is almost always what I'd prefer.
