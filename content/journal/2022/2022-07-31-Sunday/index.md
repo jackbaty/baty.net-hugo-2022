@@ -1,7 +1,7 @@
 +++
 title = "Sunday, July 31, 2022"
 date = 2022-07-31T08:29:00-04:00
-lastmod = 2022-07-31T10:34:30-04:00
+lastmod = 2022-07-31T11:04:32-04:00
 slug = 2022-07-31
 draft = false
 weight = 0
@@ -13,7 +13,7 @@ Paul Ford, genius or madman?:
 >
 > [I Finally Reached Computing Nirvana. What Was It All For?, Paul Ford](https://www.wired.com/story/i-finally-reached-computing-nirvana-what-was-it-all-for/)
 
-...also...
+...also, I feel seen...
 
 > You'd think there'd be at least five new me's by now, given how often I've vowed to become better. But no. I've been writing about configuring my text editor since 1996
 >

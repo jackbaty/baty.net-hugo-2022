@@ -38,7 +38,7 @@ A big problem I had was where to put my stuff. I tried different databases, fold
 [[https://www.wired.com/story/i-finally-reached-computing-nirvana-what-was-it-all-for/][I Finally Reached Computing Nirvana. What Was It All For?, Paul Ford]]
 #+end_quote
 
-...also...
+...also, I feel seen...
 
 #+begin_quote
 You'd think there'd be at least five new me's by now, given how often I've vowed to become better. But no. I've been writing about configuring my text editor since 1996
@@ -46,8 +46,12 @@ You'd think there'd be at least five new me's by now, given how often I've vowed
 [[https://www.wired.com/story/i-finally-reached-computing-nirvana-what-was-it-all-for/][ibid]]
 #+end_quote
 
+Dired mode in Emacs is fantastic. One little thing that annoyed me was that the dired listing shows file ownership and permissions, taking up space with information I almost never care about. I started down a rabbit hole of figuring out how to hide those columns. I +spent+ wasted an hour before discovering =dired-hide-details-mode=. Well that was easy.
 
-
+#+begin_src lisp
+;; Hide file ownership/permissions by default
+(add-hook 'dired-mode-hook 'dired-hide-details-mode)
+#+end_src
 
 
 **** DONE Saturday, July 30, 2022
