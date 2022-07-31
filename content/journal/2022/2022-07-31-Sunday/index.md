@@ -1,7 +1,7 @@
 +++
 title = "Sunday, July 31, 2022"
 date = 2022-07-31T08:29:00-04:00
-lastmod = 2022-07-31T11:04:32-04:00
+lastmod = 2022-07-31T16:55:37-04:00
 slug = 2022-07-31
 draft = false
 weight = 0
@@ -18,6 +18,8 @@ Paul Ford, genius or madman?:
 > You'd think there'd be at least five new me's by now, given how often I've vowed to become better. But no. I've been writing about configuring my text editor since 1996
 >
 > [ibid](https://www.wired.com/story/i-finally-reached-computing-nirvana-what-was-it-all-for/)
+
+Sonofa: [Meet the bright web – beam](https://beamapp.co/)
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
