@@ -11,7 +11,7 @@ author: ""
 
 I was made aware of [Pagefind](https://pagefind.app/) via a [post by Bryce Wray](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/).
 
-Page find is...
+Pagefind is...
 
 > Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 >

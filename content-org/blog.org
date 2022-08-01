@@ -19,6 +19,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** July 2022
+**** DONE Monday, August 01, 2022
+CLOSED: [2022-08-01 Mon 05:50]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-01-Monday
+:EXPORT_HUGO_SLUG: 2022-08-01
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-01 Mon 05:50]
+:END:
+
+Well, I sold the Leica M10-R. Now what?
+
+
 **** DONE Sunday, July 31, 2022
 CLOSED: [2022-07-31 Sun 08:29]
 :PROPERTIES:
@@ -47,7 +61,6 @@ You'd think there'd be at least five new me's by now, given how often I've vowed
 #+end_quote
 
 Sonofa: [[https://beamapp.co/][Meet the bright web – beam]]
-
 
 **** DONE Saturday, July 30, 2022
 CLOSED: [2022-07-30 Sat 04:26]

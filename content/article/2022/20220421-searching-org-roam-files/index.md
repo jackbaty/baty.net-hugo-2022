@@ -16,7 +16,7 @@ I could use the default `projectile` search, but my org-roam files live within m
 
 I use a simple lisp function to help with this. It uses `consult-ripgrep`:
 
-```emacs-lisp
+```lisp
 (defun jab/search-roam ()
  "Run consult-ripgrep on the org roam directory"
  (interactive)
@@ -25,7 +25,7 @@ I use a simple lisp function to help with this. It uses `consult-ripgrep`:
 
 I added a keybinding for it to my other org-roam bindings:
 
-```emacs-lisp
+```lisp
 (map!
  "\C-c n f" 'org-roam-node-find
  "s-u" 'org-roam-node-find
