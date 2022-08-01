@@ -19,7 +19,7 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** July 2022
-**** DONE Monday, August 01, 2022
+**** DONE Monday, August 01, 2022 :Gear:
 CLOSED: [2022-08-01 Mon 05:50]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
