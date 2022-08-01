@@ -32,6 +32,9 @@ CLOSED: [2022-08-01 Mon 05:50]
 
 Well, I sold the Leica M10-R. Now what?
 
+I renewed my omg.lol profile: [[https://omg.lol/jbaty][omg.lol/jbaty]]. I don't know what it's for, but I'll get it updated anyway. It's five bucks a year, so not a difficult decision.
+
+I've added this blog's [[https://baty.net/index.xml][RSS feed]] to [[https://micro.blog][Micro.blog]] so blog posts here will cross-post to Micro.blog. I'm not sure whether I'll include the posts on the main page here. They're included for now as "status" posts. Maybe I'll create a separate page and feed just for those. Also, I don't yet know what "those" means.
 
 **** DONE Sunday, July 31, 2022
 CLOSED: [2022-07-31 Sun 08:29]

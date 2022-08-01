@@ -10,6 +10,7 @@ showDate = false
 
 ## Changes to this site (since June 26, 2022)
 
+- 2022-08-01 Removed Journal posts from the main RSS feed
 - 2022-07-29 Added Pagefind search
 - 2022-07-28 Re-implemented Journal post on home page
 - 2022-07-28 Migrated to Bilberry theme
