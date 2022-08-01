@@ -37,7 +37,7 @@ I added a keybinding for it to my other org-roam bindings:
  "\C-c n l" 'org-roam-buffer-toggle)
 ```
 
-Now, with a quick `C-s n s` I can search my org-roam files using the blazingly fast [ripgrep](https://github.com/BurntSushi/ripgrep).
+Now, with a quick `C-c n s` I can search my org-roam files using the blazingly fast [ripgrep](https://github.com/BurntSushi/ripgrep).
 
 If there's a better way to do this, I'm all ears.
 
