@@ -1,6 +1,8 @@
 title = "Jack Baty"
 baseURL = "https://baty.net/"
 
+newContentEditor = "bbedit"
+
 # Option 1 (recommended): adding the theme as a Hugo module
 #theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
 
@@ -195,3 +197,13 @@ disqusShortname = ""
   article = '/:year/:slug/'
   journal = '/journal/:slug/'
 
+[security]
+  enableInlineShortcodes = true
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^bbedit']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+  [security.funcs]
+    getenv = ['^HUGO_']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
