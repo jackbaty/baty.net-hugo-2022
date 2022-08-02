@@ -34,6 +34,8 @@ I've spent the morning learning how to use [[https://notmuchmail.org/][notmuch]]
 
 Comments are back. I'm still using [[https://cusdis.com/][Cusdis - Lightweight, privacy-first, open-source comment system]].
 
+[[https://tiddlywiki.com/#Release%205.2.3][TiddlyWiki 5.2.3]] has been released. I know I've been neglecting [[https://wiki.baty.net][my wiki]] but I upgraded anyway.
+
 **** DONE Monday, August 01, 2022 :Gear:
 CLOSED: [2022-08-01 Mon 05:50]
 :PROPERTIES:
