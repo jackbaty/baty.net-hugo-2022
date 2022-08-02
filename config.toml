@@ -1,7 +1,7 @@
 title = "Jack Baty"
 baseURL = "https://baty.net/"
-
 newContentEditor = "bbedit"
+
 
 # Option 1 (recommended): adding the theme as a Hugo module
 #theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
@@ -75,6 +75,7 @@ disqusShortname = ""
   utterancesCrossOrigin = "anonymous"
   
   # Enable /Disable Cusdis comments
+  cusdis = true
   cusdisSiteId = "c610715d-a83e-44aa-8c46-31ebb36af318"
 
   # Media configuration
