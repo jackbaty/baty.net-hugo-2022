@@ -20,20 +20,21 @@ I added my first fish, an [Ocellaris Clownfish](https://en.wikipedia.org/wiki/Oc
 
 Here he is in my tank:
 
-{{< figure src="/img/2022/20220708-clownfish.jpg" caption="Marcus the Clownfish in his new home" >}}
+{{< figure src="20220708-clownfish.jpg" caption="Marcus the Clownfish in his new home" >}}
+
 
 Isn’t he cute! (All clowns are born male…and cute).
 Since Marcus seemed to be doing well, I added another fish yesterday: A [Bicolor Blenny](https://en.wikipedia.org/wiki/Ecsenius_bicolor). We named this one “Benny”. (I know).
 
-{{< figure src="/img/2022/20220708-blenny.jpg" caption=" Bi-color Blenny" >}}
+{{< figure src="20220708-blenny.jpg" caption=" Bi-color Blenny" >}}
 
 I haven’t taken a photo of him yet because he’s still hiding in a hole on the rocks. I did take a snap while acclimating him. Acclimation involves slowly dripping water from the aquarium into his water from the local fish store ([Water Colors Aquarium Gallery](https://watercolorsaquariumgallery.com/))
 
-{{< figure src="/img/2022/20220708-acclimating-benny.jpg" caption=" Acclimating Benny" >}}
+{{< figure src="20220708-acclimating-benny.jpg" caption=" Acclimating Benny" >}}
 
 I also added a couple of Astrea snails in anticipation of algae growth. I’ll need a lot more of these eventually.
 
-{{< figure src="/img/2022/20220708-astrea-snail.png" width="500" >}}
+{{< figure src="20220708-astrea-snail.png" width="500" >}}
 
 So far, so good. There’s a lot to learn about keeping a reef tank. Water parameters are critical, especially with coral. I can’t wait to start adding coral! There are feeding issues, cleaning, filtering, diseases, livestock problems, and on and on. It’s awesome so far. I love fish!
 
