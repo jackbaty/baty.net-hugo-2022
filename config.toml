@@ -73,6 +73,9 @@ disqusShortname = ""
   utterancesLabel       = "Comment"
   utterancesTheme       = "github-light"
   utterancesCrossOrigin = "anonymous"
+  
+  # Enable /Disable Cusdis comments
+  cusdisSiteId = "c610715d-a83e-44aa-8c46-31ebb36af318"
 
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
