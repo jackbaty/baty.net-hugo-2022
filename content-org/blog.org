@@ -19,6 +19,23 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** July 2022
+**** DONE Wednesday, August 03, 2022
+CLOSED: [2022-08-03 Wed 06:09]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-03-Wednesday
+:EXPORT_HUGO_SLUG: 2022-08-03
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-03 Wed 06:09]
+:END:
+
+#+begin_quote
+...don't believe in the hype of magical exominds or second brains that do the work on your behalf—maximise the potential of the one mind you have and the rest will follow from there.
+
+[[https://protesilaos.com/emacs/dotemacs#h:a196812e-1644-4536-84ba-687366867def][GNU Emacs integrated computing environment | Protesilaos Stavrou]]
+#+end_quote
+
 **** DONE Tuesday, August 02, 2022
 CLOSED: [2022-08-02 Tue 10:30]
 :PROPERTIES:
