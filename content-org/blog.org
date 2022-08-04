@@ -19,6 +19,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** July 2022
+**** DONE Thursday, August 04, 2022
+CLOSED: [2022-08-04 Thu 05:00]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-04-Thursday
+:EXPORT_HUGO_SLUG: 2022-08-04
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-04 Thu 05:00]
+:END:
+
+I've spent time the past two days moving my email management in Emacs from Mu4e to Notmuch. I should jot down some of the details but I don't have the energy for that yet.
+
+I'm trying to decide what to include in the main RSS feed here.
 **** DONE Wednesday, August 03, 2022
 CLOSED: [2022-08-03 Wed 06:09]
 :PROPERTIES:
@@ -36,7 +50,7 @@ CLOSED: [2022-08-03 Wed 06:09]
 [[https://protesilaos.com/emacs/dotemacs#h:a196812e-1644-4536-84ba-687366867def][GNU Emacs integrated computing environment | Protesilaos Stavrou]]
 #+end_quote
 
-Fountain pen humor?: "I'm gonna post a cap on your ass!". ... anyone?
+Fountain pen humor?: "Ima post a cap on your ass!". ... anyone?
 
 **** DONE Tuesday, August 02, 2022
 CLOSED: [2022-08-02 Tue 10:30]
