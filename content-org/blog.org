@@ -32,9 +32,12 @@ CLOSED: [2022-08-05 Fri 04:58]
 
 Feeling the Poloaroid today. Part of me wants to order a shitload of Polaroid film, as expensive and unpredictable as it is, and just shoot.
 
+A great thing about shooting Polaroid film is that once you've pressed the button, you're done with that photo. There's nothing left to do but grab a pen and write a caption on it, and even that's optional.
+
 Amazon bought Roomba. I wonder if this means that I'll be able to buy a Roomba for $69 in exchange for sending Amazon a detailed map of my house.
 
 The thing I miss most about work is when a meeting gets canceled.
+
 
 **** DONE Thursday, August 04, 2022
 CLOSED: [2022-08-04 Thu 05:00]
@@ -1908,6 +1911,20 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :END:
 ** 2022
 *** August 2022
+**** DONE Polaroid
+CLOSED: [2022-08-05 Fri 15:28]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220805-polaroid
+:EXPORT_HUGO_SLUG: polaroid
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-05 Fri 15:28]
+:END:
+
+A great thing about shooting Polaroid film is that once you've pressed the button, you're done with that photo. There's nothing left to do but grab a pen and write a caption on it, and even that's optional.
+
+
+
 **** DONE Roomba
 CLOSED: [2022-08-05 Fri 11:38]
 :PROPERTIES:
@@ -1922,17 +1939,6 @@ Amazon bought Roomba. I wonder if this means that I'll be able to buy a Roomba f
 
 
 
-**** DONE This is cool
-CLOSED: [2022-08-05 Fri 05:51]
-:PROPERTIES:
-:EXPORT_FILE_NAME: 20220805-this-is-cool
-:EXPORT_HUGO_SLUG: this-is-cool
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-08-05 Fri 05:51]
-:END:
-
-This is a test
 * Posts
 ** 2022
 :PROPERTIES:
