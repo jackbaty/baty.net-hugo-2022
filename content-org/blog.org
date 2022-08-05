@@ -33,6 +33,11 @@ CLOSED: [2022-08-04 Thu 05:00]
 I've spent time the past two days moving my email management in Emacs from Mu4e to Notmuch. I should jot down some of the details but I don't have the energy for that yet.
 
 I'm trying to decide what to include in the main RSS feed here.
+
+Have you any idea how many hours I've spent in pursuit of saving myself a handful of keystrokes?
+
+Does it feel like we're in the final days of peak TV? It's sad.
+
 **** DONE Wednesday, August 03, 2022
 CLOSED: [2022-08-03 Wed 06:09]
 :PROPERTIES:
