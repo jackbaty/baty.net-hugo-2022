@@ -18,7 +18,21 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
-*** July 2022
+*** August 2022
+**** DONE Friday, August 05, 2022
+CLOSED: [2022-08-05 Fri 04:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-05-Friday
+:EXPORT_HUGO_SLUG: 2022-08-05
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-05 Fri 04:58]
+:END:
+
+Feeling the Poloaroid today. Part of me wants to order a shitload of Polaroid film, as expensive and unpredictable as it is, and just shoot.
+
+
 **** DONE Thursday, August 04, 2022
 CLOSED: [2022-08-04 Thu 05:00]
 :PROPERTIES:
@@ -91,6 +105,7 @@ I renewed my omg.lol profile: [[https://omg.lol/jbaty][omg.lol/jbaty]]. I don't 
 
 I've added this blog's [[https://baty.net/index.xml][RSS feed]] to [[https://micro.blog][Micro.blog]] so blog posts here will cross-post to Micro.blog. I'm not sure whether I'll include the posts on the main page here. They're included for now as "status" posts. Maybe I'll create a separate page and feed just for those. Also, I don't yet know what "those" means.
 
+*** July 2022
 **** DONE Sunday, July 31, 2022
 CLOSED: [2022-07-31 Sun 08:29]
 :PROPERTIES:
@@ -1884,6 +1899,23 @@ I should take a closer look at [[https://sr.ht/][sourcehut]]
 
 Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package. *UPDATE* Nope, doesn't work yet on M1 Macs.
 
+* Status Updates
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: status/2022
+:END:
+** 2022
+*** August 2022
+**** DONE This is cool
+CLOSED: [2022-08-05 Fri 05:51]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220805-this-is-cool
+:EXPORT_HUGO_SLUG: this-is-cool
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-05 Fri 05:51]
+:END:
+
+This is a test
 * Posts
 ** 2022
 :PROPERTIES:
