@@ -1,5 +1,4 @@
 +++
-title = "Roomba"
 date = 2022-08-05T11:38:00-04:00
 lastmod = 2022-08-05T11:38:43-04:00
 slug = "amazon-buys-roomba"
