@@ -32,6 +32,8 @@ CLOSED: [2022-08-05 Fri 04:58]
 
 Feeling the Poloaroid today. Part of me wants to order a shitload of Polaroid film, as expensive and unpredictable as it is, and just shoot.
 
+Amazon bought Roomba. I wonder if this means that I'll be able to buy a Roomba for $69 in exchange for sending Amazon a detailed map of my house.
+
 
 **** DONE Thursday, August 04, 2022
 CLOSED: [2022-08-04 Thu 05:00]
@@ -1905,6 +1907,20 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :END:
 ** 2022
 *** August 2022
+**** DONE Roomba
+CLOSED: [2022-08-05 Fri 11:38]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220805-amazon-buys-roomba
+:EXPORT_HUGO_SLUG: amazon-buys-roomba
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-05 Fri 11:38]
+:END:
+
+Amazon bought Roomba. I wonder if this means that I'll be able to buy a Roomba for $69 in exchange for sending Amazon a detailed map of my house.
+
+
+
 **** DONE This is cool
 CLOSED: [2022-08-05 Fri 05:51]
 :PROPERTIES:
