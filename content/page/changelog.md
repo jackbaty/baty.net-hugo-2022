@@ -8,8 +8,9 @@ url = "/changelog/"
 showDate = false
 +++
 
-## Changes to this site (since June 26, 2022)
+## Changes to Baty.net (since June 26, 2022)
 
+- 2022-08-05 Moved status posts from main RSS feed to /status/index.xml
 - 2022-08-02 Add Cusdis comments
 - 2022-08-01 Removed Journal posts from the main RSS feed
 - 2022-07-29 Added Pagefind search
