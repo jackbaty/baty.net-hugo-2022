@@ -74,9 +74,13 @@ disqusShortname = ""
   utterancesTheme       = "github-light"
   utterancesCrossOrigin = "anonymous"
   
-  # Enable /Disable Cusdis comments
-  cusdis = true
+  # Enable / Disable Cusdis comments
+  cusdis = false
   cusdisSiteId = "c610715d-a83e-44aa-8c46-31ebb36af318"
+  
+  # Enable / Disable email comments
+  replyByEmail = true
+  replyByEmailAddress = "jack+blog@baty.net"
 
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
