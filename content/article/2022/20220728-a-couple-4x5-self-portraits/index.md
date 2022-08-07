@@ -11,7 +11,7 @@ I dug out the big Linhof today and made a few self-portraits.
 
 <!--more-->
 
-The setup was my usual: painted backdrop with two Profoto strobes, one through a hexagon box and one with a small modifier on the background. I mostly wanted to test my new digital camera scanning setup. I think it worked pretty well.
+The setup was my usual: painted backdrop with two Profoto strobes, one through a octogon box and one with a small modifier on the background. I mostly wanted to test my new digital camera scanning setup. I think it worked pretty well.
 
 ![Self-portrait](scan1.jpg)
 *Self-portrait. Linhof Master Technika*
