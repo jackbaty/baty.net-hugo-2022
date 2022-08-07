@@ -19,6 +19,26 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Sunday, August 07, 2022
+CLOSED: [2022-08-07 Sun 05:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-07-Sunday
+:EXPORT_HUGO_SLUG: 2022-08-07
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-07 Sun 05:17]
+:END:
+
+#+begin_quote
+I find that many of my favourite lyrics are those that I do not fully understand. They seem to exist in a world of their own – in a place of potentiality, adjacent to meaning. The words feel authentic or true, but remain mysterious, as if a greater truth lies just beyond our understanding. I see this, not just within a song, but within life itself, where awe and wonder live in the tension between what we understand and what we do not understand.
+
+[[https://www.theredhandfiles.com/my-favourite-lyrics/][Nick Cave - The Red Hand Files - Issue #202]]
+#+end_quote
+
+I feel this way about photographs.
+
+
 **** DONE Saturday, August 06, 2022
 CLOSED: [2022-08-06 Sat 04:41]
 :PROPERTIES:
