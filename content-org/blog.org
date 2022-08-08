@@ -19,6 +19,21 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Monday, August 08, 2022
+CLOSED: [2022-08-08 Mon 08:51]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-08-Monday
+:EXPORT_HUGO_SLUG: 2022-08-08
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-08 Mon 08:51]
+:END:
+
+I was looking for something that I would have written while using org-roam so I re-enabled org-roam in my config and went looking. I was sidetracked immediately because the org-roam results buffer was showing links in their raw form and it was distracting. After an hour of digging, testing other versions, etc, I found [[https://org-roam.discourse.group/t/org-roam-backlinks-appearing-with-id/2716/5?u=jbaty][this comment]] which pointed to a fix (e.g. =(setq org-fold-core-style “overlays”)=). Happy to have that fixed, but the adventure reinforced that I'm probably better off staying in [[https://protesilaos.com/emacs/denote][Denote]] for my notes.
+
+I described the new Elvis biopic as "Everything Elvis All at Once". It was too much of everything and not enough content. Someone said it was more like a 2-hour movie trailer and I think that nails it.
+
 **** DONE Sunday, August 07, 2022
 CLOSED: [2022-08-07 Sun 05:17]
 :PROPERTIES:
