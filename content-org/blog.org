@@ -5,7 +5,7 @@
 #+hugo_auto_set_lastmod: t
 #+hugo_front_matter_key_replace: description>summary author>nil
 #+author: Jack
-#+startup: overview
+#+startup: fold hidedrawers
 #+options: broken-links:t d:t
 #+todo: TODO(t) | DONE(d!)
 #+macro: mark @@html:<mark>$1</mark>@@
@@ -19,6 +19,23 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Tuesday, August 09, 2022
+CLOSED: [2022-08-09 Tue 05:15]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-09-Tuesday
+:EXPORT_HUGO_SLUG: 2022-08-09
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-09 Tue 05:15]
+:END:
+
+I love Leica M cameras so much, but my eyes are becoming more disagreeable to it by the month.
+
+COVID is breathing down my neck but so far I've avoided it.
+
+I no longer need to see black and white street photos with super-deep blacks and someone standing in or walking through a shaft of sunlight. I enjoyed the first 10,000 of them, though.
+
 **** DONE Monday, August 08, 2022
 CLOSED: [2022-08-08 Mon 08:51]
 :PROPERTIES:
@@ -30,7 +47,7 @@ CLOSED: [2022-08-08 Mon 08:51]
 - State "DONE"       from "TODO"       [2022-08-08 Mon 08:51]
 :END:
 
-I was looking for something that I would have written while using org-roam so I re-enabled org-roam in my config and went looking. I was sidetracked immediately because the org-roam results buffer was showing links in their raw form and it was distracting. After an hour of digging, testing other versions, etc, I found [[https://org-roam.discourse.group/t/org-roam-backlinks-appearing-with-id/2716/5?u=jbaty][this comment]] which pointed to a fix (e.g. =(setq org-fold-core-style “overlays”)=). Happy to have that fixed, but the adventure reinforced that I'm probably better off staying in [[https://protesilaos.com/emacs/denote][Denote]] for my notes.
+I was looking for something that I would have written while using org-roam so I re-enabled org-roam in my config and went looking. I was sidetracked immediately because the org-roam results buffer was showing links in their raw form and it was distracting. After an hour of digging, testing other versions, etc, I found [[https://org-roam.discourse.group/t/org-roam-backlinks-appearing-with-id/2716/5?u=jbaty][this comment]] which pointed to a fix (e.g. =(setq org-fold-core-style “overlays”)=, added in org 9.6). Happy to have that fixed, but the adventure reinforced that I'm probably better off staying in [[https://protesilaos.com/emacs/denote][Denote]] for my notes.
 
 I described the new Elvis biopic as "Everything Elvis All at Once". It was too much of everything and not enough content. Someone said it was more like a 2-hour movie trailer and I think that nails it.
 
@@ -45,7 +62,7 @@ CLOSED: [2022-08-07 Sun 05:17]
 - State "DONE"       from "TODO"       [2022-08-07 Sun 05:17]
 :END:
 
-Every page in my notebooks offers such potential.
+Every page in my notebook offers such potential.
 
 #+begin_quote
 I find that many of my favourite lyrics are those that I do not fully understand. They seem to exist in a world of their own – in a place of potentiality, adjacent to meaning. The words feel authentic or true, but remain mysterious, as if a greater truth lies just beyond our understanding. I see this, not just within a song, but within life itself, where awe and wonder live in the tension between what we understand and what we do not understand.
