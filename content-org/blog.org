@@ -19,6 +19,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Wednesday, August 10, 2022
+CLOSED: [2022-08-10 Wed 05:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-10-Wednesday
+:EXPORT_HUGO_SLUG: 2022-08-10
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-10 Wed 05:30]
+:END:
+
+Some days I want to live entirely within Emacs. Other days I'd be fine doing everything in a browser. These two modes don't get along.
+
+I signed up for a year of [[https://hey.com][Hey.com]] again. I can't explain why. I think maybe I'm exhausted from spending so much energy and time recently getting [[https://notmuchmail.org/][notmuch]] configured. It's been a blast, but sometimes I just want something pretty and easy.
 **** DONE Tuesday, August 09, 2022
 CLOSED: [2022-08-09 Tue 05:15]
 :PROPERTIES:
