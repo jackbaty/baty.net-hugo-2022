@@ -19,6 +19,21 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Thursday, August 11, 2022
+CLOSED: [2022-08-11 Thu 04:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-11-Thursday
+:EXPORT_HUGO_SLUG: 2022-08-11
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-11 Thu 04:53]
+:END:
+
+I wonder how long I'll have the energy and time to do this every day. Oh, I don't know, it's been like 20 years already, so.
+
+We sure spend a lot of time on fancy tooling and frameworks for what boils down to the same simple CRUD apps we've been building for 30 years.
+
 **** DONE Wednesday, August 10, 2022
 CLOSED: [2022-08-10 Wed 05:30]
 :PROPERTIES:
