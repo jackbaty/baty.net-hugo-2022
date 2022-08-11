@@ -1,7 +1,7 @@
 +++
 title = "Thursday, August 11, 2022"
 date = 2022-08-11T04:53:00-04:00
-lastmod = 2022-08-11T05:55:33-04:00
+lastmod = 2022-08-11T05:57:16-04:00
 slug = 2022-08-11
 draft = false
 weight = 0
@@ -13,7 +13,7 @@ We sure spend a lot of time on fancy tooling and frameworks for what boils down 
 
 I have seven years of entries in my daybook.org file. I suppose that means it works for me, but it could also just be inertia.
 
-It's just that sometimes I tire of staring at (mostly) monospaced text in Emacs. Sometimes I don't find it fun to have to figure out why some minor behavior isn't working the same as it was last week. I don't always want to `M-x` my way through life. And yet, nothing else comes close.
+It's just that sometimes I tire of staring at (mostly) monospaced text in Emacs. Sometimes I don't find it fun to have to figure out why some minor behavior isn't working the same as it was last week. Taking notes shouldn't be a technical challenge. I don't always want to `M-x` my way through life. And yet, nothing else comes close.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
