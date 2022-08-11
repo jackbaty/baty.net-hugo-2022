@@ -34,6 +34,9 @@ I wonder how long I'll have the energy and time to do this every day. Oh, I don'
 
 We sure spend a lot of time on fancy tooling and frameworks for what boils down to the same simple CRUD apps we've been building for 30 years.
 
+I have seven years of entries in my daybook.org file. I suppose that means it works for me, but it could also just be inertia.
+
+
 **** DONE Wednesday, August 10, 2022
 CLOSED: [2022-08-10 Wed 05:30]
 :PROPERTIES:
