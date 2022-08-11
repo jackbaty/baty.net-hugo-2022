@@ -36,6 +36,7 @@ We sure spend a lot of time on fancy tooling and frameworks for what boils down 
 
 I have seven years of entries in my daybook.org file. I suppose that means it works for me, but it could also just be inertia.
 
+It's just that sometimes I tire of staring at (mostly) monospaced text in Emacs. Sometimes I don't find it fun to have to figure out why some minor behavior isn't working the same as it was last week. I don't always want to =M-x= my way through life. And yet, nothing else comes close.
 
 **** DONE Wednesday, August 10, 2022
 CLOSED: [2022-08-10 Wed 05:30]
