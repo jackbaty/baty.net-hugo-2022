@@ -19,7 +19,6 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
-
 **** DONE Thursday, August 11, 2022
 CLOSED: [2022-08-11 Thu 04:53]
 :PROPERTIES:
