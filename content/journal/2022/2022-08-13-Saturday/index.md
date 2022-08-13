@@ -9,3 +9,7 @@ excludeFromIndex: true
 Everyone on the internet always talks about the same things over and over and it's become tedious and a little boring.
 
 Speaking of tedious, is anyone else tired of me doing this every day? I'm a little tired of it.
+
+Sometimes we forget that walled gardens can be safe, beautiful, comfortable spaces.
+
+This again, hard. [C-x C-c](/2022/c-x-c-c/)
