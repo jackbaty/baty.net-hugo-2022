@@ -10,6 +10,10 @@ Everyone on the internet always talks about the same things over and over and it
 
 Speaking of tedious, is anyone else tired of me doing this every day? I'm a little tired of it.
 
-Sometimes we forget that walled gardens can be safe, beautiful, comfortable spaces.
+Sometimes we forget that walled gardens can also be safe, beautiful, comfortable spaces.
 
 This again, hard. [C-x C-c](/2022/c-x-c-c/)
+
+Perhaps I'm better off using software that is less configurable.
+
+I am wildly disagreeable today.
