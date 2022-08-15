@@ -19,3 +19,5 @@ Sometimes I forget that [BBEdit](https://www.barebones.com/products/bbedit/) can
 Can you imagine how good I'd be at stuff if I'd stick with said stuff for more than a day at a time? I had to look up how to insert a Markdown link in BBEdit. I first hit `C-c C-l` because Emacs. Then I hit `CMD-k` because everything else. Nothing happened, of course, so I had to create a "Clipping" for it, which works fine, and I can assign any key I want as a trigger (e.g. `CMD-k`). It sucks that one, I didn't already have a clipping for that, and two, that I had to look up how to make one.
 
 You know what else I tend to forget? BBEdit never ever crashes or otherwise misbehaves and it's never lost a single word of text in the 25+ years I've been using it.
+
+Emacs and I have mostly settled our differences today. That was close.
