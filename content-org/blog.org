@@ -40,6 +40,8 @@ I'm trying to train my fingers to use pinky-and-middle-finger for =C-x= and pink
 
 I can't shake the feeling that DALL-E is the beginning of the end. Of what I'm not sure, but I am sure that it's a /lot/.
 
+How about letting me delete a text in Messages with a single gesture and stop asking me to confirm every time. Give me Undo, instead. Please?
+
 
 
 **** DONE Thursday, August 11, 2022
