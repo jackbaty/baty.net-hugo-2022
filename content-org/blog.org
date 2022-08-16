@@ -38,6 +38,8 @@ This could be a good idea: [[https://blog.jim-nielsen.com/2022/well-known-links-
 
 I'm trying to train my fingers to use pinky-and-middle-finger for =C-x= and pinky-and-index-finger for =C-c=. It's not going well, yet.
 
+I can't shake the feeling that DALL-E is the beginning of the end. Of what I'm not sure, but I am sure that it's a /lot/.
+
 
 
 **** DONE Thursday, August 11, 2022
