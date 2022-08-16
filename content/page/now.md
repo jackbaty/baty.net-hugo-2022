@@ -5,6 +5,8 @@ draft = false
 weight = 0
 url = "/now/"
 showDate = false
+excludeFromIndex = true
+excludeFromTopNav = true
 +++
 
 What I'm doing as of **Friday, July 29, 2022**

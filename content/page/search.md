@@ -6,7 +6,7 @@ excludeFromTopNav: false
 url: "/search/"
 # set the link if you want to redirect the user.
 link: ""
-weight: 0
+weight: 8
 ---
 
 <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">

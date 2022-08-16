@@ -2,9 +2,9 @@
 title = "About"
 lastmod = 2022-07-24T05:51:38-04:00
 draft = false
-weight = 0
 url = "/about/"
 showDate = false
+weight = 4
 +++
 
 {{< figure src="./jack-headshot-250.jpg" caption="Your host, Jack Baty" class="image-right" >}}
