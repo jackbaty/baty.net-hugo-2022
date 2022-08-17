@@ -19,6 +19,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Wednesday, August 17, 2022
+CLOSED: [2022-08-17 Wed 06:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-17-Wednesday
+:EXPORT_HUGO_SLUG: 2022-08-17
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-17 Wed 06:53]
+:END:
+☀️   Clear +60°F
+
+I'd be more interested in spending time on the [[https://micro.blog][Micro.blog]] timeline if they'd implement (private) likes. As it stands, my timeline consists almost entirely of things like "@person Nice! 👏" because there's no other way to acknowledge something.
+
 **** DONE Tuesday, August 16, 2022
 CLOSED: [2022-08-16 Tue 06:14]
 :PROPERTIES:
@@ -38,7 +52,8 @@ This could be a good idea: [[https://blog.jim-nielsen.com/2022/well-known-links-
 
 I'm trying to train my fingers to use pinky-and-middle-finger for =C-x= and pinky-and-index-finger for =C-c=. It's not going well, yet.
 
-I can't shake the feeling that DALL-E is the beginning of the end. Of what I'm not sure, but I am sure that it's a /lot/.
+I can't shake the feeling that DALL-E is the beginning of the end. The end of /what/, I'm not sure, but a lot, I bet.
+
 
 How about letting me delete a text in Messages with a single gesture and stop asking me to confirm every time. Give me Undo, instead. Please?
 

@@ -1,7 +1,7 @@
 +++
 title = "Tuesday, August 16, 2022"
 date = 2022-08-16T06:14:00-04:00
-lastmod = 2022-08-16T14:04:14-04:00
+lastmod = 2022-08-16T16:00:00-04:00
 slug = 2022-08-16
 draft = false
 weight = 0
@@ -15,7 +15,7 @@ This could be a good idea: [A Well-known Links Resource](https://blog.jim-nielse
 
 I'm trying to train my fingers to use pinky-and-middle-finger for `C-x` and pinky-and-index-finger for `C-c`. It's not going well, yet.
 
-I can't shake the feeling that DALL-E is the beginning of the end. Of what I'm not sure, but I am sure that it's a _lot_.
+I can't shake the feeling that DALL-E is the beginning of the end. The end of _what_, I'm not sure, but a lot, I bet.
 
 How about letting me delete a text in Messages with a single gesture and stop asking me to confirm every time. Give me Undo, instead. Please?
 
