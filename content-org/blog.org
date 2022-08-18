@@ -30,7 +30,7 @@ CLOSED: [2022-08-18 Thu 05:11]
 - State "DONE"       from "TODO"       [2022-08-18 Thu 05:11]
 :END:
 
-
+I haven't felt like working hard enough to write complete blog posts recently, so I did the obvious thing and dusted off my old newsletter. It's still called "The Lathe" and it's running on a self-hosted Ghost instance at [[https://rudimentarylathe.org][RudimentaryLathe.org]]. How's that for doing the opposite of what I should?
 
 **** DONE Wednesday, August 17, 2022
 CLOSED: [2022-08-17 Wed 06:53]
@@ -72,7 +72,6 @@ I can't shake the feeling that DALL-E is the beginning of the end. The end of /w
 
 
 How about letting me delete a text in Messages with a single gesture and stop asking me to confirm every time. Give me Undo, instead. Please?
-
 
 
 **** DONE Thursday, August 11, 2022
