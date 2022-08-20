@@ -13,5 +13,9 @@ weight = 0
 
 I'm so tired of troubleshooting everything all the time.
 
+I need to throw a wrench into the works.
+
+I suppose DALL-E will end up as Unsplash without the people.
+
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
