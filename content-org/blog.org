@@ -18,7 +18,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
+
 *** August 2022
+**** DONE Saturday, August 20, 2022
+CLOSED: [2022-08-20 Sat 08:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-20-Saturday
+:EXPORT_HUGO_SLUG: 2022-08-20
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-20 Sat 08:12]
+:END:
+
+#+begin_quote
+...all I'm saying is that technology can't be responsible for only one kind of progress and wash its robot hands of the other.
+
+[[https://www.wired.com/story/forget-disruption-tech-fetishize-stability/][Forget Disruption. Tech Needs to Fetishize Stability | Paul Ford, WIRED]]
+#+end_quote
+
+I'm so tired of troubleshooting everything all the time.
+
 **** DONE Thursday, August 18, 2022
 CLOSED: [2022-08-18 Thu 05:11]
 :PROPERTIES:
