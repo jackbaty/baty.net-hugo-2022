@@ -17,5 +17,7 @@ A famous artist saying "The tools don't matter" is like when a rich person says 
 
 What would happen if I simply used everything as-is? What if I didn't tweak or customize or otherwise try and wrangle software to my very specific whims? I bet life would get easier and I'd be overall more productive. But, would I be happier? Dunno.
 
+Ten days after first symptoms, I'm still testing positive for COVID-19. Enough already!
+
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
