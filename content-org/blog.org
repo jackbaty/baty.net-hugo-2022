@@ -41,6 +41,8 @@ TextExpander is borked on my MBP, so I'm using [[https://espanso.org/][Espanso]]
 
 A famous artist saying "The tools don't matter" is like when a rich person says "Money isn't important".
 
+What would happen if I simply used everything as-is? What if I didn't tweak or customize or otherwise try and wrangle software to my very specific whims? I bet life would get easier and I'd be overall more productive. But, would I be happier? Dunno.
+
 **** DONE Saturday, August 20, 2022
 CLOSED: [2022-08-20 Sat 08:12]
 :PROPERTIES:
