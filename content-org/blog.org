@@ -20,6 +20,27 @@
 :END:
 
 *** August 2022
+**** DONE Sunday, August 21, 2022
+CLOSED: [2022-08-21 Sun 06:00]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-21-Sunday
+:EXPORT_HUGO_SLUG: 2022-08-21
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-21 Sun 06:00]
+:END:
+
+TextExpander is borked on my MBP, so I'm using [[https://espanso.org/][Espanso]] again. Using TextExpander has started feeling kind of gross lately anyway.
+
+#+begin_quote
+"Don't get into this binary thing where you're looking at Fox or CNN. Read the other side. Some of your fellow citizens have good reasons to believe something different than you do. I try to think sometimes about where are they right? Not are they wrong. You'll become a better thinker."
+
+[[https://finance.yahoo.com/news/jamie-dimon-sounds-off-morning-brief-110044236.html][Jaime Dimon, CEO Morgan Chase]]
+#+end_quote
+
+A famous artist saying "The tools don't matter" is like when a rich person says "Money isn't important".
+
 **** DONE Saturday, August 20, 2022
 CLOSED: [2022-08-20 Sat 08:12]
 :PROPERTIES:
