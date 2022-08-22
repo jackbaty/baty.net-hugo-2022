@@ -13,7 +13,7 @@ Last week I decided that I'd like to write with a bit more discipline than what 
 
 <!--more-->
 
-The original intent was to only use the new blog for publishing my newsletter, "The Lathe", but once everything was running, I was reminded how nice it is to write and publish a blog using Ghost. It made me want to write everything over there, which of course creates a dilemma for us here at baty.net.
+The original intent was to only use the new blog for publishing my newsletter, "The Lathe", but once everything was running I was reminded how nice it is to write and publish a blog using Ghost. It made me want to write everything over there, which of course creates a dilemma for us here at baty.net.
 
 Just when I'd finally gotten to a point where most of my published writing was in one place, I went and added another place. 
 

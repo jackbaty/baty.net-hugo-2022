@@ -8,8 +8,7 @@
 #+startup: fold hidedrawers hidestars indent
 #+options: broken-links:t d:t
 #+todo: TODO(t) | DONE(d!)
-#+macro: mark @@html:<mark>$1</mark>@@
-#+macro: fig @@html:{{< figure src="$1" caption="$2" >}}@@
+#+macro: mark @@html:<mark>$1</mark>@@ #+macro: fig @@html:{{< figure src="$1" caption="$2" >}}@@
 #+macro: img @@html:{{< figure src="$1" caption="$2" >}}@@
 
 * Drafts
@@ -35,6 +34,7 @@ I received several nice responses to [[https://rudimentarylathe.org/2022/the-lat
 
 I had to go back to Doom Emacs and stop using my own configuration. There's just too much missing from mine that Doom does out of the box. I kind of hate myself for this, but here we are.
 
+I get reminders every Monday from at least 3 apps telling me to "Do a Weekly Review" but I still never do a weekly review.
 
 **** DONE Sunday, August 21, 2022
 CLOSED: [2022-08-21 Sun 06:00]
