@@ -32,7 +32,7 @@ CLOSED: [2022-08-22 Mon 05:26]
 
 I received several nice responses to [[https://rudimentarylathe.org/2022/the-lathe-saturday-august-20-2022/][the recent newsletter]] and that makes me feel pretty good.
 
-I had to go back to Doom Emacs and stop using my own configuration. There's just too much missing from mine that Doom does out of the box. I kind of hate myself for this, but here we are.
+I had to go back to Doom Emacs and stop using my own configuration. There's just too much missing from mine that Doom does out of the box. Plus, I've already contaminated my muscle memory with Doom's use of Space as leader key. I kind of hate myself for this, but here we are.
 
 I get reminders every Monday from at least 3 apps telling me to "Do a Weekly Review" but I still never do a weekly review.
 
