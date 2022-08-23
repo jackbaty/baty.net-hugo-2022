@@ -20,6 +20,19 @@
 :END:
 
 *** August 2022
+**** DONE Tuesday, August 23, 2022
+CLOSED: [2022-08-23 Tue 06:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-23-Tuesday
+:EXPORT_HUGO_SLUG: 2022-08-23
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-23 Tue 06:19]
+:END:
+
+I love the way [[https://thebrowser.company/][Arc]] handles links from other apps by opening a small, dedicated window but with the option to move it into the main window. It feels like the way it /should/ work.
+
 **** DONE Monday, August 22, 2022
 CLOSED: [2022-08-22 Mon 05:26]
 :PROPERTIES:
