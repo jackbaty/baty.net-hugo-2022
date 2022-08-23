@@ -1,4 +1,4 @@
-;; -*- eval: (olivetti-mode) -*-
+;; -*- eval: (writeroom-mode) -*-
 #+hugo_base_dir: ../
 #+hugo_section: ./
 #+hugo_weight: nil
@@ -31,7 +31,11 @@ CLOSED: [2022-08-23 Tue 06:19]
 - State "DONE"       from "TODO"       [2022-08-23 Tue 06:19]
 :END:
 
+I've finally gotten access to [[https://openai.com/dall-e-2/][DALL-E]] but I promise not to share every single thing I ask it to generate. Like, say, "Sasquatch in a blue recliner drinking a cup of coffee.""
+
 I love the way [[https://thebrowser.company/][Arc]] handles links from other apps by opening a small, dedicated window but with the option to move it into the main window. It feels like the way it /should/ work.
+
+I couldn't figure out what was making an intermittent squeaky whistling sound. It sounded like it was coming from everywhere. It was my nose.
 
 **** DONE Monday, August 22, 2022
 CLOSED: [2022-08-22 Mon 05:26]
