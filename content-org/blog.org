@@ -20,6 +20,20 @@
 :END:
 
 *** August 2022
+**** DONE Wednesday, August 24, 2022
+CLOSED: [2022-08-24 Wed 05:54]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-24-Wednesday
+:EXPORT_HUGO_SLUG: 2022-08-24
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-24 Wed 05:54]
+:END:
+
+Did you know that you can toggle the display of hidden (dot) files in macOS Finder by hitting =Command-Shift-.= ? I didn't know that.
+
+I get up each morning and sit down in front of Emacs and wonder if I'll still be there at the end of the day. Or will I have switched to some other tool. And back again.
 **** DONE Tuesday, August 23, 2022
 CLOSED: [2022-08-23 Tue 06:19]
 :PROPERTIES:
@@ -33,7 +47,7 @@ CLOSED: [2022-08-23 Tue 06:19]
 
 I've finally gotten access to [[https://openai.com/dall-e-2/][DALL-E]] but I promise not to share every single thing I ask it to generate. Like, say, "Sasquatch in a blue recliner drinking a cup of coffee.""
 
-I love the way [[https://thebrowser.company/][Arc]] handles links from other apps by opening a small, dedicated window but with the option to move it into the main window. It feels like the way it /should/ work.
+I love the way [[https://thebrowser.company/][Arc]] handles links from other apps by opening a small, dedicated window but with the option to move it into the main window. It feels like the way it /should/ work. It's amazing, but after several weeks I have basically zero complaints using Arc other than they need to support bookmarklets soon.
 
 I couldn't figure out what was making an intermittent squeaky whistling sound. It sounded like it was coming from everywhere. It was my nose.
 
