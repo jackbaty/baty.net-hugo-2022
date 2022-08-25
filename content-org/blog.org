@@ -33,7 +33,6 @@ CLOSED: [2022-08-25 Thu 06:26]
 
 #+begin_quote
 It is unlikely, though not impossible, that someone sickened by China’s campaign against the Uyghurs is indifferent to the plight of migrants or supportive of retaining the detention center at Guantánamo. But it is undeniably true that how somebody feels or posts online is not going to do anything to help any of these people, and even truer that scolding someone about his selective outrage will not.
-
 ...
 
 But the other great crime of whataboutism is that it solidifies the online sense that the appearance of paying attention is paramount—not actually paying attention...Most forms of paying attention involve reading and listening, not talking. Caring about something and staying informed is not synonymous with public speech about it.
@@ -41,6 +40,9 @@ But the other great crime of whataboutism is that it solidifies the online sense
 [[https://hedgehogreview.com/issues/the-use-and-abuse-of-history/articles/whataboutism][Whataboutism - The Hedgehog Review]]
 #+end_quote
 
+When someone suggests that doing everything in Emacs helps make them more efficient because there's less "context switching" I think about two things: First, is context switching really that expensive? And second, it took you 5 years to get Emacs to a point where you're productive with it, and you ain't never going to make up that time.
+
+Face it, though, I'm most comfortable in Emacs, even though I'd often rather be somewhere prettier and more pointy-clicky.
 **** DONE Wednesday, August 24, 2022
 CLOSED: [2022-08-24 Wed 05:54]
 :PROPERTIES:
