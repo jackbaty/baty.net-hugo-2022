@@ -20,6 +20,22 @@
 :END:
 
 *** August 2022
+**** DONE Friday, August 26, 2022
+CLOSED: [2022-08-26 Fri 04:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-26-Friday
+:EXPORT_HUGO_SLUG: 2022-08-26
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-26 Fri 04:52]
+:END:
+
+☁️   Overcast +66°F
+
+What shall we talk about today? Emacs? Photography? Dogs? Apple? Culture? I have no idea what I'll be interested in today. Yet.
+
+TiddlyWiki is as close as you get to the concept of Emacs, but in a web browser.
 **** DONE Thursday, August 25, 2022
 CLOSED: [2022-08-25 Thu 06:26]
 :PROPERTIES:
@@ -43,6 +59,13 @@ But the other great crime of whataboutism is that it solidifies the online sense
 When someone suggests that doing everything in Emacs helps make them more efficient because there's less "context switching" I think about two things: First, is context switching really that expensive? And second, it took you 5 years to get Emacs to a point where you're productive with it, and you ain't never going to make up that time.
 
 Face it, though, I'm most comfortable in Emacs, even though I'd often rather be somewhere prettier and more pointy-clicky.
+
+#+begin_quote
+I am writing a book,” says the man at the drinks party, in the old Peter Cook cartoon. “Neither am I,” replies his companion.
+
+[[https://thecritic.co.uk/on-pretending-to-have-read-books/][On Pretending to have read books]]
+#+end_quote
+
 **** DONE Wednesday, August 24, 2022
 CLOSED: [2022-08-24 Wed 05:54]
 :PROPERTIES:

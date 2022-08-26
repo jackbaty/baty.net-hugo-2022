@@ -1,7 +1,7 @@
 +++
 title = "Thursday, August 25, 2022"
 date = 2022-08-25T06:26:00-04:00
-lastmod = 2022-08-25T16:10:10-04:00
+lastmod = 2022-08-25T16:18:30-04:00
 slug = 2022-08-25
 draft = false
 weight = 0
@@ -17,6 +17,10 @@ weight = 0
 When someone suggests that doing everything in Emacs helps make them more efficient because there's less "context switching" I think about two things: First, is context switching really that expensive? And second, it took you 5 years to get Emacs to a point where you're productive with it, and you ain't never going to make up that time.
 
 Face it, though, I'm most comfortable in Emacs, even though I'd often rather be somewhere prettier and more pointy-clicky.
+
+> I am writing a book,” says the man at the drinks party, in the old Peter Cook cartoon. “Neither am I,” replies his companion.
+>
+> [On Pretending to have read books](https://thecritic.co.uk/on-pretending-to-have-read-books/)
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
