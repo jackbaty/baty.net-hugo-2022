@@ -20,6 +20,22 @@
 :END:
 
 *** August 2022
+**** DONE Saturday, August 27, 2022
+CLOSED: [2022-08-27 Sat 05:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-27-Saturday
+:EXPORT_HUGO_SLUG: 2022-08-27
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-27 Sat 05:26]
+:END:
+☀️   Clear +59°F
+
+I spent way too much time yesterday trying to regain control over the Sonos Playbar's sound using my LG TV and Apple TV remotes. Lots of swearing and doing the same things over and over hoping they work this time. Eventually, I got it working, sort of. I'm still pissed.
+
+Wow, I just accidentally long-pressed on a photo in Apple Photos and it magically masked and cut the subject (a person) and I was able to copy just the person it into another app. Is this new? It's a bit sloppy in the masking, but still kind of magic.
+
 **** DONE Friday, August 26, 2022
 CLOSED: [2022-08-26 Fri 04:52]
 :PROPERTIES:
