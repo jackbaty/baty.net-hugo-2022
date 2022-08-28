@@ -18,8 +18,24 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
-
 *** August 2022
+**** DONE Sunday, August 28, 2022
+CLOSED: [2022-08-28 Sun 05:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-28-Sunday
+:EXPORT_HUGO_SLUG: 2022-08-28
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-28 Sun 05:11]
+:END:
+☀️   Clear +66°F
+
+I used the Leica M3 for a while this weekend and it's amazing how good it can feel not chasing lights and numbers around in the viewfinder. No metering, focusing reticles, etc. It's more work and one must pay more attention, but maybe that's why it's so nice. It almost makes me want to replace my MP with the meterless M-A. Almost.
+
+OMG please stop saying "This is the way" every time you agree with something.
+
+
 **** DONE Saturday, August 27, 2022
 CLOSED: [2022-08-27 Sat 05:26]
 :PROPERTIES:
