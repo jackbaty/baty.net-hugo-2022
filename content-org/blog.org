@@ -41,6 +41,7 @@ I'm tempted to cancel every subscription I can reasonably live without.
 
 After reading [[https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers][The obsessive pleasures of modern keyboard tinkerers]] (h/t [[https://twelvety.blot.im/daily/2022/2022-08-28][Phil]]), I of course wanted a new keyboard. Instead of shopping for one, I dug the [[https://www.realforcekeyboards.com/][RealForce R2]] out of the closet. It's a fine keyboard, and uses my favorite Topre switches, but it's just [[https://archive.baty.net/2020/can-realforce-replace-hhkb/][not the same as my beloved HHKB]].
 
+Using a nice pen on good paper makes writing by hand a pleasure, but if I'm being honest I prefer typing most of the time. Especially when using a delightful keyboard or typewriter.
 
 **** DONE Sunday, August 28, 2022
 CLOSED: [2022-08-28 Sun 05:11]
