@@ -19,6 +19,24 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Monday, August 29, 2022
+CLOSED: [2022-08-29 Mon 05:07]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-29-Monday
+:EXPORT_HUGO_SLUG: 2022-08-29
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-29 Mon 05:07]
+:END:
+⛅️  Partly cloudy +72°F
+
+It's Monday morning at 5:10 am and I am supposed to start a "Weekly Review" soon but I don't feel like it. I don't feel like much of anything, actually.
+
+I finished all 5 seasons of "Breaking Bad" last night. It may be Quality Television™, but it was also nothing but horrible people doing horrible things and I'm a lesser person for having watched it.
+
+Raw speed is nowhere near the top of my list of things to consider when buying a keyboard.
+
 **** DONE Sunday, August 28, 2022
 CLOSED: [2022-08-28 Sun 05:11]
 :PROPERTIES:
@@ -34,7 +52,6 @@ CLOSED: [2022-08-28 Sun 05:11]
 I used the Leica M3 for a while this weekend and it's amazing how good it can feel not chasing lights and numbers around in the viewfinder. No metering, focusing reticles, etc. It's more work and one must pay more attention, but maybe that's why it's so nice. It almost makes me want to replace my MP with the meterless M-A. Almost.
 
 OMG please stop saying "This is the way" every time you agree with something.
-
 
 **** DONE Saturday, August 27, 2022
 CLOSED: [2022-08-27 Sat 05:26]
