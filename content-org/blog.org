@@ -19,6 +19,26 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** August 2022
+**** DONE Tuesday, August 30, 2022
+CLOSED: [2022-08-30 Tue 04:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-30-Tuesday
+:EXPORT_HUGO_SLUG: 2022-08-30
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-08-30 Tue 04:47]
+:END:
+
+I switched back to the HHKB this morning because I prefer it by a wide margin to any other keyboard I've tried.
+
+After more than a year with the [[https://baty.net/2021/pilot-custom-823-fountain-pen/][Pilot Custom 823]] fountain pen, I can say that I have no need for other pens. The only time I choose a different pen is when I'm bored and feel like using something different. It lasts a day or so and I'm back to using the Pilot. It's possible that I'll never buy another fountain pen.
+
+I've also switched back to a ruled notebook. Dot grid pages feel like the worst of both worlds.
+
+
+
+
 **** DONE Monday, August 29, 2022
 CLOSED: [2022-08-29 Mon 05:07]
 :PROPERTIES:
