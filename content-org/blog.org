@@ -25,9 +25,7 @@ CLOSED: [2022-08-30 Tue 04:47]
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2022-08-30-Tuesday
 :EXPORT_HUGO_SLUG: 2022-08-30
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-08-30 Tue 04:47]
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noSummary true
 :END:
 
 I switched back to the HHKB this morning because I prefer it by a wide margin to any other keyboard I've tried.
@@ -35,6 +33,8 @@ I switched back to the HHKB this morning because I prefer it by a wide margin to
 After more than a year with the [[https://baty.net/2021/pilot-custom-823-fountain-pen/][Pilot Custom 823]] fountain pen, I can say that I have no need for other pens. The only time I choose a different pen is when I'm bored and feel like using something different. It lasts a day or so and I'm back to using the Pilot. It's possible that I'll never buy another fountain pen.
 
 I've also switched back to a ruled notebook. Dot grid pages feel like the worst of both worlds.
+
+Alright, I'm no longer distinguishing between journal and blog posts on the home page here. The latest 10 entries will show up, regardless of type. I should probably force today's journal page to the top, but until that becomes a problem in real life I'm going to leave it alone.
 
 
 
