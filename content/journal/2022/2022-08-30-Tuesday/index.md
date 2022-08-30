@@ -1,7 +1,7 @@
 +++
 title = "Tuesday, August 30, 2022"
 date = 2022-08-30T04:47:00-04:00
-lastmod = 2022-08-30T07:46:50-04:00
+lastmod = 2022-08-30T10:33:16-04:00
 slug = 2022-08-30
 draft = false
 weight = 0
@@ -15,6 +15,8 @@ After more than a year with the [Pilot Custom 823](https://baty.net/2021/pilot-c
 I've also switched back to a ruled notebook. Dot grid pages feel like the worst of both worlds.
 
 Alright, I'm no longer distinguishing between journal and blog posts on the home page here. The latest 10 entries will show up, regardless of type. I should probably force today's journal page to the top, but until that becomes a problem in real life I'm going to leave it alone.
+
+Wrote a post about instant cameras: [Instant Cameras](https://rudimentarylathe.org/2022/instant-cameras/)
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"

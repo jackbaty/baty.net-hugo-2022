@@ -36,7 +36,7 @@ I've also switched back to a ruled notebook. Dot grid pages feel like the worst 
 
 Alright, I'm no longer distinguishing between journal and blog posts on the home page here. The latest 10 entries will show up, regardless of type. I should probably force today's journal page to the top, but until that becomes a problem in real life I'm going to leave it alone.
 
-
+Wrote a post about instant cameras: [[https://rudimentarylathe.org/2022/instant-cameras/][Instant Cameras]]
 
 
 **** DONE Monday, August 29, 2022
