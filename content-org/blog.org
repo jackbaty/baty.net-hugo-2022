@@ -18,7 +18,34 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
+*** September 2022
+**** DONE Thursday, September 01, 2022
+CLOSED: [2022-09-01 Thu 05:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-09-01-Thursday
+:EXPORT_HUGO_SLUG: 2022-09-01
+:END:
+
+Remember [[https://blot.im][Blot.im]]? I loved blogging with Blot. Hmmm.
+
 *** August 2022
+**** DONE Wednesday, August 31, 2022
+CLOSED: [2022-08-31 Wed 05:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-08-31-Wednesday
+:EXPORT_HUGO_SLUG: 2022-08-31
+:END:
+
+#+begin_quote
+You'd think there'd be at least five new me's by now, given how often I've vowed to become better. But no. I've been writing about configuring my text editor since 1996
+
+Paul Ford
+#+end_quote
+
+I'm once again keeping a [[https://archive.baty.net/2019/keeping-a-digital-print-archive/][Digital Print Archive]] of my favorite processed RAW files. I export a JPG copy of any RAW photo I edit. This gives me a local, "printed" copy, with all of the edits, independant of any software.
+
 **** DONE Tuesday, August 30, 2022
 CLOSED: [2022-08-30 Tue 04:47]
 :PROPERTIES:
@@ -37,7 +64,6 @@ I've also switched back to a ruled notebook. Dot grid pages feel like the worst 
 Alright, I'm no longer distinguishing between journal and blog posts on the home page here. The latest 10 entries will show up, regardless of type. I should probably force today's journal page to the top, but until that becomes a problem in real life I'm going to leave it alone.
 
 Wrote a post about instant cameras: [[https://rudimentarylathe.org/2022/instant-cameras/][Instant Cameras]]
-
 
 **** DONE Monday, August 29, 2022
 CLOSED: [2022-08-29 Mon 05:07]
