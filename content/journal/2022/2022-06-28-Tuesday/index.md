@@ -1,13 +1,12 @@
-+++
-title = "Tuesday, June 28, 2022"
-date = 2022-06-28T05:05:00-04:00
-lastmod = 2022-06-28T13:58:14-04:00
-slug = 2022-06-28
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +50°F"
-+++
+---
+title: "Tuesday, June 28, 2022"
+date: 2022-06-28T05:05:00-04:00
+lastmod: 2022-09-02T04:33:55-04:00
+slug: 2022-06-28
+draft: false
+weight: 0
+weather: "☀️ Clear +50°F"
+---
 
 > The other day I got out my can-opener and was opening a can of worms when I thought, What am I doing?!
 >

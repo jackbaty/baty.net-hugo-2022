@@ -1,12 +1,12 @@
-+++
-title = "Monday, August 01, 2022"
-date = 2022-08-01T05:50:00-04:00
-lastmod = 2022-08-01T12:44:35-04:00
-slug = 2022-08-01
-tags = ["Gear"]
-draft = false
-weight = 0
-+++
+---
+title: "Monday, August 01, 2022"
+date: 2022-08-01T05:50:00-04:00
+lastmod: 2022-09-02T04:33:49-04:00
+slug: 2022-08-01
+tags: ["Gear"]
+draft: false
+weight: 0
+---
 
 Well, I sold the Leica M10-R. Now what?
 

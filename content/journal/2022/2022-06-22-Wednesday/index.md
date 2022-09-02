@@ -1,12 +1,12 @@
-+++
-title = "Wednesday, June 22, 2022"
-date = 2022-06-22T04:46:00-04:00
-lastmod = 2022-06-22T16:13:26-04:00
-slug = 2022-06-22
-draft = false
-weight = 0
-weather = "☀️ Clear +77°F"
-+++
+---
+title: "Wednesday, June 22, 2022"
+date: 2022-06-22T04:46:00-04:00
+lastmod: 2022-09-02T04:33:56-04:00
+slug: 2022-06-22
+draft: false
+weight: 0
+weather: "☀️ Clear +77°F"
+---
 
 {{< figure src="beach.jpg" caption=" Aug 1954 - Richard Baty" >}}
 

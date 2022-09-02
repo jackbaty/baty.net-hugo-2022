@@ -1,12 +1,12 @@
-+++
-title = "Tuesday, August 30, 2022"
-date = 2022-08-30T04:47:00-04:00
-lastmod = 2022-08-30T10:33:16-04:00
-slug = 2022-08-30
-draft = false
-weight = 0
-noSummary = true
-+++
+---
+title: "Tuesday, August 30, 2022"
+date: 2022-08-30T04:47:00-04:00
+lastmod: 2022-09-02T04:33:43-04:00
+slug: 2022-08-30
+draft: false
+weight: 0
+noSummary: true
+---
 
 I switched back to the HHKB this morning because I prefer it by a wide margin to any other keyboard I've tried.
 

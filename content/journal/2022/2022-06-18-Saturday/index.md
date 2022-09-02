@@ -1,13 +1,12 @@
-+++
-title = "Saturday, June 18, 2022"
-date = 2022-06-18T04:51:00-04:00
-lastmod = 2022-06-18T15:34:10-04:00
-slug = 2022-06-18
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +56°F "
-+++
+---
+title: "Saturday, June 18, 2022"
+date: 2022-06-18T04:51:00-04:00
+lastmod: 2022-09-02T04:33:57-04:00
+slug: 2022-06-18
+draft: false
+weight: 0
+weather: "☀️ Clear +56°F "
+---
 
 In [this Stereogum piece](https://www.stereogum.com/2190488/the-number-ones-barenaked-ladies-one-week/columns/the-number-ones/amp/), Tom Breihan kind of blames Barenaked Ladies for our current billioniare situation:
 

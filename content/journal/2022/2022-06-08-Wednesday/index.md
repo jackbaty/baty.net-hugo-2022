@@ -1,13 +1,12 @@
-+++
-title = "Wednesday, June 08, 2022"
-date = 2022-06-08T17:19:00-04:00
-lastmod = 2022-06-08T17:19:57-04:00
-slug = 2022-06-08
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "🌦 Light rain +63°F"
-+++
+---
+title: "Wednesday, June 08, 2022"
+date: 2022-06-08T17:19:00-04:00
+lastmod: 2022-09-02T04:34:00-04:00
+slug: 2022-06-08
+draft: false
+weight: 0
+weather: "🌦 Light rain +63°F"
+---
 
 Up all night with an uncomfortable dog. Lots going on today.
 

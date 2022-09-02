@@ -1,13 +1,12 @@
-+++
-title = "Monday, June 13, 2022"
-date = 2022-06-13T04:26:00-04:00
-lastmod = 2022-06-13T15:31:50-04:00
-slug = 2022-06-13
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +61°F"
-+++
+---
+title: "Monday, June 13, 2022"
+date: 2022-06-13T04:26:00-04:00
+lastmod: 2022-09-02T04:33:58-04:00
+slug: 2022-06-13
+draft: false
+weight: 0
+weather: "☀️ Clear +61°F"
+---
 
 The <mark>full moon</mark> was astonishingly large and bright during my walk this morning. I actually had to just stop and stare at it for a while.
 

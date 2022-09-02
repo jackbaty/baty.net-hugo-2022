@@ -1,11 +1,11 @@
-+++
-title = "Sunday, August 21, 2022"
-date = 2022-08-21T06:00:00-04:00
-lastmod = 2022-08-21T08:45:28-04:00
-slug = 2022-08-21
-draft = false
-weight = 0
-+++
+---
+title: "Sunday, August 21, 2022"
+date: 2022-08-21T06:00:00-04:00
+lastmod: 2022-09-02T04:33:45-04:00
+slug: 2022-08-21
+draft: false
+weight: 0
+---
 
 TextExpander is borked on my MBP, so I'm using [Espanso](https://espanso.org/) again. Using TextExpander has started feeling kind of gross lately anyway.
 
@@ -16,8 +16,6 @@ TextExpander is borked on my MBP, so I'm using [Espanso](https://espanso.org/) a
 A famous artist saying "The tools don't matter" is like when a rich person says "Money isn't important".
 
 What would happen if I simply used everything as-is? What if I didn't tweak or customize or otherwise try and wrangle software to my very specific whims? I bet life would get easier and I'd be overall more productive. But, would I be happier? Dunno.
-
-Ten days after first symptoms, I'm still testing positive for COVID-19. Enough already!
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"

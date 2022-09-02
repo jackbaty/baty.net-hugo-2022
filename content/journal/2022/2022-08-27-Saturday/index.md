@@ -1,11 +1,11 @@
-+++
-title = "Saturday, August 27, 2022"
-date = 2022-08-27T05:26:00-04:00
-lastmod = 2022-08-27T09:20:57-04:00
-slug = 2022-08-27
-draft = false
-weight = 0
-+++
+---
+title: "Saturday, August 27, 2022"
+date: 2022-08-27T05:26:00-04:00
+lastmod: 2022-09-02T04:33:44-04:00
+slug: 2022-08-27
+draft: false
+weight: 0
+---
 
 ☀️   Clear +59°F
 

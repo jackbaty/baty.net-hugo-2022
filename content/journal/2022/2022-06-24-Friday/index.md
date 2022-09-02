@@ -1,13 +1,12 @@
-+++
-title = "Friday, June 24, 2022"
-date = 2022-06-24T05:17:00-04:00
-lastmod = 2022-06-24T14:26:06-04:00
-slug = 2022-06-24
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +59°F"
-+++
+---
+title: "Friday, June 24, 2022"
+date: 2022-06-24T05:17:00-04:00
+lastmod: 2022-09-02T04:33:56-04:00
+slug: 2022-06-24
+draft: false
+weight: 0
+weather: "☀️ Clear +59°F"
+---
 
 After my brief [existential crisis](https://baty.net/2022/tmi/) yesterday, Alex was kind enough to [remind me why I do it this way](https://fondoftea.com/2022/06/23/). I feel better now, thanks.
 

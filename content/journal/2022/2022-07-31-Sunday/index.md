@@ -1,11 +1,11 @@
-+++
-title = "Sunday, July 31, 2022"
-date = 2022-07-31T08:29:00-04:00
-lastmod = 2022-07-31T16:55:37-04:00
-slug = 2022-07-31
-draft = false
-weight = 0
-+++
+---
+title: "Sunday, July 31, 2022"
+date: 2022-07-31T08:29:00-04:00
+lastmod: 2022-09-02T04:33:49-04:00
+slug: 2022-07-31
+draft: false
+weight: 0
+---
 
 Paul Ford, genius or madman?:
 

@@ -1,11 +1,11 @@
-+++
-title = "Monday, August 29, 2022"
-date = 2022-08-29T05:07:00-04:00
-lastmod = 2022-08-29T09:58:01-04:00
-slug = 2022-08-29
-draft = false
-weight = 0
-+++
+---
+title: "Monday, August 29, 2022"
+date: 2022-08-29T05:07:00-04:00
+lastmod: 2022-09-02T04:33:43-04:00
+slug: 2022-08-29
+draft: false
+weight: 0
+---
 
 ⛅️  Partly cloudy +72°F
 

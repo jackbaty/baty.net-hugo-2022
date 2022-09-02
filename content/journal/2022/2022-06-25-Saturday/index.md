@@ -1,13 +1,12 @@
-+++
-title = "Saturday, June 25, 2022"
-date = 2022-06-25T05:21:00-04:00
-lastmod = 2022-06-25T09:02:24-04:00
-slug = 2022-06-25
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +67°F"
-+++
+---
+title: "Saturday, June 25, 2022"
+date: 2022-06-25T05:21:00-04:00
+lastmod: 2022-09-02T04:33:55-04:00
+slug: 2022-06-25
+draft: false
+weight: 0
+weather: "☀️ Clear +67°F"
+---
 
 I don't feel like being here today. <mark>The world depresses me</mark>. The people in it depress me. I'm a middle aged white CIS male, which means I have little to worry about, personally, from our new reality. I'm privileged. I can't even imagine what the world must feel like for anyone _not_ like me. My heart breaks as I watch everything become darker for so many people.
 

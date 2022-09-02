@@ -1,13 +1,12 @@
-+++
-title = "Saturday, June 11, 2022"
-date = 2022-06-11T05:03:00-04:00
-lastmod = 2022-06-11T14:32:44-04:00
-slug = 2022-06-11
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +56°F"
-+++
+---
+title: "Saturday, June 11, 2022"
+date: 2022-06-11T05:03:00-04:00
+lastmod: 2022-09-02T04:33:59-04:00
+slug: 2022-06-11
+draft: false
+weight: 0
+weather: "☀️ Clear +56°F"
+---
 
 There's a new version of TheBrain available: [TheBrain 13 Alpha](https://www.thebrain.com/products/thebrain/thebrain13). Of course I'm trying it! Big item this time is the notes editor and markdown improvements. Still no Vim bindings 😆.
 

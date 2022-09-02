@@ -1,11 +1,11 @@
-+++
-title = "Friday, August 26, 2022"
-date = 2022-08-26T04:52:00-04:00
-lastmod = 2022-08-26T09:57:46-04:00
-slug = 2022-08-26
-draft = false
-weight = 0
-+++
+---
+title: "Friday, August 26, 2022"
+date: 2022-08-26T04:52:00-04:00
+lastmod: 2022-09-02T04:33:44-04:00
+slug: 2022-08-26
+draft: false
+weight: 0
+---
 
 ☁️   Overcast +66°F
 

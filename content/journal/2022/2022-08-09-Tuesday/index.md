@@ -1,11 +1,11 @@
-+++
-title = "Tuesday, August 09, 2022"
-date = 2022-08-09T05:15:00-04:00
-lastmod = 2022-08-09T18:01:54-04:00
-slug = 2022-08-09
-draft = false
-weight = 0
-+++
+---
+title: "Tuesday, August 09, 2022"
+date: 2022-08-09T05:15:00-04:00
+lastmod: 2022-09-02T04:33:47-04:00
+slug: 2022-08-09
+draft: false
+weight: 0
+---
 
 I love Leica M cameras so much, but my eyes are becoming more disagreeable to it by the month.
 

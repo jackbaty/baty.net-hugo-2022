@@ -1,13 +1,12 @@
-+++
-title = "Thursday, June 09, 2022"
-date = 2022-06-09T05:25:00-04:00
-lastmod = 2022-06-09T10:19:36-04:00
-slug = 2022-06-09
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "⛅️ Partly cloudy +54°F"
-+++
+---
+title: "Thursday, June 09, 2022"
+date: 2022-06-09T05:25:00-04:00
+lastmod: 2022-09-02T04:33:59-04:00
+slug: 2022-06-09
+draft: false
+weight: 0
+weather: "⛅️ Partly cloudy +54°F"
+---
 
 Dentist appointment today. Oh goodie!
 

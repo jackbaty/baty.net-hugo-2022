@@ -1,13 +1,12 @@
-+++
-title = "Saturday, May 14, 2022"
-date = 2022-05-14T05:59:00-04:00
-lastmod = 2022-05-14T12:13:12-04:00
-slug = 2022-05-14
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +65°F"
-+++
+---
+title: "Saturday, May 14, 2022"
+date: 2022-05-14T05:59:00-04:00
+lastmod: 2022-09-02T04:34:01-04:00
+slug: 2022-05-14
+draft: false
+weight: 0
+weather: "☀️ Clear +65°F"
+---
 
 I'm half an inch away from punting and just putting it all in <mark>Apple Notes</mark>.
 

@@ -1,13 +1,12 @@
-+++
-title = "Thursday, June 16, 2022"
-date = 2022-06-16T04:18:00-04:00
-lastmod = 2022-06-16T15:55:17-04:00
-slug = 2022-06-16
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "🌩 Heavy rain with thunderstorm +73°F"
-+++
+---
+title: "Thursday, June 16, 2022"
+date: 2022-06-16T04:18:00-04:00
+lastmod: 2022-09-02T04:33:58-04:00
+slug: 2022-06-16
+draft: false
+weight: 0
+weather: "🌩 Heavy rain with thunderstorm +73°F"
+---
 
 I wish I were less inclined to let The Internet influence my decisions. It's not just a small influence. My <mark>entire personality can change</mark> based on the most recent blog post I've read. I change up my entire workflow because someone wrote something about doing things a different way that I've yet to try. It's crazy-making.
 

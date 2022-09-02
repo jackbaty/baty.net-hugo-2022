@@ -1,11 +1,11 @@
-+++
-title = "Wednesday, August 24, 2022"
-date = 2022-08-24T05:54:00-04:00
-lastmod = 2022-08-24T18:52:42-04:00
-slug = 2022-08-24
-draft = false
-weight = 0
-+++
+---
+title: "Wednesday, August 24, 2022"
+date: 2022-08-24T05:54:00-04:00
+lastmod: 2022-09-02T04:33:44-04:00
+slug: 2022-08-24
+draft: false
+weight: 0
+---
 
 Did you know that you can toggle the display of hidden (dot) files in macOS Finder by hitting `Command-Shift-.` ? I didn't know that.
 

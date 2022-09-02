@@ -1,13 +1,12 @@
-+++
-title = "Sunday, June 19, 2022"
-date = 2022-06-19T05:34:00-04:00
-lastmod = 2022-06-19T13:50:53-04:00
-slug = 2022-06-19
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +56°F"
-+++
+---
+title: "Sunday, June 19, 2022"
+date: 2022-06-19T05:34:00-04:00
+lastmod: 2022-09-02T04:33:57-04:00
+slug: 2022-06-19
+draft: false
+weight: 0
+weather: "☀️ Clear +56°F"
+---
 
 The <mark>bikes vs cars</mark> debate has descended into unreasonableness.
 

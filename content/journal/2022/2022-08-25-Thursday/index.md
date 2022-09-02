@@ -1,11 +1,11 @@
-+++
-title = "Thursday, August 25, 2022"
-date = 2022-08-25T06:26:00-04:00
-lastmod = 2022-08-25T16:18:30-04:00
-slug = 2022-08-25
-draft = false
-weight = 0
-+++
+---
+title: "Thursday, August 25, 2022"
+date: 2022-08-25T06:26:00-04:00
+lastmod: 2022-09-02T04:33:44-04:00
+slug: 2022-08-25
+draft: false
+weight: 0
+---
 
 > It is unlikely, though not impossible, that someone sickened by China’s campaign against the Uyghurs is indifferent to the plight of migrants or supportive of retaining the detention center at Guantánamo. But it is undeniably true that how somebody feels or posts online is not going to do anything to help any of these people, and even truer that scolding someone about his selective outrage will not.
 > ...

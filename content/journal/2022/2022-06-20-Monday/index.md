@@ -1,13 +1,12 @@
-+++
-title = "Monday, June 20, 2022"
-date = 2022-06-20T05:26:00-04:00
-lastmod = 2022-06-20T07:14:57-04:00
-slug = 2022-06-20
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +65°F"
-+++
+---
+title: "Monday, June 20, 2022"
+date: 2022-06-20T05:26:00-04:00
+lastmod: 2022-09-02T04:33:57-04:00
+slug: 2022-06-20
+draft: false
+weight: 0
+weather: "☀️ Clear +65°F"
+---
 
 As much as I like what [Hey email](https://hey.com) is doing, After two years with the service, I've decided to <mark>cancel my subscription</mark>.
 

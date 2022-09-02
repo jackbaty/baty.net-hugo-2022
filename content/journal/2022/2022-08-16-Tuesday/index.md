@@ -1,11 +1,11 @@
-+++
-title = "Tuesday, August 16, 2022"
-date = 2022-08-16T06:14:00-04:00
-lastmod = 2022-08-16T16:00:00-04:00
-slug = 2022-08-16
-draft = false
-weight = 0
-+++
+---
+title: "Tuesday, August 16, 2022"
+date: 2022-08-16T06:14:00-04:00
+lastmod: 2022-09-02T04:33:46-04:00
+slug: 2022-08-16
+draft: false
+weight: 0
+---
 
 I'm typing this in Emacs as an Org-mode file and I guess that means Emacs and I have made up after our little tiff yesterday.
 

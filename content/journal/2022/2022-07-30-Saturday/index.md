@@ -1,11 +1,11 @@
-+++
-title = "Saturday, July 30, 2022"
-date = 2022-07-30T04:26:00-04:00
-lastmod = 2022-07-30T08:50:01-04:00
-slug = 2022-07-30
-draft = false
-weight = 0
-+++
+---
+title: "Saturday, July 30, 2022"
+date: 2022-07-30T04:26:00-04:00
+lastmod: 2022-09-02T04:33:49-04:00
+slug: 2022-07-30
+draft: false
+weight: 0
+---
 
 Spent a day at the beach for the first time this summer. It was a perfect day, and a wonderful place to read. I took some photos with the little Stylus Epic, but there wasn't much interesting. Of course I did end up with at least [one self-portrait](/photo/2022/20220730-from-the-beach/).
 

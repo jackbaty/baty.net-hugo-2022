@@ -1,13 +1,12 @@
-+++
-title = "Friday, June 10, 2022"
-date = 2022-06-10T05:00:00-04:00
-lastmod = 2022-06-10T10:18:46-04:00
-slug = 2022-06-10
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +58°F"
-+++
+---
+title: "Friday, June 10, 2022"
+date: 2022-06-10T05:00:00-04:00
+lastmod: 2022-09-02T04:33:59-04:00
+slug: 2022-06-10
+draft: false
+weight: 0
+weather: "☀️ Clear +58°F"
+---
 
 Because I cannot be trusted, I'm keeping the WordPress version of this site running for a while at [v8.baty.net](https://v8.baty.net/).
 

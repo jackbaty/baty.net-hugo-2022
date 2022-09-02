@@ -1,11 +1,11 @@
-+++
-title = "Sunday, August 07, 2022"
-date = 2022-08-07T05:17:00-04:00
-lastmod = 2022-08-09T06:03:38-04:00
-slug = 2022-08-07
-draft = false
-weight = 0
-+++
+---
+title: "Sunday, August 07, 2022"
+date: 2022-08-07T05:17:00-04:00
+lastmod: 2022-09-02T04:33:47-04:00
+slug: 2022-08-07
+draft: false
+weight: 0
+---
 
 Every page in my notebook offers such potential.
 

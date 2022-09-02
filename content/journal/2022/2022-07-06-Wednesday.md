@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, July 06, 2022"
 date: 2022-07-06T05:44:00-04:00
-lastmod: 2022-07-07T05:01:30-04:00
+lastmod: 2022-09-02T04:33:53-04:00
 slug: 2022-07-06
 draft: false
 weight: 0

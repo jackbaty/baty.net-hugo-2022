@@ -1,13 +1,12 @@
-+++
-title = "Monday, May 16, 2022"
-date = 2022-05-16T07:42:00-04:00
-lastmod = 2022-05-16T10:52:56-04:00
-slug = 2022-05-16
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☁️ Overcast +54°F"
-+++
+---
+title: "Monday, May 16, 2022"
+date: 2022-05-16T07:42:00-04:00
+lastmod: 2022-09-02T04:34:00-04:00
+slug: 2022-05-16
+draft: false
+weight: 0
+weather: "☁️ Overcast +54°F"
+---
 
 I'm <mark>feeling very analog</mark> today. This is the opposite of how I felt yesterday, and likely the opposite of how I'll feel tomorrow.
 

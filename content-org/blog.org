@@ -11,6 +11,7 @@
 #+macro: mark @@html:<mark>$1</mark>@@
 #+macro: fig @@html:{{< figure src="$1" caption="$2" >}}@@
 #+macro: img @@html:{{< figure src="$1" caption="$2" >}}@@
+#+hugo_front_matter_format: yaml
 
 * Drafts
 * Daily
@@ -19,6 +20,18 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** September 2022
+**** DONE Friday, September 02, 2022
+CLOSED: [2022-09-02 Fri 05:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-09-02-Friday
+:EXPORT_HUGO_SLUG: 2022-09-02
+:END:
+
+☀️   Clear +67°F
+
+I fired up my old [[https://jackbaty.blot.im][Blot blog]] yesterday for no particular reason. It was fun to play with [[https://blot.im][Blot.im]] again. I got so excited that for a minute I considered moving this blog over to Blot. I like the simplicity of Blot vs Hugo. It's just markdown files in a Dropbox folder. There's no deployment or rendering or dependencies and I find that attractive. I just don't know if I have the energy to do a migration like that right now.
+
 **** DONE Thursday, September 01, 2022
 CLOSED: [2022-09-01 Thu 05:47]
 :PROPERTIES:
@@ -3174,71 +3187,6 @@ CLOSED: [2022-04-03 Sun 09:30]
 I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how remarkable they are. They're not that remarkable.
 
 
-
-* Old page entries
-No longer editing these here
-** Now
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: /page
-:EXPORT_FILE_NAME: now
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :excludeFromIndex true :excludeFromTopNav false :url "/now/"
-
-:END:
-
-What I'm doing as of *Tuesday, April  5, 2022*
-
-- Looking for the next phase of my career. Ideas welcome :).
-- Reading [[https://www.goodreads.com/book/show/53733106-no-one-is-talking-about-this][No One Is Talking About This by Patricia Lockwood]]
-
-(Thanks to [[https://sive.rs][Derek Sivers]] for the idea of [[https://nownownow.com/about][keeping a /now page]] like this one.)
-
-** About
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: /page
-:EXPORT_HUGO_BUNDLE: about
-:EXPORT_FILE_NAME: index
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :excludeFromIndex true :excludeFromTopNav false :url "/about/"
-:END:
-
-#+attr_html: :class imgRightMargin
-#+caption: Your host, Jack Baty
-[[./jack-headshot-250.jpg]]
-
-I have been a web developer, project manager, and partner at Fusionary Media from 1995 until we sold the company in 2020. I’m currently on a temporary sabbatical. If there’s anything you think I could do for you, let me know. I've been at this a long time. I'm good at process definition,  requirements, user experience, documentation, and product/project management. I like to work with dev teams on whatever fascinates them.
-
-My favorite hobbies are photography and tinkering on the web.
-
-💌 Reach out via *email*: [[mailto:jack@baty.net][jack@baty.net]]
-
-I maintain a *wiki* at [[https://wiki.baty.net][wiki.baty.net]]
-
-Photos are on [[https://flickr.com/photos/jbaty][Flickr]] and [[https://glass.photo/jbaty][Glass]]
-
-*Do not expect consistency*.
-
-#+begin_export html
-<br clear="all">
-#+end_export
-
-This site is created with [[https://gohugo.io][Hugo]] using a variation of the [[https://github.com/Lednerb/bilberry-hugo-theme][Bilberry]] theme. Posts are written in [[https://orgmode.org][Org mode]] and exported to Markdown using [[https://ox-hugo.scripter.co][ox-hugo]]. ([[/changelog][Changelog]])
-
-** Changelog
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: /page
-:EXPORT_HUGO_SLUG: changelog
-:EXPORT_FILE_NAME: changelog
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :excludeFromIndex true :excludeFromTopNav true :url "/changelog/"
-:END:
-
-** Changes to this site (since June 26, 2022)
-
-- 2022-07-28 Migrated to Bilberry theme
-- 2022-07-24 Changed font to PT Sans for content.
-- 2022-06-26 Changed theme to [[https://github.com/dillonzq/LoveIt][LoveIt]]
-- 2022-06-26 Fixed issue with extra spaces appearing after link. ([[https://git.sr.ht/~jbaty/codeit-theme/commit/ab700294123133bce9255498b390cd963df61b97][ab700294]])
-- 2022-06-26 Added Changelog (duh)
-- 2022-06-26 Changed article font to ETBook
-- 2022-06-26 Reduced max-width of content column
 
 * Footnotes
 * COMMENT Local Variables

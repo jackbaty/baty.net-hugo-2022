@@ -1,11 +1,11 @@
-+++
-title = "Thursday, August 11, 2022"
-date = 2022-08-11T04:53:00-04:00
-lastmod = 2022-08-11T05:57:16-04:00
-slug = 2022-08-11
-draft = false
-weight = 0
-+++
+---
+title: "Thursday, August 11, 2022"
+date: 2022-08-11T04:53:00-04:00
+lastmod: 2022-09-02T04:33:46-04:00
+slug: 2022-08-11
+draft: false
+weight: 0
+---
 
 I wonder how long I'll have the energy and time to do this every day. Oh, I don't know, it's been like 20 years already, so.
 

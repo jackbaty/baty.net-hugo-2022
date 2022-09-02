@@ -1,11 +1,11 @@
-+++
-title = "Thursday, July 28, 2022"
-date = 2022-07-28T06:02:00-04:00
-lastmod = 2022-07-28T17:50:00-04:00
-slug = 2022-07-28
-draft = false
-weight = 0
-+++
+---
+title: "Thursday, July 28, 2022"
+date: 2022-07-28T06:02:00-04:00
+lastmod: 2022-09-02T04:33:50-04:00
+slug: 2022-07-28
+draft: false
+weight: 0
+---
 
 I hadn't planned on doing much customization to the new theme here, but I really wanted to keep my daily journal posts, so here we are. I had to add a "journal" post type and supporting templates so that the most recent entry is displayed on the home page and the entire entry is shown rather than just the summary. Hugo templates are tricky, but I'm getting the hang of them.
 

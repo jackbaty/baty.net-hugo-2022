@@ -1,11 +1,11 @@
-+++
-title = "Wednesday, August 31, 2022"
-date = 2022-08-31T05:44:00-04:00
-lastmod = 2022-08-31T08:30:54-04:00
-slug = 2022-08-31
-draft = false
-weight = 0
-+++
+---
+title: "Wednesday, August 31, 2022"
+date: 2022-08-31T05:44:00-04:00
+lastmod: 2022-09-02T04:33:43-04:00
+slug: 2022-08-31
+draft: false
+weight: 0
+---
 
 > You'd think there'd be at least five new me's by now, given how often I've vowed to become better. But no. I've been writing about configuring my text editor since 1996
 >

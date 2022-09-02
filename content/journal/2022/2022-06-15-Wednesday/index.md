@@ -1,13 +1,12 @@
-+++
-title = "Wednesday, June 15, 2022"
-date = 2022-06-15T04:43:00-04:00
-lastmod = 2022-06-15T20:06:19-04:00
-slug = 2022-06-15
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "⛅️  Partly cloudy +87°F"
-+++
+---
+title: "Wednesday, June 15, 2022"
+date: 2022-06-15T04:43:00-04:00
+lastmod: 2022-09-02T04:33:58-04:00
+slug: 2022-06-15
+draft: false
+weight: 0
+weather: "⛅️  Partly cloudy +87°F"
+---
 
 > When I stop to think about it, the thought is a little scary. As someone who enjoys exploring productivity and meta-research tooling, I do pause to think that I'm "stuck" using org-mode and Emacs from time to time. But I don't really see any other way:
 >

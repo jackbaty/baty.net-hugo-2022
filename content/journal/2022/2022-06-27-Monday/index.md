@@ -1,13 +1,12 @@
-+++
-title = "Monday, June 27, 2022"
-date = 2022-06-27T06:13:00-04:00
-lastmod = 2022-06-27T15:05:38-04:00
-slug = 2022-06-27
-categories = ["Daily"]
-draft = false
-weight = 0
-weather = "☀️ Clear +58°F"
-+++
+---
+title: "Monday, June 27, 2022"
+date: 2022-06-27T06:13:00-04:00
+lastmod: 2022-09-02T04:33:55-04:00
+slug: 2022-06-27
+draft: false
+weight: 0
+weather: "☀️ Clear +58°F"
+---
 
 I love software. I just wish I didn't love so much of it. Today so far I love [TiddlyWiki](https://tiddlywiki.com), [Denote](https://protesilaos.com/emacs/denote), and [TheBrain](https://www.thebrain.com). You see the overlap there, right? For example, I recorded that Denote 0.1.0 was released in Denote, TheBrain, and Org-roam. I'm nuts.
 

@@ -1,11 +1,11 @@
-+++
-title = "Wednesday, August 10, 2022"
-date = 2022-08-10T05:30:00-04:00
-lastmod = 2022-08-10T10:05:20-04:00
-slug = 2022-08-10
-draft = false
-weight = 0
-+++
+---
+title: "Wednesday, August 10, 2022"
+date: 2022-08-10T05:30:00-04:00
+lastmod: 2022-09-02T04:33:46-04:00
+slug: 2022-08-10
+draft: false
+weight: 0
+---
 
 Some days I want to live entirely within Emacs. Other days I'd be fine doing everything in a browser. These two modes don't get along.
 

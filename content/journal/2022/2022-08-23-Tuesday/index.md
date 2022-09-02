@@ -1,11 +1,11 @@
-+++
-title = "Tuesday, August 23, 2022"
-date = 2022-08-23T06:19:00-04:00
-lastmod = 2022-08-23T11:19:54-04:00
-slug = 2022-08-23
-draft = false
-weight = 0
-+++
+---
+title: "Tuesday, August 23, 2022"
+date: 2022-08-23T06:19:00-04:00
+lastmod: 2022-09-02T04:33:45-04:00
+slug: 2022-08-23
+draft: false
+weight: 0
+---
 
 I've finally gotten access to [DALL-E](https://openai.com/dall-e-2/) but I promise not to share every single thing I ask it to generate. Like, say, "Sasquatch in a blue recliner drinking a cup of coffee.""
 
