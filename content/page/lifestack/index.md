@@ -46,10 +46,10 @@ Here’s the software that I currently use on a regular basis.
 
 ### Software
 
-*   [**Lightroom**](https://www.adobe.com/products/photoshop-lightroom.html) – I use the Classic version.
+*   [**Lightroom**](https://www.adobe.com/products/photoshop-lightroom.html) – I use the both the new and the Classic versions, depending.
 *   [**Capture One Pro**](https://www.phaseone.com/en/Products/Software/Capture-One-Pro/Highlights.aspx) – Raw file editor. 
 *   **Apple Photos** – For iPhone shots and keepers exported from Capture One
-*   Photo Mechanic – Ingesting, tagging, and renaming photos from cards. Nothing is faster or easier. I’d like to not need it, but trying to caption and tag dozens of photos at a time is an exercise in frustration in any other app.
+*   [**Photo Mechanic**](https://home.camerabits.com/) – Ingesting, tagging, and renaming photos from cards. Nothing is faster or easier. I’d like to not need it, but trying to caption and tag dozens of photos at a time is an exercise in frustration in any other app.
 *   [**DxO PhotoLab**](https://www.dxo.com/dxo-photolab/) – Unbelievably good noise reduction with great camera/lens profiles.
 *   [**SilverFast**](http://www.silverfast.com/) – Scanning software for the Epson. I can’t tell you how much I hate it, but it gets me the best results.
 
@@ -57,21 +57,6 @@ Here’s the software that I currently use on a regular basis.
 
 I love cameras. Most of mine are film cameras. Here’s what I’m using currently.
 
-**Leica M10-R**
-
-![](https://baty.net/wp-content/uploads/2022/06/R0002287-1024x683.jpg)
-
-Leica M10-R
-
-The Leica M10-R is a dream camera. Paired with the fabulous 50mm Summilux-M ASPH or the 35mm Summilux-M ASPH FLE, I am wanting nothing.
-
-**Hasselblad 500C/M**
-
-![](https://baty.net/wp-content/uploads/2022/07/hasselblad500cm.jpg)
-
-Hasselblad 500C/M
-
-Medium format film cameras. Some cameras are iconic for a reason. The Hasselblad V series cameras are iconic, beautiful, and superbly engineered. They also produce wonderful images, which is why they are my favorite all-around cameras.
 
 **Leica M Film Cameras**
 
@@ -84,6 +69,17 @@ Leica MP
 ![](https://i1.wp.com/baty.net/wp-content/uploads/2022/07/leicam3-1024x819.jpg?ssl=1)
 
 ![](https://i2.wp.com/baty.net/wp-content/uploads/2022/07/leicam6-1024x819.jpg?ssl=1)
+
+Leica M3
+
+
+**Hasselblad 500C/M**
+
+![](https://baty.net/wp-content/uploads/2022/07/hasselblad500cm.jpg)
+
+Hasselblad 500C/M
+
+Medium format film cameras. Some cameras are iconic for a reason. The Hasselblad V series cameras are iconic, beautiful, and superbly engineered. They also produce wonderful images, which is why they are my favorite all-around cameras.
 
 **Linhof Master Technika**
 
@@ -114,7 +110,7 @@ I love cameras. Here’s a list of the ones I currently own but don’t use as o
 Some miscellaneous photo-related support items
 
 *   **Canon PRO–100** – Photo printer that I too rarely use
-*   **Epson V750** – Flatbed film scanner. Works great for medium and large format. Less great for 35mm. After 12 years, it’s broken.
+*   ~~Epson V750~~ – Flatbed film scanner. Works great for medium and large format. Less great for 35mm. After 12 years, it’s broken.
 *   **PrimeFilm XAs** – 35mm film scanner. I hate using it.
 *   [**Profoto D1 Monolights**](https://www.bhphotovideo.com/c/product/661871-REG/Profoto_901056_D1_Air_500Ws_2_Monolight.html) – I’m fortunate enough to own a couple of great monolights. I should use them more often.
 *   **[Billingham Hadley Pro Small](https://billingham.com/products/hadley-small-pro-camera-bag_colour-sage-fibrenyte-chocolate-leather)** – Beautiful and well-made camera bag
@@ -189,6 +185,11 @@ Whew! That’s a lot of stuff.
 * * *
 
 ## Changelog
+
+**Saturday, October 1, 2022**
+
+* Removed M10-R (sold)
+* Removed M6 (sold)
 
 **Friday, July 15, 2022**
 
