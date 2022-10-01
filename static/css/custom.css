@@ -2,11 +2,21 @@
   display: none;
 }
 
-figure {width: 100%; margin: 20px 0px;}
+.bilberry-hugo-theme article .content figure {
+width: 100%;
+margin: 20px auto;
+}
+
+.bilberry-hugo-theme article .content img {
+width: 100%;
+margin: 0px auto;
+}
+
 figure figcaption {
   font-size: 0.8em;
   color: darkgray;
 }
+
 
 blockquote p:last-of-type a, blockquote p:last-of-type {
     font-size: 0.9em;
