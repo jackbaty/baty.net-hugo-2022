@@ -41,6 +41,14 @@ Scrintal opened up their waitlist for anyone willing to pay an introductory annu
 
 I should probably lead with this, but after a month of testing this blog at [[https://blot.im][Blot.im]] I am bringing it back home to Hugo on my VPS. Maybe I'll write up some details later.
 
+#+begin_quote
+...these two attributes combined to create something very special in PHP: support for the “hackish state”, an environment optimal for casual tinkering with server-side scripting — without having to bring out a whole framework and take the time to set it up. If you had an idea for some kind of dynamic, server-side behaviour, you could probably have it prototyped in PHP in 15 minutes. It might be crude, but it would be real.
+
+[[https://www.devever.net/~hl/mildlydynamic][The Demise of the Mildly Dynamic Website]]
+#+end_quote
+
+I'm willing to bet that if I took up PHP again and just ran with a bunch inline MySQL queries and CSS and a lot of copy and paste, I could outrun all y'all.
+
 
 **** DONE Friday, September 02, 2022
 CLOSED: [2022-09-02 Fri 05:18]
