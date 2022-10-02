@@ -1,7 +1,7 @@
 ---
 title: "Sunday, October 02, 2022"
 date: 2022-10-02T06:04:00-04:00
-lastmod: 2022-10-02T06:20:38-04:00
+lastmod: 2022-10-02T06:21:50-04:00
 slug: 2022-10-02
 draft: false
 weight: 0
@@ -17,7 +17,7 @@ Jeremy Friesen:
 >
 > [Exploring the Denote Emacs Package // Take on Rules](https://takeonrules.com/2022/10/01/exploring-the-denote-emacs-package/)
 
-I'll be keeping an eye on Jeremy's progress, as I waffle between Org-roam and Denote myself. After all, I just put [everything in Org-roam](/2022/everything-is-in-org/) so let's not get too comfortable, eh? One of the things that attracts me to Denote is that it's simple, considered, and doesn't try to be everything to everyone. Each member of the Org-roam community, on the other hand, seems obsessed with bending it to their specific will. It's a recipe for complexity.
+I'll be keeping an eye on Jeremy's progress, as I waffle between Org-roam and [Denote](https://protesilaos.com/emacs/denote) myself. After all, I just put [everything in Org-roam](/2022/everything-is-in-org/) so let's not get too comfortable, eh? One of the things that attracts me to Denote is that it's simple, considered, and doesn't try to be everything to everyone. Each member of the Org-roam community, on the other hand, seems obsessed with bending it to their specific will. It's a recipe for complexity.
 
 Now that Roam and Roam-alikes are The Thing, maybe the web can get backlinks as originally planned.
 
