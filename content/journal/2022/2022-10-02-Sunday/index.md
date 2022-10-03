@@ -1,7 +1,7 @@
 ---
 title: "Sunday, October 02, 2022"
 date: 2022-10-02T06:04:00-04:00
-lastmod: 2022-10-02T06:21:50-04:00
+lastmod: 2022-10-02T12:10:11-04:00
 slug: 2022-10-02
 draft: false
 weight: 0
