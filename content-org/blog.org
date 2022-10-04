@@ -21,7 +21,6 @@
 :END:
 *** October 2022
 **** DONE Tuesday, October 04, 2022
-
 CLOSED: [2022-10-04 Tue 06:41]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
