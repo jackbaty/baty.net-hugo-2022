@@ -31,7 +31,7 @@ CLOSED: [2022-10-04 Tue 06:41]
 - State "DONE"       from "TODO"       [2022-10-04 Tue 06:41]
 :END:
 
-I got my invitation to [[https://tana.inc/][Tana]] yesterday. At first blush it feels like a combination of Roam and Tinderbox and TiddlyWiki. Not sure yet if it's too Notion-like. I dislike Notion so that would be bad. I'm going to give it a spin for a while and see.
+I got my invitation to [[https://tana.inc/][Tana]] yesterday. At first blush it feels like a combination of Roam and Tinderbox and TiddlyWiki. Not sure yet if it's too Notion-like. I dislike Notion so that would be bad. I'm going to give it a spin for a while and see. One thing for sure, like every other app, I am always thinking that I already have almost everything Tana offers right in Emacs.
 
 I'm working at my old office today. It's weird, but fun. Nice to be somewhere besides my basement for a change.
 
