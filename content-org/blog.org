@@ -35,6 +35,13 @@ I got my invitation to [[https://tana.inc/][Tana]] yesterday. At first blush it 
 
 I'm working at my old office today. It's weird, but fun. Nice to be somewhere besides my basement for a change.
 
+#+begin_quote
+Ever since smartphones got "good enough," they've created tension in my life. All too often, they've been "the camera I've had with me." And that's been to the detriment of my photography, because photographs happen to you when you're out and about with a camera, and, contrary to the common truism, the best camera is not the one you have with you. In fact, it's a very common mistake, and occasionally a tragedy, to have nothing but the wrong camera with you. What you really need to have with you is the right camera, the camera the occasional good pictures should have been taken with.
+
+[[https://theonlinephotographer.typepad.com/the_online_photographer/2022/10/ttk-1.html][The Online Photographer: Open Mike: Notes vs.* Art]]
+#+end_quote
+
+
 **** DONE Monday, October 03, 2022
 CLOSED: [2022-10-03 Mon 08:00]
 :PROPERTIES:
