@@ -20,6 +20,22 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** October 2022
+**** DONE Tuesday, October 04, 2022
+
+CLOSED: [2022-10-04 Tue 06:41]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-04-Tuesday
+:EXPORT_HUGO_SLUG: 2022-10-04
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-04 Tue 06:41]
+:END:
+
+I got my invitation to [[https://tana.inc/][Tana]] yesterday. At first blush it feels like a combination of Roam and Tinderbox and TiddlyWiki. Not sure yet if it's too Notion-like. I dislike Notion so that would be bad. I'm going to give it a spin for a while and see.
+
+I'm working at my old office today. It's weird, but fun. Nice to be somewhere besides my basement for a change.
+
 **** DONE Monday, October 03, 2022
 CLOSED: [2022-10-03 Mon 08:00]
 :PROPERTIES:
