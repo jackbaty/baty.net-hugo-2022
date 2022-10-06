@@ -19,6 +19,8 @@ I maintain a **wiki** at [wiki.baty.net](https://wiki.baty.net)
 
 Photos are on [Flickr](https://flickr.com/photos/jbaty) and [Glass](https://glass.photo/jbaty)
 
+Also on Mastodon as [@jackbaty@fosstodon.org](https://fosstodon.org/web/@jackbaty)
+
 **Do not expect consistency**.
 
 <br clear="all">

@@ -17,7 +17,6 @@
 
 * Drafts
 * Daily
-#+COLUMNS: %40ITEM %MOOD
 ** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
@@ -57,6 +56,10 @@ I have sad news that I have decided to shut down the mastodon.technology instanc
 
 [[https://ashfurrow.com/blog/mastodon-technology-shutdown/][mastodon.technology Shutdown | Ash Furrow]]
 #+end_quote
+
+I keep a draft post titled "The Fediverse is a failure". Guess I should dust it off.
+
+Today In Tana: "I'm not sure I can live with putting everything into Tana app. As clever as it is, it's "out there" and will probably be replaced in a year or two by something newer and shinier. It's not as pretty, and not as easy, but I'm better off staying in Emacs."
 
 **** DONE Wednesday, October 05, 2022
 CLOSED: [2022-10-05 Wed 04:30]
