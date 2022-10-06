@@ -15,17 +15,46 @@
 
 * Drafts
 * Daily
+#+COLUMNS: %40ITEM %MOOD
 ** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** October 2022
+**** DONE Thursday, October 06, 2022
+CLOSED: [2022-10-06 Thu 05:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-06-Thursday
+:EXPORT_HUGO_SLUG: 2022-10-06
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-06 Thu 05:10]
+:END:
+☀️   Clear +51°F
+
+Shoehorning everything into Emacs in order to avoid "context switching" (as if that actually makes one more productive) is really just self-deceptive rationalization. I should know, I do it all the time.
+
+Related: I'm not sure I can live with putting everything into Tana app. As clever as it is, it's "out there" and will probably be replaced in a year or two by something newer and shinier. It's not as pretty, and not as easy, but I'm better off staying in Emacs.
+**** DONE Wednesday, October 05, 2022
+CLOSED: [2022-10-05 Wed 04:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-05-Wednesday
+:EXPORT_HUGO_SLUG: 2022-10-05
+:MOOD: 😀
+:END:
+☀️   Clear +47°F
+I understand how ridiculous the whole Musk/Twitter thing has been, but rage-quitting Twitter right now strikes me as a bit reactionist. Why not wait until something actually changes that makes using Twitter untenable for you? Besides, there are already plenty of reasons to quit Twitter.
+
+The gentleman who bought my Leica M6 has asked to return it. He doesn't think it actually has the MP finder upgrade. I don't think he can actually tell, other than he found it to flare more than expected. I have decided not to argue about it. Besides, it means I get one my favorite cameras back.
 **** DONE Tuesday, October 04, 2022
 CLOSED: [2022-10-04 Tue 06:41]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2022-10-04-Tuesday
 :EXPORT_HUGO_SLUG: 2022-10-04
+:MOOD: 😀
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2022-10-04 Tue 06:41]
@@ -41,13 +70,13 @@ Ever since smartphones got "good enough," they've created tension in my life. Al
 [[https://theonlinephotographer.typepad.com/the_online_photographer/2022/10/ttk-1.html][The Online Photographer: Open Mike: Notes vs.* Art]]
 #+end_quote
 
-
 **** DONE Monday, October 03, 2022
 CLOSED: [2022-10-03 Mon 08:00]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2022-10-03-Monday
 :EXPORT_HUGO_SLUG: 2022-10-03
+:MOOD:     😬
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2022-10-03 Mon 08:00]
@@ -63,6 +92,7 @@ CLOSED: [2022-10-02 Sun 06:04]
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2022-10-02-Sunday
 :EXPORT_HUGO_SLUG: 2022-10-02
+:MOOD: 😀
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2022-10-02 Sun 06:04]
@@ -88,6 +118,7 @@ CLOSED: [2022-10-01 Sat 08:35]
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2022-10-01-Saturday
 :EXPORT_HUGO_SLUG: 2022-10-01
+:MOOD:     😳
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2022-10-01 Sat 08:35]
