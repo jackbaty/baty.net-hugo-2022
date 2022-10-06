@@ -12,6 +12,8 @@
 #+macro: fig @@html:{{< figure src="$1" caption="$2" >}}@@
 #+macro: img @@html:{{< figure src="$1" caption="$2" >}}@@
 #+hugo_front_matter_format: yaml
+#+setupfile: ~/org/_SETUP/HTML_FANCY
+
 
 * Drafts
 * Daily
@@ -27,9 +29,6 @@ CLOSED: [2022-10-06 Thu 05:10]
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2022-10-06-Thursday
 :EXPORT_HUGO_SLUG: 2022-10-06
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-10-06 Thu 05:10]
 :END:
 ☀️   Clear +51°F
 
@@ -48,6 +47,16 @@ Related: I'm not sure I can live with putting everything into Tana app. As cleve
 I assume that most of the people fawning over Tana are not familiar with Tinderbox, TiddlyWiki, or Org-mode.
 
 I let rudimentarylathe.wiki expire and regretted it so thought I'd buy it again but it seems that someone else beat me to it.
+
+D'ya ever feel like when you put things in a wiki that you're building something--a tool--for the future, but when you put it on a blog instead it just gets swept way into archives and likely forgotten?
+
+Looks like I'll need a new instance:
+
+#+begin_quote
+I have sad news that I have decided to shut down the mastodon.technology instance. ...the server will be shut down no earlier than December 1, 2022.
+
+[[https://ashfurrow.com/blog/mastodon-technology-shutdown/][mastodon.technology Shutdown | Ash Furrow]]
+#+end_quote
 
 **** DONE Wednesday, October 05, 2022
 CLOSED: [2022-10-05 Wed 04:30]

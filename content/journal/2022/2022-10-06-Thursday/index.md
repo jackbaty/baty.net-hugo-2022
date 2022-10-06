@@ -1,7 +1,7 @@
 ---
 title: "Thursday, October 06, 2022"
 date: 2022-10-06T05:10:00-04:00
-lastmod: 2022-10-06T11:43:04-04:00
+lastmod: 2022-10-06T14:49:52-04:00
 slug: 2022-10-06
 draft: false
 weight: 0
@@ -22,6 +22,14 @@ Related: I'm not sure I can live with putting everything into Tana app. As cleve
 I assume that most of the people fawning over Tana are not familiar with Tinderbox, TiddlyWiki, or Org-mode.
 
 I let rudimentarylathe.wiki expire and regretted it so thought I'd buy it again but it seems that someone else beat me to it.
+
+D'ya ever feel like when you put things in a wiki that you're building something&#x2013;a tool&#x2013;for the future, but when you put it on a blog instead it just gets swept way into archives and likely forgotten?
+
+Looks like I'll need a new instance:
+
+> I have sad news that I have decided to shut down the mastodon.technology instance. &#x2026;the server will be shut down no earlier than December 1, 2022.
+>
+> [mastodon.technology Shutdown | Ash Furrow](https://ashfurrow.com/blog/mastodon-technology-shutdown/)
 
 [^fn:1]: Galaxy Brain. “The Dark Side of Frictionless Technology,” September 20, 2022. <https://newsletters.theatlantic.com/galaxy-brain/6328fa97bcbd490021b314da/personal-tech-obsolete-user-experience/>.
 
