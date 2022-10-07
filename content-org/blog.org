@@ -2549,6 +2549,33 @@ Amazon bought Roomba. I wonder if this means that I'll be able to buy a Roomba f
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: article/2022
 :END:
+*** October 2022
+**** DONE Mastodon move :@Meta:social:
+CLOSED: [2022-10-07 Fri 10:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20221007-mastodon-move
+:EXPORT_HUGO_SLUG: mastodon-move
+:END:
+
+In [[https://ashfurrow.com/blog/mastodon-technology-shutdown/][mastodon.technology Shutdown]], Ash Furrow writes:
+
+#+begin_quote
+I have sad news that I have decided to shut down the mastodon.technology instance. In accordance with the Mastodon Server Covenant, the server will be shut down no earlier than December 1, 2022.
+
+Ash Furrow
+#+end_quote
+
+I've been on the Mastodon.technology instance for nearly 5 years. It's been great, but given the coming shutdown I needed to find a new instance.
+
+I almost gave up on the whole Fediverse. After all, I've been on Twitter for nearly 20 years already. Never had to move or change anything. That's of course no guarantee of anything, but you know.
+
+I settled on the [[https://fosstodon.org][Fosstodon.org]] instance. I'm not a 100% FOSS person, but I find that group to be interesting and "my people" so I'm hoping they forgive the occasional reference or recommendation around proprietary tools.
+
+I'm [[https://fosstodon.org/web/@jackbaty][@jackbaty@fosstodon.org]] there.
+
+Thanks, and best of luck to [[https://masto.ashfurrow.com/@ashfurrow][Ash]].
+
+
 *** September 2022
 *** July 2022
 **** DONE A couple 4x5 self-portraits
