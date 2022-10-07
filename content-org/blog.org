@@ -61,6 +61,8 @@ I keep a draft post titled "The Fediverse is a failure". Guess I should dust it 
 
 Today In Tana: "I'm not sure I can live with putting everything into Tana app. As clever as it is, it's "out there" and will probably be replaced in a year or two by something newer and shinier. It's not as pretty, and not as easy, but I'm better off staying in Emacs."
 
+Headline in 18 months: "Google discontinues Pixel Watch after just 18 months"
+
 **** DONE Wednesday, October 05, 2022
 CLOSED: [2022-10-05 Wed 04:30]
 :PROPERTIES:

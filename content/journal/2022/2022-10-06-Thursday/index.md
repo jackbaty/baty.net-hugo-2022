@@ -1,7 +1,7 @@
 ---
 title: "Thursday, October 06, 2022"
 date: 2022-10-06T05:10:00-04:00
-lastmod: 2022-10-06T15:36:56-04:00
+lastmod: 2022-10-06T17:24:35-04:00
 slug: 2022-10-06
 draft: false
 weight: 0
@@ -34,6 +34,8 @@ Looks like I'll need a new instance:
 I keep a draft post titled "The Fediverse is a failure". Guess I should dust it off.
 
 Today In Tana: "I'm not sure I can live with putting everything into Tana app. As clever as it is, it's "out there" and will probably be replaced in a year or two by something newer and shinier. It's not as pretty, and not as easy, but I'm better off staying in Emacs."
+
+Headline in 18 months: "Google discontinues Pixel Watch after just 18 months"
 
 [^fn:1]: Galaxy Brain. “The Dark Side of Frictionless Technology,” September 20, 2022. <https://newsletters.theatlantic.com/galaxy-brain/6328fa97bcbd490021b314da/personal-tech-obsolete-user-experience/>.
 
