@@ -2509,11 +2509,9 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 **** DONE Where would you like to see daily notes?
 CLOSED: [2022-10-12 Wed 15:29]
 :PROPERTIES:
-:EXPORT_FILE_NAME: 20221012-where-would-you-like-to-see-daily-notes
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221012-where-would-you-like-to-see-daily-notes
 :EXPORT_HUGO_SLUG: where-would-you-like-to-see-daily-notes
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-10-12 Wed 15:29]
 :END:
 
 It seems I'll never be able to decide where to publish my "Daily Notes" blog entries. I waffle between here on baty.net, [[https://wiki.baty.net][the wiki]], or my old blog dedicated to daily posts, [[https://daily.baty.net][daily.baty.net]].
