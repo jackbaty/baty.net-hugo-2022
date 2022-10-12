@@ -24,6 +24,3 @@ Anyway, I've settled on the [Fosstodon.org](https://fosstodon.org) instance. I'm
 I'm [@jackbaty@fosstodon.org](https://fosstodon.org/web/@jackbaty) there.
 
 Thanks, and best of luck to [Ash](https://masto.ashfurrow.com/@ashfurrow).
-
-[//]: # "Exported with love from a post written in Org mode"
-[//]: # "- https://github.com/kaushalmodi/ox-hugo"
