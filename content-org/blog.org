@@ -32,7 +32,7 @@ CLOSED: [2022-10-13 Thu 05:39]
 
 Yesterday I asked, "[[https://baty.net/2022/where-would-you-like-to-see-daily-notes/][Where would you like to see daily notes?]]". I received more replies than expected (thanks!) and they overwhelmingly preferred that I keep the daily notes here at baty.net and provide access via RSS. Well OK then! Note that journal posts aren't included in the main RSS feed, but rather at [[https://baty.net/journal/index.xml][/journal/index.xml]]. That way you can easily opt-out if you'd prefer only seeing the "real" posts.
 
-
+Anyone with kids or who was once a kid remembers getting that fancy, shiny, complex, expensive new toy and /loving it/...for a day or two. Then, it was back to sticks and cardboard boxes. I feel like this might be a metaphor for [[https://tana.inc][something]]. 😆
 
 **** DONE Thursday, October 06, 2022
 CLOSED: [2022-10-06 Thu 05:10]
