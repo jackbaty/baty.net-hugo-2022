@@ -30,12 +30,17 @@ CLOSED: [2022-10-13 Thu 05:39]
 :EXPORT_HUGO_SLUG: 2022-10-13
 :END:
 
-Yesterday I asked, "[[https://baty.net/2022/where-would-you-like-to-see-daily-notes/][Where would you like to see daily notes?]]". I received more replies than expected (thanks!) and they overwhelmingly preferred that I keep the daily notes here at baty.net and provide access via RSS. Well OK then! Note that journal posts aren't included in the main RSS feed, but rather at [[https://baty.net/journal/index.xml][/journal/index.xml]]. That way you can easily opt-out if you'd prefer only seeing the "real" posts.
+Yesterday I asked, "[[https://baty.net/2022/where-would-you-like-to-see-daily-notes/][Where would you like to see daily notes?]]". I received more replies than expected (thanks!) and they overwhelmingly preferred that I keep the daily notes here at baty.net and provide access via RSS. Well OK then! Note that journal posts aren't included in the main RSS feed, but rather at [[https://baty.net/journal/index.xml][/journal/index.xml]]. That way you can easily opt-out if you'd prefer only seeing the "real" posts. Or maybe I'll find a way to delay the inclusion of journals into the main RSS feed until later in the day. Still noodlin' on it. I mean, one post per day shouldn't be too noisy, right?
 
 Anyone with kids or who was once a kid remembers getting that fancy, shiny, complex, expensive new toy and /loving it/...for a day or two. Then, it was back to sticks and cardboard boxes. I feel like this might be a metaphor for [[https://tana.inc][something]]. 😆
 
 I cannot tolerate an even mildly active Discord server for more than 5 minutes. Can we go back to using forums now, please?
 
+I don't want to follow #trends. I just want to offer something useful to people in their actual lives. Does that make sense? I feel like it makes sense.
+
+RSS people are my people.
+
+I don't need more sharpness. I need more pictures.
 **** DONE Thursday, October 06, 2022
 CLOSED: [2022-10-06 Thu 05:10]
 :PROPERTIES:
