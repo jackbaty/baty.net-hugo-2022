@@ -2544,7 +2544,15 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SLUG: alan-moore-on-comics-and-superheroes
 :END:
 
+#+begin_quote
+> I said round about 2011 that I thought that it had serious and worrying implications for the future if millions of adults were queueing up to see Batman movies. Because that kind of infantilisation – that urge towards simpler times, simpler realities – that can very often be a precursor to fascism.
+#+end_quote
 
+And this:
+
+#+begin_quote
+> Hundreds of thousands of adults \[are\] lining up to see characters and situations that had been created to entertain the 12-year-old boys – and it __was__ always boys – of 50 years ago. I didn’t really think that superheroes were adult fare.
+#+end_quote
 
 
 **** DONE Where would you like to see daily notes?
