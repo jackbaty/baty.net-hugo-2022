@@ -22,6 +22,22 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** October 2022
+**** DONE Monday, October 17, 2022
+CLOSED: [2022-10-17 Mon 08:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-17-Monday
+:EXPORT_HUGO_SLUG: 2022-10-17
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-17 Mon 08:11]
+:END:
+
+I've noticed that Obsidian people use too many emojis in their templates.
+
+I'm unable to stick with anything. I should stop pretending that I intend to in the first place.
+
+
 **** DONE Saturday, October 15, 2022
 CLOSED: [2022-10-15 Sat 05:32]
 :PROPERTIES:
