@@ -22,6 +22,19 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** October 2022
+**** DONE Tuesday, October 18, 2022
+CLOSED: [2022-10-18 Tue 05:49]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-18-Tuesday
+:EXPORT_HUGO_SLUG: 2022-10-18
+:END:
+
+Today: Tana is more useful long term than Obsidian because it's an outliner that can easily summarize and display things over time. Obsidian is better in the very long term because it's local Markdown files.
+
+I thought Tana was a Roam/Airtable/Notion thing but the more I use it, the more it feels like Tinderbox. I was reminded of this when I learned that "Supertags" can use inheritance.
+
+
 **** DONE Monday, October 17, 2022
 CLOSED: [2022-10-17 Mon 08:11]
 :PROPERTIES:
