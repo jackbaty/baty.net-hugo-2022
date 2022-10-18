@@ -34,6 +34,13 @@ Today: Tana is more useful long term than Obsidian because it's an outliner that
 
 I thought Tana was a Roam/Airtable/Notion thing but the more I use it, the more it feels like Tinderbox. I was reminded of this when I learned that "Supertags" can use inheritance.
 
+[[https://www.youtube.com/watch?v=HtkfZL3Uu8I][Daniel Milnor answers questions about iPhone Photography]]:
+
+#+begin_quote
+- Robert Clark did it in 1997 with Sony Ericson. He blew the bell curve for all of you
+- If you're still hyping the fact that you're only using a mobile phone, you're missing the point.
+- It's not novel anymore. There's nothing interesting about that. There's nothing commendable about that. There's nothing interesting about that entire narrative. So just stop.
+#+end_quote
 
 **** DONE Monday, October 17, 2022
 CLOSED: [2022-10-17 Mon 08:11]
