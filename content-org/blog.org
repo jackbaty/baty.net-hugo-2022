@@ -40,6 +40,8 @@ Up until very recently, everyone ran their own servers, and much of the progress
 DHH on [[https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0][Why we're leaving the cloud]]
 #+end_quote
 
+Roam was a proof of concept for what Tana is.
+
 **** DONE Tuesday, October 18, 2022
 CLOSED: [2022-10-18 Tue 05:49]
 :PROPERTIES:
