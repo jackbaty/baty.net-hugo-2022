@@ -22,6 +22,24 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** October 2022
+**** DONE Wednesday, October 19, 2022
+CLOSED: [2022-10-19 Wed 07:39]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-19-Wednesday
+:EXPORT_HUGO_SLUG: 2022-10-19
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-19 Wed 07:39]
+:END:
+
+
+#+begin_quote
+Up until very recently, everyone ran their own servers, and much of the progress in tooling that enabled the cloud is available for your own machines as well. Don't let the entrenched cloud interests dazzle you into believing that running your own setup is too complicated. Everyone and their dog did it to get the internet off the ground, and it's only gotten easier since.
+
+DHH on [[https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0][Why we're leaving the cloud]]
+#+end_quote
+
 **** DONE Tuesday, October 18, 2022
 CLOSED: [2022-10-18 Tue 05:49]
 :PROPERTIES:
@@ -41,6 +59,8 @@ I thought Tana was a Roam/Airtable/Notion thing but the more I use it, the more 
 - If you're still hyping the fact that you're only using a mobile phone, you're missing the point.
 - It's not novel anymore. There's nothing interesting about that. There's nothing commendable about that. There's nothing interesting about that entire narrative. So just stop.
 #+end_quote
+
+
 
 **** DONE Monday, October 17, 2022
 CLOSED: [2022-10-17 Mon 08:11]
