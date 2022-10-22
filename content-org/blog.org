@@ -22,6 +22,26 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** October 2022
+**** DONE Saturday, October 22, 2022
+CLOSED: [2022-10-22 Sat 06:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-22-Saturday
+:EXPORT_HUGO_SLUG: 2022-10-22
+:END:
+
+So yeah, I've resurrected [[https://baty.blog][baty.blog]] using [[https://eastgate.com/Tinderbox][Tinderbox]]. I couldn't help it. Things may be quiet around here for a spell.
+
+**** DONE Thursday, October 20, 2022
+CLOSED: [2022-10-20 Thu 07:56]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-10-20-Thursday
+:EXPORT_HUGO_SLUG: 2022-10-20
+:END:
+
+Does anyone know how to use Emacs for just some things and not end up using it for /everything/? Asking for a friend.
+
 **** DONE Wednesday, October 19, 2022
 CLOSED: [2022-10-19 Wed 07:39]
 :PROPERTIES:
