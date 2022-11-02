@@ -21,6 +21,21 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
+*** November 2022
+**** DONE Wednesday, November 02, 2022
+CLOSED: [2022-11-02 Wed 11:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-02-Wednesday
+:EXPORT_HUGO_SLUG: 2022-11-02
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-02 Wed 11:10]
+:END:
+
+At some point a fella needs to pick a path and walk it. I'm currently posting to five personal blogs at once. This is not sustainable. I'm now working through [[https://baty.net][baty.net]] vs [[https://baty.blog][baty.blog]] and will likely delete [[https://copingmechanism.com][copingmechanism.com]] and [[https://rudimentarylathe.org][rudimentarylathe.org]].
+
+
 *** October 2022
 **** DONE Saturday, October 22, 2022
 CLOSED: [2022-10-22 Sat 06:58]
@@ -83,7 +98,6 @@ I thought Tana was a Roam/Airtable/Notion thing but the more I use it, the more 
 #+end_quote
 
 
-
 **** DONE Monday, October 17, 2022
 CLOSED: [2022-10-17 Mon 08:11]
 :PROPERTIES:
@@ -98,7 +112,6 @@ CLOSED: [2022-10-17 Mon 08:11]
 I've noticed that Obsidian people use too many emojis in their templates.
 
 I'm unable to stick with anything. I should stop pretending that I intend to in the first place.
-
 
 **** DONE Saturday, October 15, 2022
 CLOSED: [2022-10-15 Sat 05:32]
@@ -2652,6 +2665,30 @@ For the handful of you who read my sites any kind of regularly, where would /you
 Hit the ol' reply link below and let me know what you prefer. Even if it's "None of the above." 😄
 
 *UPDATE*: The overwhelming response was to leave the daily journals here at baty.net. OK then!
+
+**** DONE Personal Knowledge Management is exhausting :@Notetaking:PKM:
+CLOSED: [2022-10-10 Wed 10:57]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221010-personal-knowledge-management
+:EXPORT_HUGO_SLUG: pkm-is-exhausing
+:END:
+
+I've been testing the hot new Tana app for the past week, and I'm exhausted.
+
+First, I don't need a Zettelkasten. If you're being honest, you probably don't either. And yet, we spend hours or days learning the "proper" way to build one. Then we set up our new system, using paper or digital or both, roll up our sleeves, and waste time putting stuff into it.
+
+The worst part isn't the putting of stuff into my PKM (Personal Knowledge Management) system. The worst part is all of the tinkering around where to put stuff and how to classify/tag/organize it.
+
+I made the mistake of reading "How to Take Smart Notes" by Sönke Ahrens and browsing the forums and that sent me on a spiral of worrying about atomicity, what to do about "fleeting" notes, how big is a Zettel? and so on. In other words, I was more concerned with finding the proper method of managing my notes rather than focusing on what was actually in them and what they were for.
+
+This week's tinkering with Tana hasn't helped. Tana is the next iteration of tools based on things like Roam Research, Notion, etc. I like it. It's a bit like TiddlyWiki and Tinderbox in that it allows for additional attributes to be associated with each node and makes these ontologies easy to search, link, parse, summarize, etc. It makes some complicated workflows pretty easy to implement. I think a lot of people will dig it.
+
+The problem is that this flexibility leads to a lot of hand-wringing over the best way to utilize all this power. The Tana Slack channels are teeming with questions about workflows and structure and attributes and on and on. It makes me tired just reading about it.
+
+I'm not sure I need a system around, for example, the best way to surface the minutiae from interstitial journaling. In fact, just using the phrase "interstitial journaling" is a dead giveaway that I've already been overthinking it. Settle down, Jack!
+
+Anyway, I'll keep playing with Tana for fun, but I'm probably not going to continue using it for my notes. It's not something I will benefit from, especially considering the amount of effort I'll put into setting it up and getting everything "right". I'm exhausted and I think I'll go back to using paper. Or maybe Emacs.
 
 **** DONE Mastodon move :@Meta:social:
 CLOSED: [2022-10-07 Fri 10:26]
