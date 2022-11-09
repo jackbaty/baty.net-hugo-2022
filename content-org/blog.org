@@ -36,8 +36,9 @@ CLOSED: [2022-11-09 Wed 05:10]
 
 Sitting here, watching. Cautiously optimistic.
 
-Another day, another theme. This time I'm trying [[https://github.com/jpanther/congo][Congo]]. It seems more modern and less convoluted that the others I've been using.
+Another day, another theme. This time I'm trying [[https://github.com/jpanther/congo][Congo]]. It seems more modern and less convoluted that the others I've been using. More [[https://baty.net/2022/a-coat-of-paint/][here]].
 
+I'm considering spinning up my own Mastodon instance. Something like social.baty.net. Am I crazy?
 **** DONE Tuesday, November 08, 2022
 CLOSED: [2022-11-08 Tue 06:03]
 :PROPERTIES:
