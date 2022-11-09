@@ -9,6 +9,6 @@ toc: false
 author: "Mary Oliver"
 ---
 
-> “The most regretful people on earth are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave it neither power nor time.”
+> The most regretful people on earth are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave it neither power nor time.
 > 
-> 
+> Mary Oliver

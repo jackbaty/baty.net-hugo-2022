@@ -1,9 +1,11 @@
 +++
-title = "About"
+title = "About Jack"
 lastmod = 2022-07-24T05:51:38-04:00
 draft = false
 url = "/about/"
 showDate = false
+showReadingTime = false
+showAuthor = false
 weight = 4
 +++
 

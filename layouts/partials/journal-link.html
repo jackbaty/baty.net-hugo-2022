@@ -1,0 +1,30 @@
+ {{- $images := .Resources.ByType "image" }}
+  {{- $cover := $images.GetMatch "*cover*" }}
+  {{- $feature := $images.GetMatch "*feature*" | default $cover }}
+  <article>
+    <header class="max-w-prose">
+      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        {{ .Title | emojify }}
+      </h1>
+      <div class="mt-8 mb-12 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+       
+      </div>
+      {{ with $feature }}
+        <img
+          class="mb-6 -mt-4 rounded-md"
+          srcset="
+                {{- (.Resize "330x").RelPermalink }} 330w,
+                {{- (.Resize "660x").RelPermalink }} 660w,
+                {{- (.Resize "1024x").RelPermalink }} 1024w,
+                {{- (.Resize "1320x").RelPermalink }} 2x"
+          src="{{ (.Resize "660x").RelPermalink }}"
+        />
+      {{ end }}
+    </header>
+    <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+      <div class="min-w-0 min-h-0 max-w-prose grow">
+        {{ .Content | emojify }}
+      </div>
+    </section>
+    
+  </article>

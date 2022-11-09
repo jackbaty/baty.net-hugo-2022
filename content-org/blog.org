@@ -1,4 +1,4 @@
-;; -*- eval: (olivetti-mode) -*-
+;; -*- eval: (writeroom-mode) -*-
 #+hugo_base_dir: ../
 #+hugo_section: ./
 #+hugo_weight: nil
@@ -22,6 +22,94 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Wednesday, November 09, 2022
+CLOSED: [2022-11-09 Wed 05:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-09-Wednesday
+:EXPORT_HUGO_SLUG: 2022-11-09
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage featuredImage.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-09 Wed 05:10]
+:END:
+
+Sitting here, watching. Cautiously optimistic.
+
+Another day, another theme. This time I'm trying [[https://github.com/jpanther/congo][Congo]]. It seems more modern and less convoluted that the others I've been using.
+
+**** DONE Tuesday, November 08, 2022
+CLOSED: [2022-11-08 Tue 06:03]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-08-Tuesday
+:EXPORT_HUGO_SLUG: 2022-11-08
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage featuredImage.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-08 Tue 06:03]
+:END:
+
+I don't trust any YouTube channels with perfect lighting and neon in the background.
+
+I'm experiencing one of my bouts of Emacs Fatigue this morning. Probably brought on by spending 100% of my computer time fiddling with it this week.
+
+The race for "Main Blog" is neck and neck between baty.blog and baty.net. In case anyone wants to vote on something other than (I mean in addition to") politics, feel free to let me know your choice.
+
+**** DONE Monday, November 07, 2022
+CLOSED: [2022-11-07 Mon 04:46]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-07-Monday
+:EXPORT_HUGO_SLUG: 2022-11-07
+:END:
+
+Good morning. It's 4:45 am and I'm posting to three different blogs already
+
+Mondays are for thinking about how I'm going to improve the situation for myself, family, and friends. Today feels different. Today feels like it could be the Monday before Democracy begins its move to hospice.
+
+Each morning, I wake up, walk the dog, sit down at the computer, and decide to tear down everything I'd done the day before.
+
+Mastodon is currently a flurry of posts either offering advice to new users or chiding those offering that advice.
+
+Was reading a forum thread about storing film negatives and a surprising number of people separated them by film size or camera. To me, that's not a good sign.
+
+I don't think my digital note-taking tools are doing the best job of helping me be smarter/more creative/whatever.
+
+#+begin_quote
+I hear from people who somehow have their Kindle app and their note-taking app synched up so that everything they underline goes straight into their note-taking app. I think this is a terrible thing to do.
+
+Billy Oppenheimer, [[https://billyoppenheimer.com/notecard-system/][The Notecard System]]
+#+end_quote
+
+I've been very happy having only one computer but there are days when I wouldn't mind trading my M1 MBP for a Studio and M1 Air.
+
+**** DONE Sunday, November 06, 2022
+CLOSED: [2022-11-06 Sun 07:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-06-Sunday
+:EXPORT_HUGO_SLUG: 2022-11-06
+:END:
+
+You'd like to force me to only post to one blog but you can't, mwahahaha!
+
+**** DONE Thursday, November 03, 2022
+CLOSED: [2022-11-03 Thu 06:04]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-03-Thursday
+:EXPORT_HUGO_SLUG: 2022-11-03
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-03 Thu 06:04]
+:END:
+Have you noticed I changed the theme again? You've seen it before, and now it's back. [[/2022/loveit/][Again]].
+
+I prefer to edit most things in Emacs. It makes moving to other software for /anything/ rather difficult.
+
+Let's see, so far today I have reworked this blog with a new theme and also posted to [[https://copingmechanism.com][copingmechanism.com]] for no particular reason other than I don't always feel liking making a new text file just so I can post something. Not sure that makes sense, but that's where we are today. Once again, I'm completely undecided.
+
 **** DONE Wednesday, November 02, 2022
 CLOSED: [2022-11-02 Wed 11:10]
 :PROPERTIES:
@@ -34,7 +122,6 @@ CLOSED: [2022-11-02 Wed 11:10]
 :END:
 
 At some point a fella needs to pick a path and walk it. I'm currently posting to five personal blogs at once. This is not sustainable. I'm now working through [[https://baty.net][baty.net]] vs [[https://baty.blog][baty.blog]] and will likely delete [[https://copingmechanism.com][copingmechanism.com]] and [[https://rudimentarylathe.org][rudimentarylathe.org]].
-
 
 *** October 2022
 **** DONE Saturday, October 22, 2022
@@ -2621,30 +2708,12 @@ I should take a closer look at [[https://sr.ht/][sourcehut]]
 
 Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package. *UPDATE* Nope, doesn't work yet on M1 Macs.
 
-
 * Posts
 ** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: article/2022
 :END:
 *** October 2022
-**** TODO Alan Moore on Comics and Superheroes
-:PROPERTIES:
-:EXPORT_FILE_NAME: index
-:EXPORT_HUGO_BUNDLE: 20221015-alan-moore-on-comics-and-superheroes
-:EXPORT_HUGO_SLUG: alan-moore-on-comics-and-superheroes
-:END:
-
-#+begin_quote
-> I said round about 2011 that I thought that it had serious and worrying implications for the future if millions of adults were queueing up to see Batman movies. Because that kind of infantilisation – that urge towards simpler times, simpler realities – that can very often be a precursor to fascism.
-#+end_quote
-
-And this:
-
-#+begin_quote
-> Hundreds of thousands of adults \[are\] lining up to see characters and situations that had been created to entertain the 12-year-old boys – and it __was__ always boys – of 50 years ago. I didn’t really think that superheroes were adult fare.
-#+end_quote
-
 
 **** DONE Where would you like to see daily notes?
 CLOSED: [2022-10-12 Wed 15:29]
@@ -3506,14 +3575,11 @@ CLOSED: [2022-04-03 Sun 09:30]
 I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how remarkable they are. They're not that remarkable.
 
 
-
 * Status Updates
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: status/2022
 :END:
 ** 2022
-*** October 2022
-
 *** August 2022
 **** DONE Emacs is so clingy
 CLOSED: [2022-08-18 Thu 05:18]

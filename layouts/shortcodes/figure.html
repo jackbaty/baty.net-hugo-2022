@@ -1,9 +1,0 @@
-{{ $caption := .Get "caption" }}
-{{ $imagefile := .Get "src" }}
-{{ $img := $.Page.Resources.GetMatch $imagefile }}
-{{ with  $img }}
-<figure>
-	<img src="{{ .RelPermalink }}" alt="{{ $caption }}" />
-	<figcaption>{{ $caption }}</figcaption>
-</figure>
-{{ end }}

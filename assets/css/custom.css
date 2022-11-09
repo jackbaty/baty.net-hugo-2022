@@ -1,0 +1,22 @@
+.prose :where(blockquote p:last-of-type):not(:where([class~=not-prose] *))::after {
+    content: '';
+}
+
+.prose :where(blockquote p):not(:where([class~=not-prose] *))::before {
+    content: '';
+}
+
+.prose :where(blockquote p:last-of-type):not(:where([class~=not-prose] *)) {
+    text-align: right;
+    margin-right: 20px;
+    font-size: 0.9em;
+}
+
+.prose :where(blockquote p:last-of-type):not(:where([class~=not-prose] *))::before {
+    content: '\2014 ';
+}
+
+.journal-more {text-align: right;}
+.journal-more a {
+  font-weight: bold;
+}
