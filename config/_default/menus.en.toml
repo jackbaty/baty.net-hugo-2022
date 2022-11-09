@@ -31,17 +31,6 @@
   pageRef = "about"
   weight = 35
 
-[[main]]
-  name = "C.M."
-  pageRef = "cm"
-  url = "https://copingmechanism.com"
-  weight = 40
-  
-[[main]]
-  name = "Wiki"
-  pageRef = "wiki"
-  url = "https://wiki.baty.net"
-  weight = 50
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
