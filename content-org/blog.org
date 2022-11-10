@@ -22,6 +22,19 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Thursday, November 10, 2022
+CLOSED: [2022-11-10 Thu 04:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-10-Thursday
+:EXPORT_HUGO_SLUG: 2022-11-10
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-10 Thu 04:52]
+:END:
+
+I did spin up my own [[https://social.baty.net][Mastodon instance]]. I'm still not sure why. I love that my username is @jack@baty.net, though. The problem with self-hosting something like this is I need to commit to it /forever/ and that's a long time.
+
 **** DONE Wednesday, November 09, 2022
 CLOSED: [2022-11-09 Wed 05:10]
 :PROPERTIES:

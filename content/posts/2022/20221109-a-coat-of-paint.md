@@ -5,7 +5,7 @@ draft: false
 summary: "A fresh new theme always feels good"
 ---
 
-I have always struggled with Hugo theming. I have some sort of mental block around its templating and content layout. My earlier theme, LoveIt, was nice enough, but I could not make heads or tails of the way it worked. There was too much magic for my taste, so I went looking for something simpler.
+I have always struggled with Hugo theming. I have some sort of mental block around its templating and content layout. My earlier theme, LoveIt, was nice enough, but I could not make heads or tails of how it worked. There was too much magic for my taste, so I went looking for something simpler.
 
 What I found is Congo. [Congo](https://github.com/jpanther/congo). Congo may not be simpler, but it's a different kind of complicated. It's magic that I (mostly) understand.
 

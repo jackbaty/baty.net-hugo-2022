@@ -9,7 +9,7 @@ draft: false
 weight: 0
 ---
 
-In [mastodon.technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/), Ash Furrow writes:
+In [mastodon technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/), Ash Furrow writes:
 
 > I have sad news that I have decided to shut down the mastodon.technology instance. In accordance with the Mastodon Server Covenant, the server will be shut down no earlier than December 1, 2022.
 >

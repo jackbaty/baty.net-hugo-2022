@@ -2,12 +2,13 @@
 title: "Searching this site using Pagefind"
 date: 2022-07-30T07:50:35-04:00
 draft: false
-
 categories: ["Blogging"]
 tags: ["Webdev"]
-toc: false
-author: ""
 ---
+
+{{< alert >}}
+**Note** Pagefind is no longer used on this site, due to a theme change.
+{{< /alert >}}
 
 I was made aware of [Pagefind](https://pagefind.app/) via a [post by Bryce Wray](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/).
 
@@ -17,7 +18,6 @@ Pagefind is...
 >
 > [Pagefind.app](https://pagefind.app)
 
-<!--more-->
 
 They had me at "...without hosting any infrastructure". The [theme I used to use](https://hugoloveit.com) included a nice search using [Lunr](https://lunrjs.com). [My new theme](https://github.com/Lednerb/bilberry-hugo-theme) uses Algolia, which I don't love because it involves a separate, commercial service and requires rebuilding and pushing an updated index to the Algolia service every time I post something.
 
@@ -25,7 +25,7 @@ As an alternative to Algolia, I thought I'd try [Pagefind](https://pagefind.app/
 
 First, I created a search page at [/search/](/search/). The search form looks like this:
 
-```
+```html
 <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
 <div id="search"></div>
