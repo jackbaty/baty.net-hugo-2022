@@ -35,6 +35,10 @@ CLOSED: [2022-11-10 Thu 04:52]
 
 I spun up my own [[https://social.baty.net][Mastodon instance]]. I'm still not sure why. I love that my username is [[https://social.baty.net/@jack][@jack@baty.net]], though. The problem with self-hosting something like this is I need to commit to it /forever/ and that's a long time.
 
+At least Twitter is /interesting/ again, even if not in a good way.
+
+Played a round of [[https://www.mightycoconut.com/minigolf][Walkabout Mini Golf]] with a friend again last night. I really enjoy getting together that way. Maybe Zuck is onto something :).
+
 **** DONE Wednesday, November 09, 2022
 CLOSED: [2022-11-09 Wed 05:10]
 :PROPERTIES:
