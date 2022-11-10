@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Jack Baty"
-logo = "img/logo.png"
+# logo = "img/logo.png" # now in params.toml as header.logo
 description = "A personal weblog by Jack Baty"
 copyright = "© 2022 Jack Baty"
 

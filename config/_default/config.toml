@@ -11,7 +11,7 @@ summaryLength = 0
 
 [permalinks]
   posts = '/:year/:slug/'
-  journal = '/:slug/'
+  journal = '/:year/:month/:day-:weekdayname'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
