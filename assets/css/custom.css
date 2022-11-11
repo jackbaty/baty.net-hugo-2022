@@ -16,7 +16,8 @@
     content: '\2014 ';
 }
 
-.journal-more {text-align: right;}
+
+.journal-more {text-align: center;}
 .journal-more a {
   font-weight: bold;
 }

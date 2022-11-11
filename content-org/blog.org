@@ -22,6 +22,19 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Friday, November 11, 2022
+CLOSED: [2022-11-11 Fri 07:28]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-11-Friday
+:EXPORT_HUGO_SLUG: 2022-11-11
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-11 Fri 07:28]
+:END:
+
+I am still waffling about whether I want to run my own Mastodon instance forever. Yesterday I was all in. Today, not so much. I've kind of established myself over on [[https://fosstodon.org][fosstodon.org]] and like it there just fine.
+
 **** DONE Thursday, November 10, 2022
 CLOSED: [2022-11-10 Thu 04:52]
 :PROPERTIES:
@@ -38,6 +51,15 @@ I spun up my own [[https://social.baty.net][Mastodon instance]]. I'm still not s
 At least Twitter is /interesting/ again, even if not in a good way.
 
 Played a round of [[https://www.mightycoconut.com/minigolf][Walkabout Mini Golf]] with a friend again last night. I really enjoy getting together that way. Maybe Zuck is onto something :).
+
+I saw this quote by Nick Cave today and ordered [[https://www.amazon.com/gp/product/0374607370/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8][the book]] immediately:
+
+#+begin_quote
+The luminous and shocking beauty of the everyday is something I try to remain alert to, if only as an antidote to the chronic cynicism and disenchantment that seems to surround everything, these days. It tells me that, despite how debased or corrupt we are told humanity is and how degraded the world has become, it just keeps on being beautiful.
+
+Nick Cave, "Faith, Hope, and Carnage"
+#+end_quote
+
 
 **** DONE Wednesday, November 09, 2022
 CLOSED: [2022-11-09 Wed 05:10]
