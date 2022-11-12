@@ -22,6 +22,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Saturday, November 12, 2022
+CLOSED: [2022-11-12 Sat 05:27]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-12-Saturday
+:EXPORT_HUGO_SLUG: 2022-11-12
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-12 Sat 05:27]
+:END:
+
+I've used and loved an [[https://ember.com/products/ember-mug-2?variant=30843977826389][Ember Mug]] for a couple years and never felt the need to pair it with the companion app. But, the battery has been acting up lately so I thought I'd check it with the app. I can't pair the mug with my phone without creating an "Ember account". Why in god's name do I need an online account just to check the battery level in my coffee mug?
+
+
 **** DONE Friday, November 11, 2022
 CLOSED: [2022-11-11 Fri 07:28]
 :PROPERTIES:
