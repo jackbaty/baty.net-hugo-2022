@@ -19,14 +19,14 @@ Last updated **July 2022.**
 *   **Lenovo ThinkPad X1 Carbon (2015)** – I tinker with Linux on this. Hate the trackpad more than anything.
 *   **Apple iPad Pro 10.9 (2021)** – I am not an iPad person. Not sure I ever will be but this is a great device anyway. The Magic Keyboard makes it usable.
 *   **iPhone 12 Mini** – It’s an iPhone. The properly sized one. I put it in the Computing category but it goes in nearly every category.
-*   **LG 32-inch 4K display** – It’s fine. I think I’d prefer something smaller, but 5K.
+*   **Apple Studio display** – A great monitor. Just the right size. Gorgeous view.
 *   [**Happy Hacking Keyboard Professional 2**](https://hhkeyboard.us/hhkb) – The greatest keyboard. It’s nearly perfect.
 
 ## Software
 
 Here’s the software that I currently use on a regular basis.
 
-*   **[Emacs](https://www.gnu.org/software/emacs/)**,  **[Org mode](https://orgmode.org/)**, and [**Org-roam**](https://www.orgroam.com/) – I write nearly everything in Org-mode. Tasks, lists, documents, publishing, all in plain text.
+*   **[Emacs](https://www.gnu.org/software/emacs/)**,  **[Org mode](https://orgmode.org/)**, and [**Denote**](https://protesilaos.com/emacs/denote) – I write nearly everything in Org-mode. Tasks, lists, documents, publishing, all in plain text.
 *   [**DEVONthink**](http://www.devontechnologies.com/products/devonthink/overview.html) – Email Archives, Manuals, PDFs, Scanned documents. Years of archives remain searchable and synced across devices.
 *   **Apple Mail** – It’s fine, and it’s always right there.
 *   **BBEdit** – As much as I try to remain in Emacs for editing, whenever I need something fancy done with a lot of text, I turn to BBEdit. It’s the editor I’ve used the longest. In fact, it may be the piece of software I’ve used the longest, period. It remains truly great.
@@ -47,11 +47,10 @@ Here’s the software that I currently use on a regular basis.
 ### Software
 
 *   [**Lightroom**](https://www.adobe.com/products/photoshop-lightroom.html) – I use the both the new and the Classic versions, depending.
-*   [**Capture One Pro**](https://www.phaseone.com/en/Products/Software/Capture-One-Pro/Highlights.aspx) – Raw file editor. 
-*   **Apple Photos** – For iPhone shots and keepers exported from Capture One
+*   [**Capture One Pro**](https://www.phaseone.com/en/Products/Software/Capture-One-Pro/Highlights.aspx) – Raw file editor for special occasions
+*   **Apple Photos** – For iPhone shots and keepers exported from my editor
 *   [**Photo Mechanic**](https://home.camerabits.com/) – Ingesting, tagging, and renaming photos from cards. Nothing is faster or easier. I’d like to not need it, but trying to caption and tag dozens of photos at a time is an exercise in frustration in any other app.
 *   [**DxO PhotoLab**](https://www.dxo.com/dxo-photolab/) – Unbelievably good noise reduction with great camera/lens profiles.
-*   [**SilverFast**](http://www.silverfast.com/) – Scanning software for the Epson. I can’t tell you how much I hate it, but it gets me the best results.
 
 ### Cameras
 
@@ -60,36 +59,23 @@ I love cameras. Most of mine are film cameras. Here’s what I’m using current
 
 **Leica M Film Cameras**
 
-I’m a rangefinder guy.
+My favorite object of any kind is a Leica M film camera. I have several of them and they also happen to be the best cameras.
 
-![](https://baty.net/wp-content/uploads/2022/07/leicamp-1024x683.jpg)
-
-Leica MP
-
-![](https://i1.wp.com/baty.net/wp-content/uploads/2022/07/leicam3-1024x819.jpg?ssl=1)
-
-![](https://i2.wp.com/baty.net/wp-content/uploads/2022/07/leicam6-1024x819.jpg?ssl=1)
-
-Leica M3
+* Leica MP (Black Paint)
+* Leica M6
+* Leica M3
 
 
 **Hasselblad 500C/M**
 
-![](https://baty.net/wp-content/uploads/2022/07/hasselblad500cm.jpg)
-
-Hasselblad 500C/M
-
-Medium format film cameras. Some cameras are iconic for a reason. The Hasselblad V series cameras are iconic, beautiful, and superbly engineered. They also produce wonderful images, which is why they are my favorite all-around cameras.
+Some cameras are iconic for a reason. The Hasselblad V series cameras are iconic, beautiful, and superbly engineered. They also produce wonderful images, which is why they are my favorite all-around cameras.
 
 **Linhof Master Technika**
 
-![](https://baty.net/wp-content/uploads/2022/07/linhof-819x1024.jpg)
-
-Linhof Master Technika
 
 Large Format (4×5) film camera. I love this thing. It’s built like a tank and smooth as silk. It’s also a pain in the ass to use, but there’s nothing like a 4×5 negative.
 
-**Other Cameras**
+**Other Film Cameras**
 
 I love cameras. Here’s a list of the ones I currently own but don’t use as often.
 
@@ -105,6 +91,12 @@ I love cameras. Here’s a list of the ones I currently own but don’t use as o
 *   **Olympus OM–2n** – 35mm film camera
 *   **Olympus Stylus Epic** – Compact 35mm film camera
 
+**Digital Cameras**
+
+* **Panasonic Lumix S5** - Used mostly for scanning negatives, but a find, full-frame camera in its own right.
+* **Ricoh GRIII** - Pocketable, high-quality (APS-C), and fun to use snapshot camera.
+
+
 ### Photo Hardware
 
 Some miscellaneous photo-related support items
@@ -116,10 +108,6 @@ Some miscellaneous photo-related support items
 *   **[Billingham Hadley Pro Small](https://billingham.com/products/hadley-small-pro-camera-bag_colour-sage-fibrenyte-chocolate-leather)** – Beautiful and well-made camera bag
 
 ### Darkroom
-
-![](https://i0.wp.com/baty.net/wp-content/uploads/2022/07/focomatv35-820x1024.jpg?ssl=1)
-
-![](https://i0.wp.com/baty.net/wp-content/uploads/2022/07/2017-Roll-008_09_Focomat-IIc-1003x1024.jpg?ssl=1)
 
 I use a bathroom as a makeshift darkroom.
 
@@ -155,7 +143,7 @@ And the rest…
 
 ![](https://baty.net/wp-content/uploads/2022/07/notebooks.jpg "Notebooks")
 
-![/lifestack/sm9.jpg](https://archive.baty.net/lifestack/sm9.jpg "SM9")
+![](https://archive.baty.net/lifestack/sm9.jpg "SM9")
 
 ![/lifestack/sharpener.jpg](https://archive.baty.net/lifestack/sharpener.jpg "Sharpener")
 
