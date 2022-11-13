@@ -39,7 +39,7 @@ i find it a good philosophical exercise to imagine the last tweet. It could come
 
 I add the `documentclass` and `classoption` front matter manually. These options are used by [my pandoc template](https://gist.github.com/jackbaty/af608b15aae82349c77b97333829b521)[^template] when converting the Markdown file to PDF using [Pandoc](https://pandoc.org/). The rest is handled automatically by the extension.
 
-Once I have the Markdown file, I convert it to PDF using something this, (either via a [BBEdit](http://www.barebones.com/products/bbedit/) script or [pandoc-mode](http://joostkremers.github.io/pandoc-mode/) in Emacs.) 
+Once I have the Markdown file, I convert it to PDF either via a [BBEdit](http://www.barebones.com/products/bbedit/) script or [pandoc-mode](http://joostkremers.github.io/pandoc-mode/) in Emacs.
 
 Here's what the PDF looks like:
 
