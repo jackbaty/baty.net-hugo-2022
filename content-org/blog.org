@@ -22,6 +22,22 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Sunday, November 13, 2022
+CLOSED: [2022-11-13 Sun 06:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-13-Sunday
+:EXPORT_HUGO_SLUG: 2022-11-13
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-13 Sun 06:11]
+:END:
+
+Ten years ago I lived alone and had three terrific dogs (see above). I miss the dogs, but not living alone.
+
+I'm not really /doing/ anything lately. This doesn't always bother me, but I'm becoming disenchanted with my lack of creative output. But what to do?
+
+
 **** DONE Saturday, November 12, 2022
 CLOSED: [2022-11-12 Sat 05:27]
 :PROPERTIES:

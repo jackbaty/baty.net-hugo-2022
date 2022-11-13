@@ -6,6 +6,7 @@ showReadingTime: false
 _build:
   render: "false"
   list: "local"
+summary: "Paul Ford about Twitter"
 ---
 
 
