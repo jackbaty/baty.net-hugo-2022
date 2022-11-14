@@ -2,6 +2,7 @@
 title: "Printing Web Pages"
 date: 2022-11-13T06:51:11-05:00
 draft: false
+categories: ["Analog"]
 summary: "An update to my process for printing and reading long-form web articles"
 ---
 
