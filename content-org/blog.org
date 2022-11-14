@@ -22,6 +22,19 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Monday, November 14, 2022
+CLOSED: [2022-11-14 Mon 05:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-14-Monday
+:EXPORT_HUGO_SLUG: 2022-11-14
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-14 Mon 05:21]
+:END:
+
+As much as I love [[https://protesilaos.com/emacs/denote][Denote]] for notes, I almost always add my notes to [[https://wiki.baty.net][the wiki]] instead.
+
 **** DONE Sunday, November 13, 2022
 CLOSED: [2022-11-13 Sun 06:11]
 :PROPERTIES:
@@ -37,6 +50,7 @@ Ten years ago I lived alone and had three terrific dogs (see above). I miss the 
 
 I'm not really /doing/ anything lately. This doesn't always bother me, but I'm becoming disenchanted with my lack of creative output. But what to do?
 
+I've had my fill of Mastodon 'splainers.
 
 **** DONE Saturday, November 12, 2022
 CLOSED: [2022-11-12 Sat 05:27]
