@@ -22,6 +22,23 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Wednesday, November 16, 2022
+CLOSED: [2022-11-16 Wed 10:51]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-16-Wednesday
+:EXPORT_HUGO_SLUG: 2022-11-16
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-16 Wed 10:51]
+:END:
+
+Well, here we go again, I guess. I don't know if I can take any more of that asshole.
+
+I've been a fan and proponent of NASA since I was a kid. I thought of them as miracle workers. Today, I'm happy that Artemis didn't explode on the launchpad. I guess I've learned to temper my expectations as I get older.
+
+I'm not sure why I'm posting another journal entry here, since I prefer the way [[https://baty.blog][baty.blog]] handles it.
+
 **** DONE Monday, November 14, 2022
 CLOSED: [2022-11-14 Mon 05:21]
 :PROPERTIES:
@@ -34,6 +51,13 @@ CLOSED: [2022-11-14 Mon 05:21]
 :END:
 
 As much as I love [[https://protesilaos.com/emacs/denote][Denote]] for notes, I almost always add my notes to [[https://wiki.baty.net][the wiki]] instead.
+
+#+begin_quote
+But sometimes it’s easier to do nothing.
+
+Seth Godin, [[https://seths.blog/2022/11/the-leaf-blower-parable/][The leaf blower parable]]
+#+end_quote
+Correction, it's /always/ easier to do nothing.
 
 **** DONE Sunday, November 13, 2022
 CLOSED: [2022-11-13 Sun 06:11]
