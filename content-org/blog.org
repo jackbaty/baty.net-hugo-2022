@@ -39,6 +39,8 @@ I've been a fan and proponent of NASA since I was a kid. I thought of them as mi
 
 I'm not sure why I'm posting another journal entry here, since I prefer the way [[https://baty.blog][baty.blog]] handles it.
 
+It's likely that I will remove the journal section from the home page and navigation here and just stick with Tinderbox at baty.blog for the journals.
+
 **** DONE Monday, November 14, 2022
 CLOSED: [2022-11-14 Mon 05:21]
 :PROPERTIES:
