@@ -1,7 +1,7 @@
 ---
 title: "Wednesday, November 16, 2022"
 date: 2022-11-16T10:51:00-05:00
-lastmod: 2022-11-16T11:59:02-05:00
+lastmod: 2022-11-16T20:09:44-05:00
 slug: 2022-11-16
 draft: false
 weight: 0
@@ -13,7 +13,7 @@ I've been a fan and proponent of NASA since I was a kid. I thought of them as mi
 
 I'm not sure why I'm posting another journal entry here, since I prefer the way [baty.blog](https://baty.blog) handles it.
 
-It's likely that I will remove the journal section from the home page and navigation here and just stick with Tinderbox at baty.blog for the journals.
+It's possible that I will remove the journal section from the home page and navigation here and just stick with Tinderbox at baty.blog for the journals, but that's still maintaining two blogs and I have a somewhat love/hate set of feelings around that.
 
 
 [//]: # "Exported with love from a post written in Org mode"
