@@ -5,7 +5,6 @@
 #+hugo_auto_set_lastmod: t
 #+hugo_front_matter_key_replace: description>summary author>nil
 #+author: Jack
-#+startup: fold hidedrawers hidestars indent
 #+options: broken-links:t d:t
 #+todo: TODO(t) | DONE(d!)
 #+macro: mark @@html:<mark>$1</mark>@@
@@ -13,6 +12,7 @@
 #+macro: img @@html:{{< figure src="$1" caption="$2" >}}@@
 #+hugo_front_matter_format: yaml
 #+setupfile: ~/org/_SETUP/HTML_FANCY
+#+startup: overview
 
 
 * Drafts
@@ -22,6 +22,19 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Thursday, November 17, 2022
+CLOSED: [2022-11-17 Thu 09:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-17-Thursday
+:EXPORT_HUGO_SLUG: 2022-11-17
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-17 Thu 09:10]
+:END:
+
+When I grow frustrated with indecision around my note-taking process, I often seek refuge in paper notebooks. That's not the answer either, so the carousel continues to spin.
+
 **** DONE Wednesday, November 16, 2022
 CLOSED: [2022-11-16 Wed 10:51]
 :PROPERTIES:
@@ -140,7 +153,6 @@ The luminous and shocking beauty of the everyday is something I try to remain al
 
 Nick Cave, "Faith, Hope, and Carnage"
 #+end_quote
-
 
 **** DONE Wednesday, November 09, 2022
 CLOSED: [2022-11-09 Wed 05:10]
@@ -2904,7 +2916,6 @@ Anyway, I've settled on the [[https://fosstodon.org][Fosstodon.org]] instance. I
 I'm [[https://fosstodon.org/web/@jackbaty][@jackbaty@fosstodon.org]] there.
 
 Thanks, and best of luck to [[https://masto.ashfurrow.com/@ashfurrow][Ash]].
-
 
 *** September 2022
 *** July 2022
