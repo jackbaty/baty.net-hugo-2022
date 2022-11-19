@@ -35,7 +35,7 @@ CLOSED: [2022-11-19 Sat 08:53]
 
 I have switched back to using [[https://www.djcbsoftware.nl/code/mu/mu4e.html][Mu4e]] for managing email in Emacs. I love how [[https://notmuchmail.org/][notmuch]] searching and tagging works, but the actual email experience is better in Mu4e.
 
-
+I've noticed that I remain more comfortable in more keyboard-focused apps (e.g. Emacs) when I'm using a standalone laptop rather than when docked with a big monitor. I don't know if that's because there's no mouse handy or if it's the smaller screen.
 **** DONE Friday, November 18, 2022
 CLOSED: [2022-11-19 Sat 07:40]
 :PROPERTIES:
@@ -80,7 +80,6 @@ CLOSED: [2022-11-17 Thu 09:10]
 When I grow frustrated with indecision around my note-taking process, I often seek refuge in paper notebooks. That's not the answer either, so the carousel continues to spin.
 
 I keep trying to enjoy using Obsidian, but I still don't like using Obsidian. I wish I understood why. I think it's simply that it doesn't feel comfortable. I don't love the way it looks or behaves. I think the availability of so many plugins is as much a hindrance to me as it is a benefit. The community is vast and great, but is also generic and focused on making the software do too much, in my opinion. This leads to eternal yak shaving, which is the opposite of what my brain needs in a note-taking tool.
-
 
 **** DONE Wednesday, November 16, 2022
 CLOSED: [2022-11-16 Wed 10:51]
