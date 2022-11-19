@@ -36,7 +36,6 @@ CLOSED: [2022-11-19 Sat 08:53]
 I have switched back to using [[https://www.djcbsoftware.nl/code/mu/mu4e.html][Mu4e]] for managing email in Emacs. I love how [[https://notmuchmail.org/][notmuch]] searching and tagging works, but the actual email experience is better in Mu4e.
 
 
-
 **** DONE Friday, November 18, 2022
 CLOSED: [2022-11-19 Sat 07:40]
 :PROPERTIES:

@@ -3,7 +3,6 @@ title: Betting long on film with a new Leica MP
 author: Jack
 date: 2021-07-09T13:43:28+00:00
 url: /2021/betting-long-on-film-with-a-new-leica-mp/
-featuredImage: /wp-content/uploads/2021/07/2021-07-09-L1000570.jpg
 categories:
   - Photography
 tags:
@@ -12,6 +11,8 @@ tags:
   - Leica MP
 
 ---
+
+![Leica MP](/wp-content/uploads/2021/07/2021-07-09-L1000570.jpg)
 
 I enjoy both film and digital photography, but the pendulum has been swinging toward film recently, and I&#8217;ve been having a ball.
 
