@@ -48,3 +48,7 @@ div.footnotes {
 .latest-journals h1 {
   font-size: 1.25em;
 }
+
+article header div.mb-12 {
+  margin-bottom: 1em;
+}
