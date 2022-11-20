@@ -22,6 +22,21 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Sunday, November 20, 2022
+CLOSED: [2022-11-20 Sun 05:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-20-Sunday
+:EXPORT_HUGO_SLUG: 2022-11-20
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-20 Sun 05:17]
+:END:
+
+
+
+I just migrated all of my Org-roam notes into Denote. I've been switching between them for months and have recently decided to commit to Denote. I migrated everything using [[https://github.com/bitspook/notes-migrator/blob/master/nm-org-roam-to-denote.el][Notes migrator]].
+
 **** DONE Saturday, November 19, 2022
 CLOSED: [2022-11-19 Sat 08:53]
 :PROPERTIES:
@@ -36,6 +51,7 @@ CLOSED: [2022-11-19 Sat 08:53]
 I have switched back to using [[https://www.djcbsoftware.nl/code/mu/mu4e.html][Mu4e]] for managing email in Emacs. I love how [[https://notmuchmail.org/][notmuch]] searching and tagging works, but the actual email experience is better in Mu4e.
 
 I've noticed that I remain more comfortable in more keyboard-focused apps (e.g. Emacs) when I'm using a standalone laptop rather than when docked with a big monitor. I don't know if that's because there's no mouse handy or if it's the smaller screen.
+
 **** DONE Friday, November 18, 2022
 CLOSED: [2022-11-19 Sat 07:40]
 :PROPERTIES:
