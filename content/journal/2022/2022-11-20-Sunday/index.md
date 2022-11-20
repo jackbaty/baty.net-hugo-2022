@@ -1,7 +1,7 @@
 ---
 title: "Sunday, November 20, 2022"
 date: 2022-11-20T05:17:00-05:00
-lastmod: 2022-11-20T12:39:38-05:00
+lastmod: 2022-11-20T17:09:49-05:00
 slug: 2022-11-20
 draft: false
 weight: 0
@@ -27,6 +27,10 @@ The above quote is from a newly ex-Twitter employee and refers to his boss, Elon
 Sure, sure, you're right. But, Bezos could also _not_ give it away.
 
 The last thing I need to see are more "street photos" of random people in NYC. I'm bored with the idea of NYC being the only place, other than, what, Tokyo? for interesting photography.
+
+Every single post in my Mastodon timeline is about Mastodon. Maybe I'll head over to [Tumblr again](https://jackbaty.tumblr.com/).
+
+There is no todo app that will help me actually get things done. Best they can do is help me remember what I'm supposed to do.
 
 
 [//]: # "Exported with love from a post written in Org mode"
