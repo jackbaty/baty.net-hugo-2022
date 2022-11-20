@@ -39,6 +39,20 @@ I just migrated all of my Org-roam notes into Denote. I've been switching betwee
 
 I don't feel much like talking about the "fediverse" and I sure as hell don't feel like talking about Twitter.
 
+#+begin_quote
+I don’t know him and if someone tells me to hate a stranger I say “no thanks”.
+
+Peter Clowes, [[https://twitter.com/peterclowes/status/1593458225533313025][Twitter]]
+#+end_quote
+The above quote is from a newly ex-Twitter employee and refers to his boss, Elon Musk. Regardless of what one thinks of Elon, I agree with not being told who to hate.
+
+#+begin_quote
+The money Mr. Bezos is now so magnanimously distributing was made through his dehumanizing labor practices, his tax avoidance, his influence peddling, his monopolistic power and other tactics that make him a cause of the problems of modern American life rather than a swashbuckling solution.
+
+Anand Giridharadas, [[https://www.nytimes.com/2022/11/19/opinion/musk-trump-bezos-bankman-fried-billionaires.html][NYT]]
+#+end_quote
+Sure, sure, you're right. But, he could also /not/ give it away.
+
 **** DONE Saturday, November 19, 2022
 CLOSED: [2022-11-19 Sat 08:53]
 :PROPERTIES:
