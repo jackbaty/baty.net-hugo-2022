@@ -37,6 +37,8 @@ CLOSED: [2022-11-20 Sun 05:17]
 
 I just migrated all of my Org-roam notes into Denote. I've been switching between them for months and have recently decided to commit to Denote. I migrated everything using [[https://github.com/bitspook/notes-migrator/blob/master/nm-org-roam-to-denote.el][Notes migrator]].
 
+I don't feel much like talking about the "fediverse" and I sure as hell don't feel like talking about Twitter.
+
 **** DONE Saturday, November 19, 2022
 CLOSED: [2022-11-19 Sat 08:53]
 :PROPERTIES:
