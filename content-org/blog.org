@@ -22,6 +22,21 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** TODO Monday, November 21, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-21-Monday
+:EXPORT_HUGO_SLUG: 2022-11-21
+:END:
+
+#+begin_quote
+Give everyone a fair chance to advance in the world on the merit of their talent and content of their character. Regardless of their identity.
+
+DHH, [[https://world.hey.com/dhh/the-waning-days-of-dei-s-dominance-9a5b656c][The waning days of DEI's dominance]]
+#+end_quote
+
+Ahh, DHH says that thing that only rich white guys can say with a straight face.
+
 **** DONE Sunday, November 20, 2022
 CLOSED: [2022-11-20 Sun 05:17]
 :PROPERTIES:
