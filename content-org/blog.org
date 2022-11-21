@@ -22,11 +22,15 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
-**** TODO Monday, November 21, 2022
+**** DONE Monday, November 21, 2022
+CLOSED: [2022-11-21 Mon 05:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2022-11-21-Monday
 :EXPORT_HUGO_SLUG: 2022-11-21
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-21 Mon 05:17]
 :END:
 
 #+begin_quote
@@ -37,6 +41,7 @@ DHH, [[https://world.hey.com/dhh/the-waning-days-of-dei-s-dominance-9a5b656c][Th
 
 Ahh, DHH says that thing that only rich white guys can say with a straight face.
 
+I'm having fun playing with [[https://capacities.io][Capacities]], a new-ish PKM tool similar to things like Notion and Craft. The biggest problem I see with it so far is that, just like all the others, it's not Emacs/Org-mode. That always ends up being a deal-breaker.
 **** DONE Sunday, November 20, 2022
 CLOSED: [2022-11-20 Sun 05:17]
 :PROPERTIES:
