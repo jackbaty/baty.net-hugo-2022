@@ -44,7 +44,7 @@ Once I have the Markdown file, I convert it to PDF either via a [BBEdit](http://
 
 Here's what the PDF looks like:
 
-![Screenshot of PDF output](example-pdf.png)
+![Screenshot of PDF output](example-pdf.png "Screenshot of printed output")
 
 After that, it's off to the printer.
 
