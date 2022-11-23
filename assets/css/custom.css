@@ -21,7 +21,7 @@ article p { line-height: 1.5;}
 
 
 
-.journal-more {text-align: center;}
+.journal-more {width: 80%; text-align: right;}
 .journal-more a {
   font-weight: bold;
 }

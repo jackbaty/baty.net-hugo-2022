@@ -10,6 +10,8 @@ showDate = false
 
 ## Changes to Baty.net (since June 26, 2022)
 
+- 2022-11-23 Revert to "Profile" layout. Center journal section.
+- 2022-11-23 Change "Articles" to "Posts" because who do I think I am, anyway?
 - 2022-11-00 (November) New theme, Congo. Lots of tweaks to it.
 - 2022-08-07 Replaced Cusdis comments with an email link
 - 2022-08-05 Moved status posts from main RSS feed to /status/index.xml

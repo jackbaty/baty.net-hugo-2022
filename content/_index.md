@@ -1,3 +1,3 @@
 ---
-title: "Jack Baty's Weblog"
+title: "Jack Baty's Blog"
 ---
