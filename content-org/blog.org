@@ -22,6 +22,15 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** TODO Wednesday, November 23, 2022
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-23-Wednesday
+:EXPORT_HUGO_SLUG: 2022-11-23
+:END:
+
+The Tinderbox blog over at [[https://baty.blog][baty.blog]] is better at these journal entries than Hugo is, so I'm feeling the urge to bail on them here. Again.
+
 **** DONE Tuesday, November 22, 2022
 CLOSED: [2022-11-22 Tue 04:04]
 :PROPERTIES:

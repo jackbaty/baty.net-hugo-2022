@@ -3,7 +3,6 @@ title: The Minolta Autocord
 author: Jack
 date: 2021-03-29T15:31:43+00:00
 url: /2021/the-minolta-autocord/
-featuredImage: /wp-content/uploads/2021/03/2021-03-29-Minolta-Autocord-2.jpg
 categories:
   - Photography
 tags:
@@ -12,6 +11,8 @@ tags:
   - Minolta
 
 ---
+
+
 I&#8217;ve had this Minolta Autocord for so long I don&#8217;t remember where I got it. Or when, exactly.
 
 Mine is a model RG-2 from 1962 with the Optiper-MVL shutter. I don&#8217;t know much else about the camera other than it&#8217;s fun but challenging to use. I keep thinking about taking it out for a spin but haven&#8217;t done that in a few years.
