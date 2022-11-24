@@ -6,12 +6,12 @@ TARGET=server01.baty.net
 .POSIX:
 .PHONY: build checkpoint deploy
 
+# npx -y pagefind --source public
 
 build:
 	rm -rf $PUBLIC_DIR
 	hugo --gc --minify
-	npx -y pagefind --source public
-	
+
 checkpoint:
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
