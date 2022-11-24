@@ -1,7 +1,7 @@
 
 
 {{ if .Site.Params.homepage.showRecent | default false }}
-<div class="journal-header text-neutral-500 mt-8 text-xl font-extrabold">Latest Journal</div>
+<div class="journal-header text-neutral-500 mt-8 text-xl font-extrabold">Latest journal entry</div>
   {{ $journal := ($.Site.GetPage "section" "journal").Pages.ByPublishDate.Reverse}}
   {{ range first 1 $journal }}
     {{ partial "journal-link.html" . }}
