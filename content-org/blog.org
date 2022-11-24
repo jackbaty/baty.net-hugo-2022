@@ -33,7 +33,15 @@ CLOSED: [2022-11-24 Thu 04:59]
 - State "DONE"       from "TODO"       [2022-11-24 Thu 04:59]
 :END:
 
-I'm feeling a bit overwhelmed by social media right now. It feels crowded, somehow. I guess that's the whole point, but it's too much.
+I'm feeling a bit overwhelmed by social media right now. It feels crowded, somehow. I guess that's the whole point, but it's too much. I [[/2022/calm-technology/][wrote a short post about it]].
+
+A lot of people are linking to [[https://andschwa.com/posts/emacs-on-an-ipad/][Emacs on an iPad]]. There's no way I'm doing all that.
+
+If I love plain text so much then why do I turn frickin' everything into PDFs?
+
+Oh my, look at all these blogs! https://ooh.directory/
+
+I struggle with organizing my notes because sometimes projects are a bunch of files with some notes to back them up but other times they are a bunch of notes with supporting files. The way I think of each affects how I want to organize it.
 
 **** DONE Wednesday, November 23, 2022
 CLOSED: [2022-11-23 Wed 04:50]
@@ -62,7 +70,6 @@ Linux is much better for doing things *to* a computer than it is for doing thing
 
 Me, [[https://jackbaty.tumblr.com/post/187186573487/linux-is-much-better-for-doing-things-to-a][Tumblr]], 2019
 #+end_quote
-
 
 **** DONE Tuesday, November 22, 2022
 CLOSED: [2022-11-22 Tue 04:04]
