@@ -22,6 +22,19 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Thursday, November 24, 2022
+CLOSED: [2022-11-24 Thu 04:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-24-Thursday
+:EXPORT_HUGO_SLUG: 2022-11-24
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-24 Thu 04:59]
+:END:
+
+I'm feeling a bit overwhelmed by social media right now. It feels crowded, somehow. I guess that's the whole point, but it's too much.
+
 **** DONE Wednesday, November 23, 2022
 CLOSED: [2022-11-23 Wed 04:50]
 :PROPERTIES:
@@ -50,6 +63,7 @@ Linux is much better for doing things *to* a computer than it is for doing thing
 Me, [[https://jackbaty.tumblr.com/post/187186573487/linux-is-much-better-for-doing-things-to-a][Tumblr]], 2019
 #+end_quote
 
+
 **** DONE Tuesday, November 22, 2022
 CLOSED: [2022-11-22 Tue 04:04]
 :PROPERTIES:
@@ -66,7 +80,6 @@ If Leica can [[https://leica-camera.com/en-US/photography/cameras/m/m6][re-intro
 Social media has become exhausting for me. Even Mastodon is annoying now that everyone feels the need to tell everyone else how they're supposed to /be/ on the platform. It's all either that or bitching or snickering. I doubt I'll do anything about it, though.
 
 Come to think of it, what I want isn't so much "social" media but rather a place where I can talk about myself in public 😆. And I already have several of those places. They're called "blogs".
-
 
 **** DONE Monday, November 21, 2022
 CLOSED: [2022-11-21 Mon 05:17]
@@ -2997,8 +3010,29 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 * Posts
 ** 2022
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: article/2022
+:EXPORT_HUGO_SECTION: posts/2022
 :END:
+*** November 2022
+**** DONE Calm technology
+CLOSED: [2022-11-24 Thu 05:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221124-calm-technology
+:EXPORT_HUGO_SLUG: calm-technology
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-24 Thu 05:11]
+:END:
+
+I'm overwhelmed by social media right now. Visiting Twitter just makes me anxious because it's become an even bigger shit-show and all anyone can talk about is how much of a shit-show it is.
+
+And Mastodon is almost worse, since the only topics there right now seem to be the Twitter shit-show (but everyone calls it "birdsite" for whatever stupid reason) or how Mastodon is or isn't confusing or is or isn't racist or else over-explaining what the "fediverse" means to the future of the internet.
+
+Everyone is just so breathy and I'm exhausted by all of it.
+
+So, instead, I've been writing journal entries on my blog, updating my wiki, and sitting at my writing desk with a pen and a notebook. It's the latter of these things that brings me a nice sort of calm. It's not really even technology but it's where I increasingly wish to spend my time.
+
+
 *** October 2022
 
 **** DONE Where would you like to see daily notes?
