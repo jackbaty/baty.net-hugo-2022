@@ -32,10 +32,22 @@ CLOSED: [2022-11-25 Fri 04:15]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2022-11-25 Fri 04:15]
 :END:
+
+#+attr_html: :class sideImage
+@@html:![](/img/small/jack-tongue-out-small.jpg)@@
+
 I'm seriously considering an extended break from /all/ social media.
-I'm exhausted from watching everyone telling everyone else how to be or who they're allowed to like or what they're doing wrong. Either that, or they scroll around looking for something to point and yell, "That's bad!" I don't need it. I'll miss a lot of cool people saying smart things and FOMO is powerful, but my mental health needs the respite.
+I'm exhausted from watching everyone telling everyone else how to be or who they're allowed to like or what they're doing wrong. Either that, or they scroll around looking for something to point and yell, "That's bad!" I don't need it. I'll miss a lot of cool people saying smart things and FOMO is powerful, but my mental health needs the respite. In the meantime, I'll be posting here on the blog and reading my RSS feed like a grown up.
 
+#+begin_quote
+I wonder how much "clever" I can remove from my life and how much of it I would miss.
 
+Me, [[https://wiki.baty.net/#2019.04.22%20-%20Journal][2019]]
+#+end_quote
+
+The thing about sitting at a computer is that it never feels like I'm not /doing something/. On the other hand, after stepping away and just standing/sitting somewhere, after 30 seconds I feel like I'm /not/ doing something and feel itchy. It's not healthy to feel that way.
+
+I like using film because everything else quickly becomes a contest about technical perfection and I find that boring.
 **** DONE Thursday, November 24, 2022
 CLOSED: [2022-11-24 Thu 04:59]
 :PROPERTIES:
