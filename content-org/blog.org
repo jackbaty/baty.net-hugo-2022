@@ -22,6 +22,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Friday, November 25, 2022
+CLOSED: [2022-11-25 Fri 04:15]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-25-Friday
+:EXPORT_HUGO_SLUG: 2022-11-25
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-25 Fri 04:15]
+:END:
+I'm seriously considering an extended break from /all/ social media.
+I'm exhausted from watching everyone telling everyone else how to be or who they're allowed to like or what they're doing wrong. Either that, or they scroll around looking for something to point and yell, "That's bad!" I don't need it. I'll miss a lot of cool people saying smart things and FOMO is powerful, but my mental health needs the respite.
+
+
 **** DONE Thursday, November 24, 2022
 CLOSED: [2022-11-24 Thu 04:59]
 :PROPERTIES:
