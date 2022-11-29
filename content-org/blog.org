@@ -22,6 +22,41 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Tuesday, November 29, 2022
+CLOSED: [2022-11-29 Tue 18:15]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-29-Tuesday
+:EXPORT_HUGO_SLUG: 2022-11-29
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-29 Tue 18:15]
+:END:
+
+I'm having one of those days where I want to burn my whole process to the ground and start over. Today's thing is that I don't want to have to go "through" an app to get to my stuff. I want to be able to work directly from my Mac's finder. And I want to be able to move files around without breaking references or having them become lost to an app.
+
+#+begin_quote
+Remember when NFTs were cool and people thought their JPGs were worth millions?
+
+The Verge, [[https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin][Crypto Collapse]]
+#+end_quote
+
+**** DONE Sunday, November 27, 2022
+CLOSED: [2022-11-27 Sun 05:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-27-Sunday
+:EXPORT_HUGO_SLUG: 2022-11-27
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-27 Sun 05:58]
+:END:
+
+I took a couple of days away from social media and it was refreshing, but I'm heading back in to [[https://fosstodon.org/@jackbaty][Mastodon]] today. I miss people. Some of them anyway. Maybe they've stopped talking about Twitter and telling other people how to use social media? We'll see.
+
+This morning I had either a kind of epiphany or simply a crazy thought, and that is that maybe what I need is not digital, but rather an easier/faster film camera.
+
+Should I feel more guilty for not promoting or helping with everyone's Twitter->Mastodon migration? I love the idea of a "fediverse" and hope Mastodon is successful, but I don't feel a desire or obligation to be part of the machinery making it happen. I just want to be a participant, if that's OK.
 **** DONE Saturday, November 26, 2022
 CLOSED: [2022-11-26 Sat 06:28]
 :PROPERTIES:
