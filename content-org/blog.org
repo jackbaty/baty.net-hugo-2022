@@ -3131,7 +3131,7 @@ I keep all my notes in Denote, including notes about current projects. For examp
 
 David of System Crafters created a [[https://www.youtube.com/watch?v=CUkuyW6hr18][video]] about hacking Org-roam containing something like what I was looking for [[https://systemcrafters.net/build-a-second-brain-in-emacs/5-org-roam-hacks/#build-your-org-agenda-from-org-roam-notes][in the show notes]], but for Org-roam not Denote.
 
-I took the idea and implemented it in Denote instead as jab/denote-add-to-agenda-files. All it does is search denote-directory for files with a specific pattern and append the results to my default list of org-agenda-files. It looks like this:
+I took the idea and implemented it for Denote instead. All it does is search denote-directory for files with a specific pattern and append the results to my default list of org-agenda-files. It looks like this:
 
 
 #+begin_src emacs-lisp
