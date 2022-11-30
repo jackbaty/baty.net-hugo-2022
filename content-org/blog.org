@@ -22,6 +22,18 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** November 2022
+**** DONE Wednesday, November 30, 2022
+CLOSED: [2022-11-30 Wed 14:23]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-11-30-Wednesday
+:EXPORT_HUGO_SLUG: 2022-11-30
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-30 Wed 14:23]
+:END:
+
+I've been futzing around in Emacs all day. It's been both wonderful and frustrating, but I think I'm getting somewhere. Most of the day was around [[https://protesilaos.com/emacs/denote][Denote]], Email, and my capture process.
 **** DONE Tuesday, November 29, 2022
 CLOSED: [2022-11-29 Tue 18:15]
 :PROPERTIES:
@@ -40,6 +52,9 @@ Remember when NFTs were cool and people thought their JPGs were worth millions?
 
 The Verge, [[https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin][Crypto Collapse]]
 #+end_quote
+
+I listed [[https://www.fredmiranda.com/forum/topic/1784985/0#16106694][the Linhof Master Technika for sale]]. It's a fantastic medium format kit and you should buy it.
+
 
 **** DONE Sunday, November 27, 2022
 CLOSED: [2022-11-27 Sun 05:58]
@@ -3099,6 +3114,42 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: posts/2022
 :END:
 *** November 2022
+**** DONE Keeping my Org Agenda updated based on Denote keywords :@Emacs:
+CLOSED: [2022-11-30 Wed 14:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221130-keeping-my-org-agenda-updated
+:EXPORT_HUGO_SLUG: keeping-my-org-agenda-updated
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-30 Wed 14:22]
+:END:
+
+I've recently switched from using [[https://www.orgroam.com/][Org-roam]] to using [[https://protesilaos.com/emacs/denote][Denote]] for my notes. Org-roam is powerful and cool, but I prefer the more straightforward approach of Denote.
+
+I keep all my notes in Denote, including notes about current projects. For example, we're planning to remodel our kitchen. This is a project and so I have a Denote file named "20221130T130143--kitchen-remodel-2023__house_project.org". In this file, I keep a list of TODOs. In order to see these TODOs in my [[https://orgmode.org/manual/Agenda-Views.html][Org Agenda]], I need to add the file to org-agenda-files. This can be done a few ways, but all are manual. I am forgetful, so I wanted a more automated way to keep my org-agenda-files up to date with Denote projects.
+
+David of System Crafters created a [[https://www.youtube.com/watch?v=CUkuyW6hr18][video]] about hacking Org-roam containing something like what I was looking for [[https://systemcrafters.net/build-a-second-brain-in-emacs/5-org-roam-hacks/#build-your-org-agenda-from-org-roam-notes][in the show notes]], but for Org-roam not Denote.
+
+I took the idea and implemented it in Denote instead as jab/denote-add-to-agenda-files. All it does is search denote-directory for files with a specific pattern and append the results to my default list of org-agenda-files. It looks like this:
+
+
+#+begin_src emacs-lisp
+;; Add all Denote files tagged as "project" to org-agenda-files
+(defun jab/denote-add-to-agenda-files (keyword)
+  "Append list of files containing 'keyword' to org-agenda-files"
+  (interactive)
+  (jab/init-org-agenda-files) ;; start over
+  (setq org-agenda-files (append org-agenda-files (directory-files denote-directory t keyword))))
+
+(jab/denote-add-to-agenda-files "_project")
+#+end_src
+
+That's it. Now I can keep my project TODOs in the project Org files and view them in the Agenda. You'll notice that there's nothing in there that actually depends on Denote. It's all just basic Emacs stuff. That's one of the reasons I love Denote so much; even /I/ can riff off it. I haven't found a good way to add newly-created project files to the agenda without reloading Emacs or calling the function manually, but I'll get to that later.
+
+
+
+
 **** DONE Calm technology
 CLOSED: [2022-11-24 Thu 05:11]
 :PROPERTIES:
