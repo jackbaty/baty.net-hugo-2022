@@ -1,8 +1,9 @@
 ---
 title: "My first real AI moment"
-lastmod: 2022-12-01T06:00:44-05:00
+date: 2022-12-01T06:00:00-05:00
+lastmod: 2022-12-01T06:24:16-05:00
 slug: "my-first-real-ai-moment"
-draft: true
+draft: false
 weight: 0
 ---
 
@@ -11,6 +12,8 @@ I just had my first real AI revelation moment while using [OpenAI's ChatGPT](htt
 {{< figure src="gpt-thread.png" caption="<span class=\"figure-number\">Figure 1: </span>Me, chatting with a computer about Emacs" >}}
 
 Can you imagine where this leads? I didn't really _get_ it, until having the above conversation. I'd love being in high school right now. It's like being in that brief period where calculators were still rare, so having one was like cheating. AI feels like cheating, in a good way.
+
+This feels like the first time I dragged and resized a filled shape in MacPaint on my Macintosh Plus. Or the first time I pinched-to-zoom on the original iPhone.
 
 
 [//]: # "Exported with love from a post written in Org mode"
