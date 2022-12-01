@@ -14,13 +14,28 @@
 #+setupfile: ~/org/_SETUP/HTML_FANCY
 #+startup: overview
 
-
 * Drafts
 * Daily
 ** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
+*** December 2022
+**** DONE Thursday, December 01, 2022
+CLOSED: [2022-12-01 Thu 05:02]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-12-01-Thursday
+:EXPORT_HUGO_SLUG: 2022-12-01
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-01 Thu 05:02]
+:END:
+
+👋 Hello,and welcome to December!
+
+I had [[/2022/my-first-real-ai-moment][my first real AI moment]] this morning.
+
 *** November 2022
 **** DONE Wednesday, November 30, 2022
 CLOSED: [2022-11-30 Wed 14:23]
@@ -34,6 +49,15 @@ CLOSED: [2022-11-30 Wed 14:23]
 :END:
 
 I've been futzing around in Emacs all day. It's been both wonderful and frustrating, but I think I'm getting somewhere. Most of the day was around [[https://protesilaos.com/emacs/denote][Denote]], Email, and my capture process.
+
+Trying Prot's [[https://protesilaos.com/emacs/standard-themes][Standard Themes for GNU Emacs]] because it looks like default Emacs but as an actual theme. Here's the introduction:
+
+#+begin_quote
+The standard-themes are a pair of light and dark themes for GNU Emacs. They emulate the out-of-the-box looks of Emacs (which technically do NOT constitute a theme) while bringing to them thematic consistency, customizability, and extensibility.
+
+Protesilaos Stavrou[[https://protesilaos.com/emacs/standard-themes][ Standart Themes]]
+#+end_quote
+
 **** DONE Tuesday, November 29, 2022
 CLOSED: [2022-11-29 Tue 18:15]
 :PROPERTIES:
@@ -54,7 +78,6 @@ The Verge, [[https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-bina
 #+end_quote
 
 I listed [[https://www.fredmiranda.com/forum/topic/1784985/0#16106694][the Linhof Master Technika for sale]]. It's a fantastic medium format kit and you should buy it.
-
 
 **** DONE Sunday, November 27, 2022
 CLOSED: [2022-11-27 Sun 05:58]
@@ -3113,6 +3136,29 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2022
 :END:
+*** December 2022
+**** DONE My first real AI moment
+CLOSED: [2022-12-01 Thu 06:00]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221201-my-first-real-ai-moment
+:EXPORT_HUGO_SLUG: my-first-real-ai-moment
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-01 Thu 06:00]
+:END:
+
+I just had my first real AI revelation moment while using [[https://chat.openai.com/chat][OpenAI's ChatGPT]]. I asked it an honest question that I had and got a complete, sensible, and correct answer. It's like if Google had a brain, or if I asked an assistant to look something up for me and report back. Here's part of the thread:
+
+#+caption: Me, chatting with a computer about Emacs
+[[file:gpt-thread.png]]
+
+Can you imagine where this leads? I didn't really /get/ it, until having the above conversation. I'd love being in high school right now. It's like being in that brief period where calculators were still rare, so having one was like cheating. AI feels like cheating, in a good way.
+
+
+
+
+
 *** November 2022
 **** DONE Keeping my Org Agenda updated based on Denote keywords :@Emacs:
 CLOSED: [2022-11-30 Wed 14:22]
@@ -4029,7 +4075,6 @@ CLOSED: [2022-04-03 Sun 09:30]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220403-R0002125A.jpg
 :END:
 I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how remarkable they are. They're not that remarkable.
-
 
 * Status Updates
 :PROPERTIES:
