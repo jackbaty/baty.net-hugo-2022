@@ -32,7 +32,7 @@ CLOSED: [2022-12-01 Thu 05:02]
 - State "DONE"       from "TODO"       [2022-12-01 Thu 05:02]
 :END:
 
-👋 Hello,and welcome to December!
+👋 Hello, and welcome to December!
 
 I had [[/2022/my-first-real-ai-moment][my first real AI moment]] this morning.
 
@@ -44,6 +44,8 @@ Speaking of wild new software capabilities, [[https://rewind.ai][Rewind.ai]] jus
 Now you can search across any words spoken during Zoom meetings. It also works in realtime: if you get
 called on and want to reference what was just being said, just rewind to see the transcript.
 #+end_quote
+
+There are times I grow weary of using Emacs (and /any/ plain text) and start looking at prettier, pointy-clickier alternatives. This is dumb, because Emacs and Org-mode are so completely flexible and powerful that everything else pales in comparison. The novelty soon wears off and I'm back home in Emacs.
 
 
 
