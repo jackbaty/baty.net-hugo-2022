@@ -36,6 +36,17 @@ CLOSED: [2022-12-01 Thu 05:02]
 
 I had [[/2022/my-first-real-ai-moment][my first real AI moment]] this morning.
 
+It's nice to see [[https://kottke.org/22/11/hi-hello-im-back-at-it][Kottke is back]].
+
+Speaking of wild new software capabilities, [[https://rewind.ai][Rewind.ai]] just enabled live Zoom transcriptions:
+
+#+begin_quote
+Now you can search across any words spoken during Zoom meetings. It also works in realtime: if you get
+called on and want to reference what was just being said, just rewind to see the transcript.
+#+end_quote
+
+
+
 *** November 2022
 **** DONE Wednesday, November 30, 2022
 CLOSED: [2022-11-30 Wed 14:23]
@@ -3148,7 +3159,7 @@ CLOSED: [2022-12-01 Thu 06:00]
 - State "DONE"       from "TODO"       [2022-12-01 Thu 06:00]
 :END:
 
-I just had my first real AI revelation moment while using [[https://chat.openai.com/chat][OpenAI's ChatGPT]]. I asked it an honest question that I had and got a complete, sensible, and correct answer. It's like if Google had a brain, or if I asked an assistant to look something up for me and report back. Here's part of the thread:
+I'm a latecomer to AI, but I just had my first real AI revelation moment while using [[https://chat.openai.com/chat][OpenAI's ChatGPT]]. I asked it an honest question that I had and got a complete, sensible, and correct answer. It's like if Google had a brain, or if I asked an assistant to look something up for me and report back. Here's part of the thread:
 
 #+caption: Me, chatting with a computer about Emacs
 [[file:gpt-thread.png]]
