@@ -20,6 +20,16 @@ article p { line-height: 1.5;}
 }
 
 
+/* Don't fake the citation if only one paragraph */
+blockquote p:only-of-type {
+    text-align: left;
+    font-size: 1.0em;
+}
+blockquote p:only-of-type::before {
+  content: '';
+}
+
+
 
 .journal-more {width: 80%; text-align: right;}
 .journal-more a {
@@ -52,3 +62,5 @@ div.footnotes {
 article header div.mb-12 {
   margin-bottom: 1em;
 }
+
+

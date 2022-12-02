@@ -21,6 +21,36 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** December 2022
+**** DONE Friday, December 02, 2022 :attach:
+CLOSED: [2022-12-02 Fri 05:07]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-12-02-Friday
+:EXPORT_HUGO_SLUG: 2022-12-02
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-02 Fri 05:07]
+:END:
+
+Am I really so creatively barren that I can't even think of interesting AI prompts?
+
+"Intellectual Honesty" is too often a cover for cruelty.
+
+I no longer feel comfortable using Ghost for the copingmechanism.com blog. The idea of "building an audience" or "monetizing my content" is repulsive to me, and that's all Ghost is about now. On the other hand, I'd rather not use WordPress because it's just so big and, for lack of a better word, clunky.
+
+
+This is neat: Arc Browser just added "Developer Mode" when browsing websites on localhost. It adds an indicator in the sidebar and exposes a full URL bar and tools for clearing cookies/caches. I'll use this often.
+
+#+attr_html: :width 400px
+[[file:screenshot.png]]
+
+I may have gotten too fancy with `<blockquote>` handling. I was automatically tweaking the display of the last paragraph, assuming it's always a citation, but it's /not/ always a citation. Let's see if I can fix it:
+
+#+begin_quote
+This is a quote that has only a single paragraph. It should not be aligned right or in a smaller font.
+#+end_quote
+
+
 **** DONE Thursday, December 01, 2022
 CLOSED: [2022-12-01 Thu 05:02]
 :PROPERTIES:
@@ -46,6 +76,8 @@ called on and want to reference what was just being said, just rewind to see the
 #+end_quote
 
 There are times I grow weary of using Emacs (and /any/ plain text) and start looking at prettier, pointy-clickier alternatives. This is dumb, because Emacs and Org-mode are so completely flexible and powerful that everything else pales in comparison. The novelty soon wears off and I'm back home in Emacs.
+
+I'm giving up on scanning film with a digital camera. That process is even more annoying than using a clunky flatbed and the awful SilverFast. Last thing I want is to dick around with RAW files from my film negatives or be forced to use Lightroom because Negative Lab Pro is the only decent option for conversion. Not dealing with all that is half the reason for shooting film in the first place. Trading my Lumix S5 for a V850.
 
 
 
