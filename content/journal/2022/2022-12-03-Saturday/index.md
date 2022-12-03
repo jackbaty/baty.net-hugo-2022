@@ -1,7 +1,7 @@
 ---
 title: "Saturday, December 03, 2022"
 date: 2022-12-03T05:17:00-05:00
-lastmod: 2022-12-03T06:47:27-05:00
+lastmod: 2022-12-03T07:35:52-05:00
 slug: 2022-12-03
 draft: false
 weight: 0
@@ -16,6 +16,8 @@ This is me:
 > Yorker](https://www.newyorker.com/humor/daily-shouts/im-thrilled-to-announce-that-nothing-is-going-on-with-me)
 
 I've removed my big fat head's image from the top of the home page here. It made the layout look messy and I didn't like it.
+
+People on every "side" have seemingly adopted their own narratives about how Twitter is doing. It's either finally a place for "Free Speech" or a hellscape riddled with nazis. It's also doomed to technical collapse any second because people were fired. Musk is a genius with a grand plan or he has no idea what he's doing and is just a rich asshole winging it while trolling the whole world. My take? Only time will tell.
 
 
 [//]: # "Exported with love from a post written in Org mode"
