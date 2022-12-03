@@ -1,7 +1,7 @@
 ---
 title: "Friday, December 02, 2022"
 date: 2022-12-02T05:07:00-05:00
-lastmod: 2022-12-02T07:54:17-05:00
+lastmod: 2022-12-02T12:15:09-05:00
 slug: 2022-12-02
 tags: ["attach"]
 draft: false
@@ -21,6 +21,16 @@ This is neat: Arc Browser just added "Developer Mode" when browsing websites on 
 I may have gotten too fancy with \`&lt;blockquote&gt;\` handling. I was automatically tweaking the display of the last paragraph, assuming it's always a citation, but it's _not_ always a citation. Let's see if I can fix it:
 
 > This is a quote that has only a single paragraph. It should not be aligned right or in a smaller font.
+
+<!--quoteend-->
+
+> And this one **does** have a citation as the last paragraph, so it should be right-aligned, smaller, with a dashed prefix.
+>
+> Jack Baty, 2022
+
+There are days I wish I'd never met Emacs because now I'm married to it and that's that, then.
+
+I'm thinking of changing my rating system from 5-stars to 3-stars.
 
 
 [//]: # "Exported with love from a post written in Org mode"

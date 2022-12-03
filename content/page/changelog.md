@@ -10,6 +10,7 @@ showDate = false
 
 ## Changes to Baty.net (since June 26, 2022)
 
+- 2022-12-03 Change back to "Page" layout and remove giant-ass title from home page  
 - 2022-11-23 Revert to "Profile" layout. Center journal section.
 - 2022-11-23 Change "Articles" to "Posts" because who do I think I am, anyway?
 - 2022-11-00 (November) New theme, Congo. Lots of tweaks to it.

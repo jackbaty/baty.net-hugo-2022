@@ -21,6 +21,28 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** December 2022
+**** DONE Saturday, December 03, 2022
+CLOSED: [2022-12-03 Sat 05:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-12-03-Saturday
+:EXPORT_HUGO_SLUG: 2022-12-03
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-03 Sat 05:17]
+:END:
+
+This is me:
+#+begin_quote
+Personally, my life revolves around the half-dozen things that comfort
+me, and nothing more. I think I'm just wired that way.
+
+I'm Thrilled to Announce That Nothing Is Going On with Me | [[https://www.newyorker.com/humor/daily-shouts/im-thrilled-to-announce-that-nothing-is-going-on-with-me][The New
+Yorker]]
+#+end_quote
+
+I've removed my big fat head's image from the top of the home page here. It made the layout look messy and I didn't like it.
+
 **** DONE Friday, December 02, 2022 :attach:
 CLOSED: [2022-12-02 Fri 05:07]
 :PROPERTIES:
@@ -49,6 +71,16 @@ I may have gotten too fancy with `<blockquote>` handling. I was automatically tw
 #+begin_quote
 This is a quote that has only a single paragraph. It should not be aligned right or in a smaller font.
 #+end_quote
+
+#+begin_quote
+And this one *does* have a citation as the last paragraph, so it should be right-aligned, smaller, with a dashed prefix.
+
+Jack Baty, 2022
+#+end_quote
+
+There are days I wish I'd never met Emacs because now I'm married to it and that's that, then.
+
+I'm thinking of changing my rating system from 5-stars to 3-stars.
 
 
 **** DONE Thursday, December 01, 2022
@@ -3182,6 +3214,32 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: posts/2022
 :END:
 *** December 2022
+**** DONE Converting Markdown to Org-mode syntax in current buffer :@Emacs:
+CLOSED: [2022-12-02 Fri 12:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221202-converting-markdown-to-org-mode-syntax-in-buffer
+:EXPORT_HUGO_SLUG: converting-markdown-to-org-mode-syntax-in-buffer
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-02 Fri 12:48]
+:END:
+
+There are some great tools for bringing web content into Markdown files, but few that offer the same utility for Org-mode ([[https://gitlab.com/publicvoit/orgdown][Orgdown]]) files.
+
+For example, I use Markdownload extension all the time. It works great with nearly every site I use it on, but instead of Markdown, I'd prefer having Org syntax, so I've worked around it by creating a function which converts the current region from Markdown to Org.
+
+#+begin_src emacs-lisp
+(defun jab/md-to-org-region (start end)
+  "Convert region from markdown to org, replacing selection"
+  (interactive "r")
+  (shell-command-on-region start end "pandoc -f markdown -t org" t t))
+#+end_src
+
+I copy the Markdown from the Markdownload window, paste it into an Org buffer, and run the function. It's not perfect, but until someone creates an "Orgdownload" extension, it'll do. (Pretty please, will someone create an Orgdownload extension?)
+
+
+
 **** DONE My first real AI moment
 CLOSED: [2022-12-01 Thu 06:00]
 :PROPERTIES:

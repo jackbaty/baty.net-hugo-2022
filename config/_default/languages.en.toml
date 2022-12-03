@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Jack Baty"
+title = "Baty.net"
 # logo = "img/logo.png" # now in params.toml as header.logo
 description = "A personal weblog by Jack Baty"
 copyright = "© 2022 Jack Baty"
