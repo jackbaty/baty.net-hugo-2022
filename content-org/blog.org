@@ -36,6 +36,8 @@ What shall we talk about today? Oh, I ordered a [[https://www.bhphotovideo.com/c
 
 For some reason, Hugo's built-in RSS template only includes post summaries, which feels like a selfish default. I've copied and tweaked the default to use full content. Also, it was including all kinds of pages so I've restricted it to entries of type "posts" and "journal" and limited the whole thing to 20 items.
 
+I'm happy overall with this Hugo blog and theme, which means I'll probably switch to WordPress or something soon.
+
 
 
 
