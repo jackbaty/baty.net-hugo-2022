@@ -21,6 +21,20 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** December 2022
+**** DONE Sunday, December 04, 2022
+CLOSED: [2022-12-04 Sun 05:13]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-12-04-Sunday
+:EXPORT_HUGO_SLUG: 2022-12-04
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-04 Sun 05:13]
+:END:
+
+For some reason, Hugo's built-in RSS template only includes post summaries, which feels like a selfish default. I've copied and tweaked the default to use full content. Also, it was only showing entries of type "posts", so I've added "journal" entries and limited the whole thing to 20 items.
+
+
 **** DONE Saturday, December 03, 2022
 CLOSED: [2022-12-03 Sat 05:17]
 :PROPERTIES:
@@ -86,7 +100,6 @@ There are days I wish I'd never met Emacs because now I'm married to it and that
 
 I'm thinking of changing my rating system from 5-stars to 3-stars.
 
-
 **** DONE Thursday, December 01, 2022
 CLOSED: [2022-12-01 Thu 05:02]
 :PROPERTIES:
@@ -114,8 +127,6 @@ called on and want to reference what was just being said, just rewind to see the
 There are times I grow weary of using Emacs (and /any/ plain text) and start looking at prettier, pointy-clickier alternatives. This is dumb, because Emacs and Org-mode are so completely flexible and powerful that everything else pales in comparison. The novelty soon wears off and I'm back home in Emacs.
 
 I'm giving up on scanning film with a digital camera. That process is even more annoying than using a clunky flatbed and the awful SilverFast. Last thing I want is to dick around with RAW files from my film negatives or be forced to use Lightroom because Negative Lab Pro is the only decent option for conversion. Not dealing with all that is half the reason for shooting film in the first place. Trading my Lumix S5 for a V850.
-
-
 
 *** November 2022
 **** DONE Wednesday, November 30, 2022
@@ -3231,7 +3242,7 @@ CLOSED: [2022-12-02 Fri 12:48]
 
 There are some great tools for bringing web content into Markdown files, but few that offer the same utility for Org-mode ([[https://gitlab.com/publicvoit/orgdown][Orgdown]]) files.
 
-For example, I use Markdownload extension all the time. It works great with nearly every site I use it on, but instead of Markdown, I'd prefer having Org syntax, so I've worked around it by creating a function which converts the current region from Markdown to Org.
+For example, I use [[https://github.com/deathau/markdownload][Markdownload extension]] all the time. It works great with nearly every site I use it on, but instead of Markdown, I'd prefer having Org syntax, so I've worked around it by creating a function[fn:2] which converts the current region from Markdown to Org.
 
 #+begin_src emacs-lisp
 (defun jab/md-to-org-region (start end)
@@ -3241,6 +3252,8 @@ For example, I use Markdownload extension all the time. It works great with near
 #+end_src
 
 I copy the Markdown from the Markdownload window, paste it into an Org buffer, and run the function. It's not perfect, but until someone creates an "Orgdownload" extension, it'll do. (Pretty please, will someone create an Orgdownload extension?)
+
+
 
 
 
@@ -3263,7 +3276,6 @@ I'm a latecomer to AI, but I just had my first real AI revelation moment while u
 Can you imagine where this leads? I didn't really /get/ it, until having the above conversation. I'd love being in high school right now. It's like being in that brief period where calculators were still rare, so having one was like cheating. AI feels like cheating, in a good way.
 
 This feels like the first time I dragged and resized a filled shape in MacPaint on my Macintosh Plus. Or the first time I pinched-to-zoom on the original iPhone.
-
 
 
 
@@ -4226,6 +4238,7 @@ CLOSED: [2022-08-05 Fri 11:38]
 Amazon bought Roomba. I wonder if this means that I'll be able to buy a Roomba for $69 in exchange for sending Amazon a detailed map of my house.
 
 * Footnotes
+[fn:2] I may have copied this idea from somewhere but I don't have a reference. If it was you, I apologize for not giving credit. Send me a note!
 
 [fn:1] Galaxy Brain. “The Dark Side of Frictionless Technology,” September 20, 2022. https://newsletters.theatlantic.com/galaxy-brain/6328fa97bcbd490021b314da/personal-tech-obsolete-user-experience/.
 
