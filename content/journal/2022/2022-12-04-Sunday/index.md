@@ -1,7 +1,7 @@
 ---
 title: "Sunday, December 04, 2022"
 date: 2022-12-04T05:13:00-05:00
-lastmod: 2022-12-04T07:58:20-05:00
+lastmod: 2022-12-04T14:24:07-05:00
 slug: 2022-12-04
 draft: false
 weight: 0
@@ -11,7 +11,7 @@ What shall we talk about today? Oh, I ordered a [Fujifilm X-T5](https://www.bhph
 
 For some reason, Hugo's built-in RSS template only includes post summaries, which feels like a selfish default. I've copied and tweaked the default to use full content. Also, it was including all kinds of pages so I've restricted it to entries of type "posts" and "journal" and limited the whole thing to 20 items.
 
-I'm happy overall with this Hugo blog and theme, which means I'll probably switch to WordPress or something soon.
+I'm happy overall with this Hugo blog and theme, which means I'll probably switch to WordPress or something soon. **UPDATE** Instead of replacing baty.net, I moved [Copingmechanism.com](https://copingmechanism.com) from Ghost to WordPress with a fresh new theme. Hopefully, I got that out of my system.
 
 
 [//]: # "Exported with love from a post written in Org mode"
