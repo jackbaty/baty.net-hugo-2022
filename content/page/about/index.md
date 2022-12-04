@@ -11,7 +11,7 @@ weight = 4
 
 {{< figure src="./jack-headshot-250.jpg" caption="Your host, Jack Baty" class="image-right" >}}
 
-I have been a web developer, project manager, and partner at Fusionary Media from 1995 until we sold the company in 2020. I’m currently on a temporary sabbatical. If there’s anything you think I could do for you, let me know. I've been at this a long time. I'm good at process definition,  requirements, user experience, documentation, and product/project management. I like to work with dev teams on whatever fascinates them.
+I was a developer, project manager, and partner at [Fusionary Media](https://fusionary.com) from 1995 until we sold the company in 2020. I’m currently on a (temporary) sabbatical. If there’s anything you think I could do for you, let me know. I've been at this a long time. I'm good at process definition,  requirements, user experience, documentation, and product/project management. I like to work with dev teams on whatever fascinates them.
 
 My favorite hobbies are photography and tinkering on the web.
 
