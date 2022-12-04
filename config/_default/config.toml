@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 paginate = 100
 summaryLength = 0
-# rssLimit = 20
+rssLimit = 20
 
 [permalinks]
   posts = '/:year/:slug/'
