@@ -32,7 +32,11 @@ CLOSED: [2022-12-04 Sun 05:13]
 - State "DONE"       from "TODO"       [2022-12-04 Sun 05:13]
 :END:
 
-For some reason, Hugo's built-in RSS template only includes post summaries, which feels like a selfish default. I've copied and tweaked the default to use full content. Also, it was only showing entries of type "posts", so I've added "journal" entries and limited the whole thing to 20 items.
+What shall we talk about today? Oh, I ordered a [[https://www.bhphotovideo.com/c/product/1731283-REG/fujifilm_16782636_x_t5_mirrorless_camera_with.html][Fujifilm X-T5]] and am selling the Panasonic Lumix S5. I don't enjoy using the S5 so it, and lenses, are going. I'm trading the S5 body for 3 Fuji lenses: 23mm f2, 35mm f1.4, and 56mm f1.2. This means I'll also need a macro lens if I want to scan 120 or 4x5 film negatives. I can live with that. I'm looking forward to having a digital camera with real dials for the important things again.
+
+For some reason, Hugo's built-in RSS template only includes post summaries, which feels like a selfish default. I've copied and tweaked the default to use full content. Also, it was including all kinds of pages so I've restricted it to entries of type "posts" and "journal" and limited the whole thing to 20 items.
+
+
 
 
 **** DONE Saturday, December 03, 2022
