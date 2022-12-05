@@ -1,7 +1,7 @@
 ---
 title: "Monday, December 05, 2022"
 date: 2022-12-05T04:53:00-05:00
-lastmod: 2022-12-05T09:35:46-05:00
+lastmod: 2022-12-05T15:24:59-05:00
 slug: 2022-12-05
 draft: false
 weight: 0
@@ -16,6 +16,8 @@ AI continues to enthrall everyone. Here's DHH on AI creativity vs humans:
 Fair questions. I just wish he wouldn't keep calling us "mere humans".
 
 In the meantime, JFC stop posting every single conversation you have with ChatGPT. It's _already_ boring.
+
+I'm _this_ close to replacing Hugo with WordPress here. I promised myself I'd never do it again but I don't listen. Prepare for interruptions.
 
 
 [//]: # "Exported with love from a post written in Org mode"
