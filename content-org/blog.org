@@ -21,6 +21,29 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** December 2022
+**** DONE Monday, December 05, 2022
+CLOSED: [2022-12-05 Mon 04:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-12-05-Monday
+:EXPORT_HUGO_SLUG: 2022-12-05
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-05 Mon 04:53]
+:END:
+
+AI continues to enthrall everyone. Here's DHH on AI creativity vs humans:
+
+#+begin_quote
+Why shouldn't the same be true of AI generated novels, plays, or movies? What realm of creative production does not benefit from the out-of-the-norm inferences that computers have already proven they can make within the bounds of chess and go to great effect? Is what we call human creativity all that different from a large language model anyway? A distillation of observations, inputs, mimetic tendencies, and a wetware random generator?
+
+DHH, [[https://world.hey.com/dhh/more-creative-than-mere-humans-af8e6220][More creative than mere humans]]
+#+end_quote
+
+Fair questions. I just wish he wouldn't keep calling us "mere humans".
+
+In the meantime, JFC stop posting every single conversation you have with ChatGPT. It's /already/ boring.
+
 **** DONE Sunday, December 04, 2022
 CLOSED: [2022-12-04 Sun 05:13]
 :PROPERTIES:
@@ -37,7 +60,6 @@ What shall we talk about today? Oh, I ordered a [[https://www.bhphotovideo.com/c
 For some reason, Hugo's built-in RSS template only includes post summaries, which feels like a selfish default. I've copied and tweaked the default to use full content. Also, it was including all kinds of pages so I've restricted it to entries of type "posts" and "journal" and limited the whole thing to 20 items.
 
 I'm happy overall with this Hugo blog and theme, which means I'll probably switch to WordPress or something soon. *UPDATE* Instead of replacing baty.net, I moved [[https://copingmechanism.com][Copingmechanism.com]] from Ghost to WordPress with a fresh new theme. Hopefully, I got that out of my system.
-
 
 
 
