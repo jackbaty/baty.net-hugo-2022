@@ -21,6 +21,19 @@
 :EXPORT_HUGO_SECTION: journal/2022
 :END:
 *** December 2022
+**** DONE Tuesday, December 06, 2022
+CLOSED: [2022-12-06 Tue 17:55]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2022-12-06-Tuesday
+:EXPORT_HUGO_SLUG: 2022-12-06
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-06 Tue 17:55]
+:END:
+
+I may be making some pretty drastic changes around here over the coming days. Sorry for any disruption.
+
 **** DONE Monday, December 05, 2022
 CLOSED: [2022-12-05 Mon 04:53]
 :PROPERTIES:
