@@ -3271,6 +3271,20 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: posts/2022
 :END:
 *** December 2022
+**** DONE Baty.net is moving to WordPress
+CLOSED: [2022-12-07 Wed 05:51]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221207-baty.net-is-moving-to-wordpress
+:EXPORT_HUGO_SLUG: baty.net-is-moving-to-wordpress
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-07 Wed 05:51]
+:END:
+
+I'm moving this blog from Hugo to WordPress over the next day or two. I've had my fill of using SSGs for publishing and I need a change of pace. We've been here before...several times. The RSS feed will change from =/index.xml= to =/feed/=. I'll be sure to add a redirect. See you on the other side!
+
+
 **** DONE Converting Markdown to Org-mode syntax in current buffer :@Emacs:
 CLOSED: [2022-12-02 Fri 12:48]
 :PROPERTIES:

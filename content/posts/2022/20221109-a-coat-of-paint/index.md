@@ -13,4 +13,4 @@ So, I've installed the theme module and implementing my first round of customiza
 
 Currently, featured images are broken because (of course) Congo does them differently than earlier themes. I'll work through fixing those soon.
 
-If you see anything you hate or that is otherwise broken, [{{< icon "email" >}} let me know](mailto:jack@baty.net)
+If you see anything you hate or that is otherwise broken, [let me know](mailto:jack@baty.net)

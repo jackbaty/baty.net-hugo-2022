@@ -6,9 +6,7 @@ categories: ["Blogging"]
 tags: ["Webdev"]
 ---
 
-{{< alert >}}
 **Note** Pagefind is no longer used on this site, due to a theme change.
-{{< /alert >}}
 
 I was made aware of [Pagefind](https://pagefind.app/) via a [post by Bryce Wray](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/).
 
