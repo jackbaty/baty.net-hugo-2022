@@ -29,7 +29,7 @@ enableCodeCopy = false
 [homepage]
   layout = "profile" # valid options: page, profile, custom
   showRecent = false
-  showJournal = true # currently unused
+  showJournal = false # currently unused
 
 [article]
   showDate = true

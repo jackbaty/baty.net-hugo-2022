@@ -3271,6 +3271,53 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: posts/2022
 :END:
 *** December 2022
+**** DONE Beyond the Infinite
+CLOSED: [2022-12-05 Fri 10:43]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221216-beyond-the-infinite
+:EXPORT_HUGO_SLUG: beyond-the-infinite
+:END:
+
+I collect a lot of “stuff” on my computer. I’m one of those lazy people who just drop most of it onto my Desktop and assume I’ll figure out what to do with it later. The problem is, I rarely actually figure out what to do with most of it.
+
+Late last year I created a folder on my Mac’s desktop named “Beyond the Infinite” 1. Anything that ends up on my desktop that isn’t important enough to file away but is something that I’d still like to keep, “just in case,” gets tossed into Beyond the Infinite.
+
+It’s become a minor treasure. It’s like a journal of things that barely matter at the time, but become valuable later. Screenshots, text snippets, URLs, etc. I love it.
+
+[[file:beyond-the-infinite.png]]
+
+
+
+
+**** DONE Mere Humans
+CLOSED: [2022-12-05 Mon 10:09]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221216-mere-humans
+:EXPORT_HUGO_SLUG: mere-humans
+:END:
+
+
+AI continues to enthrall everyone. Here’s DHH on AI creativity vs humans:
+
+#+begin_quote
+Why shouldn’t the same be true of AI generated novels, plays, or movies? What realm of creative production does not benefit from the out-of-the-norm inferences that computers have already proven they can make within the bounds of chess and go to great effect? Is what we call human creativity all that different from a large language model anyway? A distillation of observations, inputs, mimetic tendencies, and a wetware random generator?
+
+DHH, [[https://world.hey.com/dhh/more-creative-than-mere-humans-af8e6220][More creative than mere humans]]
+#+end_quote
+
+Fair questions. I just wish he wouldn’t keep calling us “mere humans”.
+
+#+attr_html: :class sideImage
+@@html:![](/img/small/openai.png)@@
+
+
+I was playing with the amazing [[https://chat.openai.com/chat][ChatGPT]] and it felt like something new. Using it felt like the first time I dragged to resize a filled shape in MacPaint on my Macintosh Plus.
+
+I imagine that before too long, just like filled shapes in a drawing program, AI will become just another boring, everyday tool. But not today. Today, to this mere human, it’s magic.
+
+
 **** DONE Baty.net is moving to WordPress
 CLOSED: [2022-12-07 Wed 05:51]
 :PROPERTIES:
@@ -3283,7 +3330,6 @@ CLOSED: [2022-12-07 Wed 05:51]
 :END:
 
 I'm moving this blog from Hugo to WordPress over the next day or two. I've had my fill of using SSGs for publishing and I need a change of pace. We've been here before...several times. The RSS feed will change from =/index.xml= to =/feed/=. I'll be sure to add a redirect. See you on the other side!
-
 
 **** DONE Converting Markdown to Org-mode syntax in current buffer :@Emacs:
 CLOSED: [2022-12-02 Fri 12:48]
@@ -3312,7 +3358,6 @@ I copy the Markdown from the Markdownload window, paste it into an Org buffer, a
 
 
 
-
 **** DONE My first real AI moment
 CLOSED: [2022-12-01 Thu 06:00]
 :PROPERTIES:
@@ -3332,7 +3377,6 @@ I'm a latecomer to AI, but I just had my first real AI revelation moment while u
 Can you imagine where this leads? I didn't really /get/ it, until having the above conversation. I'd love being in high school right now. It's like being in that brief period where calculators were still rare, so having one was like cheating. AI feels like cheating, in a good way.
 
 This feels like the first time I dragged and resized a filled shape in MacPaint on my Macintosh Plus. Or the first time I pinched-to-zoom on the original iPhone.
-
 
 
 *** November 2022
