@@ -75,8 +75,6 @@ For some reason, Hugo's built-in RSS template only includes post summaries, whic
 
 I'm happy overall with this Hugo blog and theme, which means I'll probably switch to WordPress or something soon. *UPDATE* Instead of replacing baty.net, I moved [[https://copingmechanism.com][Copingmechanism.com]] from Ghost to WordPress with a fresh new theme. Hopefully, I got that out of my system.
 
-
-
 **** DONE Saturday, December 03, 2022
 CLOSED: [2022-12-03 Sat 05:17]
 :PROPERTIES:
@@ -3266,13 +3264,33 @@ I should take a closer look at [[https://sr.ht/][sourcehut]]
 Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.]] Rather than the emacs-mac package. *UPDATE* Nope, doesn't work yet on M1 Macs.
 
 * Posts
+** 2023
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts/2023
+:END:
+*** January 2023
+**** DONE Shhh, let's not tell anyone :@meta:
+CLOSED: [2023-01-13 Fri 06:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230113-shhh-lets-not-tell-anyone
+:EXPORT_HUGO_SLUG: shhh-lets-not-tell-anyone
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-13 Fri 06:17]
+:END:
+
+No one knows this site even exists, so it's kind of fun posting stuff here once in a while.
+
+
 ** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2022
 :END:
 *** December 2022
+
 **** DONE Beyond the Infinite
-CLOSED: [2022-12-05 Fri 10:43]
+CLOSED: [2022-12-05 Mon 10:43]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 20221216-beyond-the-infinite
@@ -3286,8 +3304,6 @@ Late last year I created a folder on my Mac’s desktop named “Beyond the Infi
 It’s become a minor treasure. It’s like a journal of things that barely matter at the time, but become valuable later. Screenshots, text snippets, URLs, etc. I love it.
 
 [[file:beyond-the-infinite.png]]
-
-
 
 
 **** DONE Mere Humans
@@ -3316,7 +3332,6 @@ Fair questions. I just wish he wouldn’t keep calling us “mere humans”.
 I was playing with the amazing [[https://chat.openai.com/chat][ChatGPT]] and it felt like something new. Using it felt like the first time I dragged to resize a filled shape in MacPaint on my Macintosh Plus.
 
 I imagine that before too long, just like filled shapes in a drawing program, AI will become just another boring, everyday tool. But not today. Today, to this mere human, it’s magic.
-
 
 **** DONE Baty.net is moving to WordPress
 CLOSED: [2022-12-07 Wed 05:51]
