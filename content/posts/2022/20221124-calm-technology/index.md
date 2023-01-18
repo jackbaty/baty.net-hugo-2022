@@ -5,6 +5,7 @@ lastmod: 2022-11-24T05:16:40-05:00
 slug: "calm-technology"
 draft: false
 weight: 0
+coverCaption: "Mmmm, so calm"
 ---
 
 I'm overwhelmed by social media right now. Visiting Twitter just makes me anxious because it's become an even bigger shit-show and all anyone can talk about is how much of a shit-show it is.

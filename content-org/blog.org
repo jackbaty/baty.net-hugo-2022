@@ -3269,6 +3269,22 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** January 2023
+
+**** DONE Testing Cover Captions :@meta:
+CLOSED: [2023-01-18 Wed 11:45]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230118-testing-cover-captions
+:EXPORT_HUGO_SLUG: testing-cover-captions
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption This is the caption for the cover image :coverAlt Post cover
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-18 Wed 11:45]
+:END:
+
+This is only a test of the new "cover captions" feature of the latest [[https://github.com/jpanther/congo/releases/tag/v2.5.0][Congo theme release (2.5.0)]]. Congo is clever about how it handles post images, but there was no way to include a caption for featured (aka cover) images on a post. Now there is, as you can tell (assuming the blog still uses Congo when you're reading this).
+
+
 **** DONE Shhh, let's not tell anyone :@meta:
 CLOSED: [2023-01-13 Fri 06:17]
 :PROPERTIES:
