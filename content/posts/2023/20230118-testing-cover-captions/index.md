@@ -1,7 +1,7 @@
 ---
 title: "Testing Cover Captions"
 date: 2023-01-18T11:45:00-05:00
-lastmod: 2023-01-18T11:52:06-05:00
+lastmod: 2023-01-21T09:56:59-05:00
 slug: "testing-cover-captions"
 categories: ["meta"]
 draft: false

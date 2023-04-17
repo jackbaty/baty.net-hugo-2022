@@ -3268,6 +3268,49 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
+*** February 2023
+**** DONE Taking notes while reading
+CLOSED: [2023-02-20 Mon 07:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230220-taking-notes-while-reading
+:EXPORT_HUGO_SLUG: taking-notes-while-reading
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption My reading notes for "Why People Photograph", by Robert Adams :coverAlt Book and notes on index card
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-02-20 Mon 07:17]
+:END:
+
+{{{img(booknotes.jpg,Reading notes for 'Why People Photograph', by Robert Adams)}}}
+
+In a recent post, My Antinet and Barthes’ “Camera Lucida”, I wrote about having shelves filled with books that I remember nothing about. Seems like a waste, no?
+
+Writing notes (by hand) while reading new books has completely changed the way I read and I am finding many benefits: More deliberate consumption, better recall, and a physical residue of the things I’ve read.
+
+As I read, I find myself looking for things to “keep”. I write brief keywords, quotes, and short phrases as references on 4×6 index cards. After completing a book, I re-read the notes and, if something triggers further interest, I re-visit the referenced pages and make longer notes on separate cards. Lots of people do something similar, but this is what I do and it’s been a great help.
+
+(I know this is all very “Zettelkasten-ey”, but I’m trying to avoid using trendy, sound-smart words for what’s basically just a box of notes.)
+
+**** DONE Using tags for org-refile-targets
+CLOSED: [2023-02-18 Sat 10:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230218-using-tags-for-org-refile-targets
+:EXPORT_HUGO_SLUG: using-tags-for-org-refile-targets
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption This is the caption :coverAlt Post cover
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-02-18 Sat 10:18]
+:END:
+
+Today I learned that I can use tags in Org files as a filter for org-refile-targets. My refile targets are mapped to org-agenda-files but limit them to only top-level headings in order to keep the list under control. Once in a while, though, I would like to make a more deeply nested heading available for refiling. I can do this by using =(:tag . "refile")=. Who knew?!
+
+#+begin_src emacs-lisp
+(setq org-refile-targets '((org-agenda-files :maxlevel . 1)
+                           (org-agenda-files :tag . "refile")))
+#+end_src
+
+
 *** January 2023
 
 **** DONE Testing Cover Captions :@meta:
@@ -3283,7 +3326,6 @@ CLOSED: [2023-01-18 Wed 11:45]
 :END:
 
 This is only a test of the new "cover captions" feature of the latest [[https://github.com/jpanther/congo/releases/tag/v2.5.0][Congo theme release (2.5.0)]]. Congo is clever about how it handles post images, but there was no way to include a caption for featured (aka cover) images on a post. Now there is, as you can tell (assuming the blog still uses Congo when you're reading this).
-
 
 **** DONE Shhh, let's not tell anyone :@meta:
 CLOSED: [2023-01-13 Fri 06:17]

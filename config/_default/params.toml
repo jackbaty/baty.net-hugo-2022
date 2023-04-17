@@ -27,9 +27,9 @@ enableCodeCopy = false
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, custom
+  layout = "page" # valid options: page, profile, custom
   showRecent = true
-  recentLimit = 3
+  recentLimit = 7
   showJournal = false # currently unused
 
 [article]
